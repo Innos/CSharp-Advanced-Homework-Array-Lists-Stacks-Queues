@@ -13,6 +13,7 @@ class StuckNumbers
         string[] input = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
         int[] numbers = input.Select(int.Parse).ToArray();
         GenerateFourDigitSubsets(numbers, input);
+
     }
 
     static void GenerateFourDigitSubsets(int[] numbers, string[] input)
@@ -34,7 +35,7 @@ class StuckNumbers
                             int c = numbers[i3];
                             int d = numbers[i4];
                             if (AreDifferent4(a, b, c, d) &&
-                            AreEqual((Convert.ToString(a) + Convert.ToString(b)), (Convert.ToString(c) + Convert.ToString(d))))
+                            AreEqual((input[i1] + input[i2]), (input[i3] + input[i4])))
                             {
                                 Console.WriteLine("{0}|{1}=={2}|{3}", a, b, c, d);
                                 hasSolution = true;
@@ -48,8 +49,10 @@ class StuckNumbers
         if (hasSolution == false)
         {
             Console.WriteLine("No");
+
         }
     }
+
 
     private static bool AreDifferent4(int a, int b, int c, int d)
     {
@@ -61,7 +64,6 @@ class StuckNumbers
                      && c != d);
         return isValid;
     }
-
     static bool AreEqual(string a, string b)
     {
         bool isValid = (a.Equals(b));

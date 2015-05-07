@@ -3,3 +3,6 @@ E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-Arr
 E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\04SequenceOfEqualStrings\bin\Debug\04SequenceOfEqualStrings.pdb
 E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\04SequenceOfEqualStrings\obj\Debug\04SequenceOfEqualStrings.exe
 E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\04SequenceOfEqualStrings\obj\Debug\04SequenceOfEqualStrings.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\04SequenceOfEqualStrings\bin\Debug\04SequenceOfEqualStrings.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\04SequenceOfEqualStrings\obj\Debug\04SequenceOfEqualStrings.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\04SequenceOfEqualStrings\obj\Debug\04SequenceOfEqualStrings.pdb
