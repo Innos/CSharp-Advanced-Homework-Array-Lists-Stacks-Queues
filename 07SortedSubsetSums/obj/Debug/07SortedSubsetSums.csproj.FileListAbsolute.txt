@@ -1,0 +1,6 @@
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\07SortedSubsetSums\bin\Debug\07SortedSubsetSums.exe.config
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\07SortedSubsetSums\bin\Debug\07SortedSubsetSums.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\07SortedSubsetSums\bin\Debug\07SortedSubsetSums.pdb
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\07SortedSubsetSums\obj\Debug\07SortedSubsetSums.csprojResolveAssemblyReference.cache
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\07SortedSubsetSums\obj\Debug\07SortedSubsetSums.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\07SortedSubsetSums\obj\Debug\07SortedSubsetSums.pdb

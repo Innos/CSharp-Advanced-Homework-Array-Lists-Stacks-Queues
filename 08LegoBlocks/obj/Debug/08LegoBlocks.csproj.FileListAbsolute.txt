@@ -1,0 +1,6 @@
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\08LegoBlocks\bin\Debug\08LegoBlocks.exe.config
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\08LegoBlocks\bin\Debug\08LegoBlocks.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\08LegoBlocks\bin\Debug\08LegoBlocks.pdb
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\08LegoBlocks\obj\Debug\08LegoBlocks.csprojResolveAssemblyReference.cache
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\08LegoBlocks\obj\Debug\08LegoBlocks.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\08LegoBlocks\obj\Debug\08LegoBlocks.pdb

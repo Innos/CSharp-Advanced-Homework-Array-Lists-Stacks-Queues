@@ -1,0 +1,6 @@
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\03CategorizeNumbers\bin\Debug\03CategorizeNumbers.exe.config
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\03CategorizeNumbers\bin\Debug\03CategorizeNumbers.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\03CategorizeNumbers\bin\Debug\03CategorizeNumbers.pdb
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\03CategorizeNumbers\obj\Debug\03CategorizeNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\03CategorizeNumbers\obj\Debug\03CategorizeNumbers.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\03CategorizeNumbers\obj\Debug\03CategorizeNumbers.pdb
