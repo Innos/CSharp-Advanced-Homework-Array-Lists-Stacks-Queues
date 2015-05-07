@@ -1,0 +1,6 @@
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\05LongestIncreasingSequence\bin\Debug\05LongestIncreasingSequence.exe.config
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\05LongestIncreasingSequence\bin\Debug\05LongestIncreasingSequence.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\05LongestIncreasingSequence\bin\Debug\05LongestIncreasingSequence.pdb
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\05LongestIncreasingSequence\obj\Debug\05LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\05LongestIncreasingSequence\obj\Debug\05LongestIncreasingSequence.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\05LongestIncreasingSequence\obj\Debug\05LongestIncreasingSequence.pdb
