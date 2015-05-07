@@ -18,13 +18,13 @@ class SortedSubsetSums
                               where (m & (1 << i)) != 0
                               select numbers[i])
                              .ToList())
-                            .Where(x => x.Sum() == targetSum)
-                            .OrderBy(l => l.Count)
-                            .ThenBy(l => l.First())
-                            .Select(l => l.OrderBy(z => z));
+                             .Where(x => x.Sum() == targetSum)
+                             .OrderBy(l => l.Count)
+                             .ThenBy(l => l.First())
+                             .Select(l => l.OrderBy(z => z));
         foreach (var subset in subsets)
         {
-            Console.WriteLine("{0} = {1}",String.Join(" + ",subset),targetSum);
+            Console.WriteLine("{0} = {1}", String.Join(" + ", subset), targetSum);
             solutionFound = true;
         }
         if (solutionFound == false)

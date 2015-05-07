@@ -11,8 +11,7 @@ class SubsetSums
     {
         bool solutionFound = false;
         int targetSum = int.Parse(Console.ReadLine());
-        int[] numbers = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
-        numbers = numbers.Distinct().ToArray();
+        int[] numbers = Console.ReadLine().Split().Select(int.Parse).Distinct().ToArray();
         var subsets = from m in Enumerable.Range(0, 1 << numbers.Length)
                       select
                             from i in Enumerable.Range(0, numbers.Length)
