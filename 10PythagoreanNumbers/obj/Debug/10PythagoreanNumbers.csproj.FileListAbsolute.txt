@@ -7,3 +7,6 @@ E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-Arr
 E:\Github Repositories\c# Advanced Homework 1\10PythagoreanNumbers\bin\Debug\10PythagoreanNumbers.exe.config
 E:\Github Repositories\c# Advanced Homework 1\10PythagoreanNumbers\obj\Debug\10PythagoreanNumbers.exe
 E:\Github Repositories\c# Advanced Homework 1\10PythagoreanNumbers\obj\Debug\10PythagoreanNumbers.pdb
+E:\Github Repositories\c# Advanced Homework 1\10PythagoreanNumbers\bin\Debug\10PythagoreanNumbers.exe
+E:\Github Repositories\c# Advanced Homework 1\10PythagoreanNumbers\bin\Debug\10PythagoreanNumbers.pdb
+E:\Github Repositories\c# Advanced Homework 1\10PythagoreanNumbers\obj\Debug\10PythagoreanNumbers.csprojResolveAssemblyReference.cache
