@@ -10,6 +10,7 @@ class PythagoreanNumbers
     static void Main(string[] args)
     {
         bool solution = false;
+        bool az = true;
         int count = int.Parse(Console.ReadLine());
         List<int> numbers = new List<int>();
         for (int i = 0; i < count; i++)
