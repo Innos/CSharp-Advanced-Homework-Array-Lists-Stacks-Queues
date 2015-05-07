@@ -1,0 +1,20 @@
+
+1. Java
+
+Java was specifically designed to have as few dependacnies as possible, it does this by having Java applications typically compiled to bytecode, which is then executed on  a Java virtual machine. It's one of the most popular languages for client-server web applications and is the main language to develop apps for Android, smartphones and tablets. Java is similiar to C# in the way that it derives much of it's syntax from C and C#, but differs in the platform independence that it has, while C# is Windows dependant.
+
+2. Java Script
+
+Java script is most commonly used as part of web browsers and boasts a high interactivity allowing client-side scripts to interact with the user, control the browser and alter the displayed document content, it's also very popular as a scripting language for games. As with Java, Java Script also shares similiar syntax with C#, but unlike C# Java Script is a non-typed scripting language, which means it typically runs uncompiled in browsers.
+
+3. PHP
+
+PHP is server-side scripting language designed for web development, together with a database like MySQL it forms the essential tools for building modern web aplications. PHP is used in the majority of today's data-driven websites and is the foundation technology for content management systems like WordPress. Unlike C#, PHP is primarily suited for creating web content, and it's main purpose isn't Object Oriented Programing.
+
+4. C++
+
+C++ is a general purpose programming language, it's designed with performance, efficiency and flexibility as main points. It's designed biased towards system programming, but also has found uses in desktop aplications, servers and performance-critical aplications.C ++ is also great for getting the most out of your processing power, developing hardware-accelerated games and memory-intensive apps for desktops, consoles and mobile devices. C# is a high level language that is component oriented, C++ is a low level (closer to machine code) and is platform neutral, unlike C# which is .NET platform dependant. 
+
+5. Python 
+
+Python is a general-purpose high level programming language. Designed for readability, it's syntax allows for the expressing of concepts in fewer lines of code. Python is used in almost everything, boasting frameworks for web apps, user interface, data analysis and even statistics. Compared to C#, Python wins in ease of learning, cross platform development and availability of open source libraries, on the other hand C# has a better standart library, performance and has more consistent syntax.

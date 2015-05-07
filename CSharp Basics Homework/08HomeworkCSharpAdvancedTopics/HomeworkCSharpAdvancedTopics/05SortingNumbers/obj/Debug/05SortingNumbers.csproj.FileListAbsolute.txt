@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\05SortingNumbers\bin\Debug\05SortingNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\05SortingNumbers\bin\Debug\05SortingNumbers.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\05SortingNumbers\bin\Debug\05SortingNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\05SortingNumbers\obj\Debug\05SortingNumbers.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\05SortingNumbers\obj\Debug\05SortingNumbers.pdb

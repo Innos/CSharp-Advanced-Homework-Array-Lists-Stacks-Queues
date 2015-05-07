@@ -1,0 +1,2 @@
+c:\users\innos\documents\visual studio 2013\Projects\CalculateHypotenuse\CalculateHypotenuse\bin\Debug\CalculateHypotenuse.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution2\CalculateHypotenuse\CalculateHypotenuse\bin\Debug\CalculateHypotenuse.exe.config

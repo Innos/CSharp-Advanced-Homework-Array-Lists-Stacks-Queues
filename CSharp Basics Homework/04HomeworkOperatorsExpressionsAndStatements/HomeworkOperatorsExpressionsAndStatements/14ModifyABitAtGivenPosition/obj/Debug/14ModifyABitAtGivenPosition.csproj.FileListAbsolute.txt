@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.pdb

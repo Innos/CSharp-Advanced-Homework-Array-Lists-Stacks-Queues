@@ -1,0 +1,8 @@
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\08PrintCurrentDate\bin\Debug\08PrintCurrentDate.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\08PrintCurrentDate\bin\Debug\08PrintCurrentDate.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\08PrintCurrentDate\bin\Debug\08PrintCurrentDate.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\08PrintCurrentDate\obj\Debug\08PrintCurrentDate.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\08PrintCurrentDate\obj\Debug\08PrintCurrentDate.pdb
+E:\Soft Uni\Homework\Lekciq 2\Solution1\08PrintCurrentDate\bin\Debug\08PrintCurrentDate.exe.config
+E:\Soft Uni\Homework\Lekciq 2\Solution1\08PrintCurrentDate\obj\Debug\08PrintCurrentDate.exe
+E:\Soft Uni\Homework\Lekciq 2\Solution1\08PrintCurrentDate\obj\Debug\08PrintCurrentDate.pdb

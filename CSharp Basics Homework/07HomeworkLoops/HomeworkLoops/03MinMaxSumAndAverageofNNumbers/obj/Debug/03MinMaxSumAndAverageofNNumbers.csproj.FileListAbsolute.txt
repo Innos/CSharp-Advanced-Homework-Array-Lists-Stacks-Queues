@@ -1,0 +1,9 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\03MinMaxSumAndAverageofNNumbers\bin\Debug\03MinMaxSumAndAverageofNNumbers.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\03MinMaxSumAndAverageofNNumbers\bin\Debug\03MinMaxSumAndAverageofNNumbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\03MinMaxSumAndAverageofNNumbers\bin\Debug\03MinMaxSumAndAverageofNNumbers.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\03MinMaxSumAndAverageofNNumbers\obj\Debug\03MinMaxSumAndAverageofNNumbers.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\03MinMaxSumAndAverageofNNumbers\obj\Debug\03MinMaxSumAndAverageofNNumbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\03MinMaxSumAndAverageofNNumbers\obj\Debug\03MinMaxSumAndAverageofNNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\03MinMaxSumAndAverageofNNumbers\bin\Debug\03MinMaxSumAndAverageofNNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\03MinMaxSumAndAverageofNNumbers\obj\Debug\03MinMaxSumAndAverageofNNumbers.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\03MinMaxSumAndAverageofNNumbers\obj\Debug\03MinMaxSumAndAverageofNNumbers.pdb

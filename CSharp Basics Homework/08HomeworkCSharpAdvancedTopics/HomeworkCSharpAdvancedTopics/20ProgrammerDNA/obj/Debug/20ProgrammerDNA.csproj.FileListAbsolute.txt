@@ -1,0 +1,2 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\20ProgrammerDNA\bin\Debug\20ProgrammerDNA.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\20ProgrammerDNA\bin\Debug\20ProgrammerDNA.exe.config

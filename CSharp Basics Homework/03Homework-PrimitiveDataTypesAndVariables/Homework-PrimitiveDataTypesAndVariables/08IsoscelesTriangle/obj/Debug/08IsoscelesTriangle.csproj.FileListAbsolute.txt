@@ -1,0 +1,12 @@
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.csprojResolveAssemblyReference.cache

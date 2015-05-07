@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\08LongestNonDecreasingSubsequence\bin\Debug\08LongestNonDecreasingSubsequence.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\08LongestNonDecreasingSubsequence\bin\Debug\08LongestNonDecreasingSubsequence.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\08LongestNonDecreasingSubsequence\bin\Debug\08LongestNonDecreasingSubsequence.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\08LongestNonDecreasingSubsequence\obj\Debug\08LongestNonDecreasingSubsequence.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\08LongestNonDecreasingSubsequence\obj\Debug\08LongestNonDecreasingSubsequence.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\08LongestNonDecreasingSubsequence\obj\Debug\08LongestNonDecreasingSubsequence.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\08LongestNonDecreasingSubsequence\bin\Debug\08LongestNonDecreasingSubsequence.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\08LongestNonDecreasingSubsequence\obj\Debug\08LongestNonDecreasingSubsequence.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\08LongestNonDecreasingSubsequence\obj\Debug\08LongestNonDecreasingSubsequence.pdb

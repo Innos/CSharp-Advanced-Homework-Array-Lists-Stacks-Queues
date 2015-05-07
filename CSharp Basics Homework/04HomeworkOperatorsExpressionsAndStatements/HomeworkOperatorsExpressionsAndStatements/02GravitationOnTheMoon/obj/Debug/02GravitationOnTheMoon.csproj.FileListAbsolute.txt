@@ -1,0 +1,8 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.pdb

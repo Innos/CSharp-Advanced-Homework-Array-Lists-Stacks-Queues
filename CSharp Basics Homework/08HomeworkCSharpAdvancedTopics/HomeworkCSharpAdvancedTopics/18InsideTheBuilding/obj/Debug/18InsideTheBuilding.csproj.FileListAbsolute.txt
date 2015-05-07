@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\18InsideTheBuilding\bin\Debug\18InsideTheBuilding.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\18InsideTheBuilding\bin\Debug\18InsideTheBuilding.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\18InsideTheBuilding\bin\Debug\18InsideTheBuilding.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\18InsideTheBuilding\obj\Debug\18InsideTheBuilding.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\18InsideTheBuilding\obj\Debug\18InsideTheBuilding.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\18InsideTheBuilding\obj\Debug\18InsideTheBuilding.pdb

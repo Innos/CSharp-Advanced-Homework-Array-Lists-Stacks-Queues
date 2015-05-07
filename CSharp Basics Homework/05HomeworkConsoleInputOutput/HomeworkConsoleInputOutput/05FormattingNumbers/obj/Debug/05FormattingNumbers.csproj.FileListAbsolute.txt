@@ -1,0 +1,9 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\05FormatingNumbers\bin\Debug\05FormatingNumbers.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\05FormatingNumbers\bin\Debug\05FormatingNumbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\05FormatingNumbers\bin\Debug\05FormatingNumbers.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\05FormatingNumbers\obj\Debug\05FormattingNumbers.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\05FormatingNumbers\obj\Debug\05FormatingNumbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\05FormatingNumbers\obj\Debug\05FormatingNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormatingNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\05FormattingNumbers\obj\Debug\05FormatingNumbers.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\05FormattingNumbers\obj\Debug\05FormatingNumbers.pdb

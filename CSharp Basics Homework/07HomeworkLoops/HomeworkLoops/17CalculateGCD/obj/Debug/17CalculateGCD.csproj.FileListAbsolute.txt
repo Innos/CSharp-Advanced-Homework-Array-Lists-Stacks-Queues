@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\17CalculateGCD\bin\Debug\17CalculateGCD.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\17CalculateGCD\bin\Debug\17CalculateGCD.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\17CalculateGCD\bin\Debug\17CalculateGCD.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\17CalculateGCD\obj\Debug\17CalculateGCD.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\17CalculateGCD\obj\Debug\17CalculateGCD.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\17CalculateGCD\obj\Debug\17CalculateGCD.pdb

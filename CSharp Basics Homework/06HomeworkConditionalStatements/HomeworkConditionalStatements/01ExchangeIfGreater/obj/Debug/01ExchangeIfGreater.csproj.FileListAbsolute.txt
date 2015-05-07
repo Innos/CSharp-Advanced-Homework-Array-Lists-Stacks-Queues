@@ -1,0 +1,9 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.pdb

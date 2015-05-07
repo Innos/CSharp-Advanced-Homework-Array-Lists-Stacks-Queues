@@ -1,0 +1,12 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\09PlayWithIntDoubleAndString\obj\Debug\09PlayWithIntDoubleAndString.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\09PlayWithIntDoubleAndString\obj\Debug\09PlayWithIntDoubleAndString.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\09PlayWithIntDoubleAndString\obj\Debug\09PlayWithIntDoubleAndString.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\09PlayWithIntDoubleAndString\obj\Debug\09PlayWithIntDoubleAndString.pdb

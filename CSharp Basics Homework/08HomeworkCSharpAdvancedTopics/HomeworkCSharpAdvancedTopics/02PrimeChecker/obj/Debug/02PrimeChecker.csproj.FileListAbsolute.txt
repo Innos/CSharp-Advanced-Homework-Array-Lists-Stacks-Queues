@@ -1,0 +1,10 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\02PrimeChecker\obj\Debug\02PrimeChecker.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\02PrimeChecker\obj\Debug\02PrimeChecker.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\02PrimeChecker\obj\Debug\02PrimeChecker.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\02PrimeChecker\obj\Debug\02PrimeChecker.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.pdb

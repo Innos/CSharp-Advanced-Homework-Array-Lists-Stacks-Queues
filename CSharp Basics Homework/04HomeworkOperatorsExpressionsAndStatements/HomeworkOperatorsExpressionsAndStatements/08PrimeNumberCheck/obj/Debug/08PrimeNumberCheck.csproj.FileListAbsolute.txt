@@ -1,0 +1,10 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.pdb

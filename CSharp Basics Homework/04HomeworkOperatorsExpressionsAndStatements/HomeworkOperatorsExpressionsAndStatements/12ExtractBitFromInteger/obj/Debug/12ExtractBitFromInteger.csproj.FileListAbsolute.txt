@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.pdb

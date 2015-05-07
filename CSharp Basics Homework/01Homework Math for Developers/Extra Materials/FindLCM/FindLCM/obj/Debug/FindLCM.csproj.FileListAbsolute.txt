@@ -1,0 +1,3 @@
+c:\users\innos\documents\visual studio 2013\Projects\FindLCM\FindLCM\bin\Debug\FindLCM.exe.config
+E:\Soft Uni\Homework\Lekciq 1\C# solution for homework I wrote\FindLCM\FindLCM\bin\Debug\FindLCM.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\01Homework Math for Developers\Extra Materials\FindLCM\FindLCM\bin\Debug\FindLCM.exe.config

@@ -1,0 +1,8 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb

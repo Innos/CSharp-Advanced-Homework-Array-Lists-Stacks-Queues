@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\07CalculateFactorialDivisionAndMultiplication\bin\Debug\07CalculateFactorialDivisionAndMultiplication.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\07CalculateFactorialDivisionAndMultiplication\bin\Debug\07CalculateFactorialDivisionAndMultiplication.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\07CalculateFactorialDivisionAndMultiplication\bin\Debug\07CalculateFactorialDivisionAndMultiplication.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\07CalculateFactorialDivisionAndMultiplication\obj\Debug\07CalculateFactorialDivisionAndMultiplication.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\07CalculateFactorialDivisionAndMultiplication\obj\Debug\07CalculateFactorialDivisionAndMultiplication.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\07CalculateFactorialDivisionAndMultiplication\obj\Debug\07CalculateFactorialDivisionAndMultiplication.csprojResolveAssemblyReference.cache

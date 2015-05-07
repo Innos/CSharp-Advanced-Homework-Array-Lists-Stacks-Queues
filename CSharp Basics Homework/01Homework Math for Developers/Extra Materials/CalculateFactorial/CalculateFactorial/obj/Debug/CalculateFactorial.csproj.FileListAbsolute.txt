@@ -1,0 +1,15 @@
+c:\users\innos\documents\visual studio 2013\Projects\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.exe.config
+c:\users\innos\documents\visual studio 2013\Projects\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.exe
+c:\users\innos\documents\visual studio 2013\Projects\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.pdb
+c:\users\innos\documents\visual studio 2013\Projects\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.csprojResolveAssemblyReference.cache
+c:\users\innos\documents\visual studio 2013\Projects\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.exe
+c:\users\innos\documents\visual studio 2013\Projects\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution2\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution2\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution2\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.pdb
+E:\Soft Uni\Homework\Lekciq 1\C# solution for homework I wrote\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.exe.config
+E:\Soft Uni\Homework\Lekciq 1\C# solution for homework I wrote\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.exe
+E:\Soft Uni\Homework\Lekciq 1\C# solution for homework I wrote\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.pdb
+E:\Soft Uni\Homework\Lekciq 1\C# solution for homework I wrote\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.exe
+E:\Soft Uni\Homework\Lekciq 1\C# solution for homework I wrote\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.pdb
+E:\Soft Uni\Homework\Lekciq 1\C# solution for homework I wrote\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.csprojResolveAssemblyReference.cache

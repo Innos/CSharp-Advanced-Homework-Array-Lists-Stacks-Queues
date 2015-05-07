@@ -1,0 +1,9 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\01NumbersFrom1ToN\bin\Debug\01NumbersFrom1ToN.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\01NumbersFrom1ToN\bin\Debug\01NumbersFrom1ToN.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\01NumbersFrom1ToN\bin\Debug\01NumbersFrom1ToN.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\01NumbersFrom1ToN\obj\Debug\01NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\01NumbersFrom1ToN\obj\Debug\01NumbersFrom1ToN.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\01NumbersFrom1ToN\obj\Debug\01NumbersFrom1ToN.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\01NumbersFrom1ToN\bin\Debug\01NumbersFrom1ToN.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\01NumbersFrom1ToN\obj\Debug\01NumbersFrom1ToN.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\01NumbersFrom1ToN\obj\Debug\01NumbersFrom1ToN.pdb

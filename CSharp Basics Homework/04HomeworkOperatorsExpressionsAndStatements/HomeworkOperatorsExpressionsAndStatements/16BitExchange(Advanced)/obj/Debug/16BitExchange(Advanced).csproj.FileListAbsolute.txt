@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\16BitExchange(Advanced)\bin\Debug\16BitExchange(Advanced).exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\16BitExchange(Advanced)\bin\Debug\16BitExchange(Advanced).exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\16BitExchange(Advanced)\bin\Debug\16BitExchange(Advanced).pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\16BitExchange(Advanced)\obj\Debug\16BitExchange(Advanced).csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\16BitExchange(Advanced)\obj\Debug\16BitExchange(Advanced).exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\16BitExchange(Advanced)\obj\Debug\16BitExchange(Advanced).pdb

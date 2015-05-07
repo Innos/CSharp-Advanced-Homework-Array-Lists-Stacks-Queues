@@ -1,0 +1,12 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb

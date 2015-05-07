@@ -1,0 +1,8 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\14LongestWordInAText\bin\Debug\14LongestWordInAText.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\14LongestWordInAText\bin\Debug\14LongestWordInAText.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\14LongestWordInAText\bin\Debug\14LongestWordInAText.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\14LongestWordInAText\obj\Debug\14LongestWordInAText.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\14LongestWordInAText\obj\Debug\14LongestWordInAText.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\14LongestWordInAText\bin\Debug\14LongestWordInAText.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\14LongestWordInAText\obj\Debug\14LongestWordInAText.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\14LongestWordInAText\obj\Debug\14LongestWordInAText.pdb

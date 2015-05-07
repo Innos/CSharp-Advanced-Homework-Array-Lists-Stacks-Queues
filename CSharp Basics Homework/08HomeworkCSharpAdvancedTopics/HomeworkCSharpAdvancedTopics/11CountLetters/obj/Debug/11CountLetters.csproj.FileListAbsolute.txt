@@ -1,0 +1,8 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\11CountLetters\bin\Debug\11CountLetters.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\11CountLetters\bin\Debug\11CountLetters.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\11CountLetters\bin\Debug\11CountLetters.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\11CountLetters\obj\Debug\11CountLetters.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\11CountLetters\obj\Debug\11CountLetters.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\11CountLetters\bin\Debug\11CountLetters.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\11CountLetters\obj\Debug\11CountLetters.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\11CountLetters\obj\Debug\11CountLetters.pdb

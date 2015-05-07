@@ -1,0 +1,8 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.pdb

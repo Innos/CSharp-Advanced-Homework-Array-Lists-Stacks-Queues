@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\09Trapezoids\bin\Debug\09Trapezoids.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\09Trapezoids\bin\Debug\09Trapezoids.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\09Trapezoids\bin\Debug\09Trapezoids.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\09Trapezoids\obj\Debug\09Trapezoids.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\09Trapezoids\obj\Debug\09Trapezoids.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\09Trapezoids\obj\Debug\09Trapezoids.pdb

@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.pdb

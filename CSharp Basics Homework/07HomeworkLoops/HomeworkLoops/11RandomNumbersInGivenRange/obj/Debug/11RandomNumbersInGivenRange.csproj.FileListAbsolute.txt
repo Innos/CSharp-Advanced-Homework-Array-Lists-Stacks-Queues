@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\11RandomNumbersInGivenRange\obj\Debug\11RandomNumbersInGivenRange.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\11RandomNumbersInGivenRange\obj\Debug\11RandomNumbersInGivenRange.pdb

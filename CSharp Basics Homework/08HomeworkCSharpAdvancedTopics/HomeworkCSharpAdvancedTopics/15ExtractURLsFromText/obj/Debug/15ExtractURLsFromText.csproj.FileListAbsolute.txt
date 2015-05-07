@@ -1,0 +1,8 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\15ExtractURLsFromText\bin\Debug\15ExtractURLsFromText.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\15ExtractURLsFromText\bin\Debug\15ExtractURLsFromText.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\15ExtractURLsFromText\bin\Debug\15ExtractURLsFromText.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\15ExtractURLsFromText\obj\Debug\15ExtractURLsFromText.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\15ExtractURLsFromText\obj\Debug\15ExtractURLsFromText.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\15ExtractURLsFromText\bin\Debug\15ExtractURLsFromText.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\15ExtractURLsFromText\obj\Debug\15ExtractURLsFromText.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\15ExtractURLsFromText\obj\Debug\15ExtractURLsFromText.pdb

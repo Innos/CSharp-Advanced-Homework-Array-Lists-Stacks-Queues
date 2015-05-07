@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\19SpiralMatrix\bin\Debug\19SpiralMatrix.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\19SpiralMatrix\bin\Debug\19SpiralMatrix.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\19SpiralMatrix\bin\Debug\19SpiralMatrix.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\19SpiralMatrix\obj\Debug\19SpiralMatrix.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\19SpiralMatrix\obj\Debug\19SpiralMatrix.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\19SpiralMatrix\obj\Debug\19SpiralMatrix.pdb

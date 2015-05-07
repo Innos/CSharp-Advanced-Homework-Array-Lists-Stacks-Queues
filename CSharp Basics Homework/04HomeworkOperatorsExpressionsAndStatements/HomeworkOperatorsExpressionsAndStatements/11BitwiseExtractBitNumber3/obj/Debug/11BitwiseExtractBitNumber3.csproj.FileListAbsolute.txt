@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\bin\Debug\11BitwiseExtractBitNumber3.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\bin\Debug\11BitwiseExtractBitNumber3.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\bin\Debug\11BitwiseExtractBitNumber3.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\obj\Debug\11BitwiseExtractBitNumber3.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\obj\Debug\11BitwiseExtractBitNumber3.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\11BitwiseExtractBitNumber3\obj\Debug\11BitwiseExtractBitNumber3.pdb

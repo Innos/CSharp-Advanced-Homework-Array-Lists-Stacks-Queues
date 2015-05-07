@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\14PrintTheASCIITable\obj\Debug\14PrintTheASCIITable.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\14PrintTheASCIITable\obj\Debug\14PrintTheASCIITable.pdb

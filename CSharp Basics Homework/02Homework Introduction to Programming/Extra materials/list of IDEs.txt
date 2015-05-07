@@ -1,0 +1,20 @@
+1. Eclipse
+
+Eclipse is a free open source editor, that was initially a Java environment, however with it's extensive lightweight plug-ins, it's capabilities have been dramatically increased allowing for support of a number of different languages such as C, C++, Python, Perl, PHP, Java, Ruby and more. It's considered pretty big in it's sphere and is recommended by many professional developers.
+
+2. NetBeans
+
+NetBeans is very close to Eclipse in the aspect, that it's free and open-source, recieves a lot of recommendations and support for tons of languages through plug-ins. NetBeans is also simple to install and use and boasts intuitive drag-and-drop interface with project templates and static libraries making it very beginner friendly.
+
+3. Microsoft Visual Studio
+
+Visual Studio is used to develop programs for Windows as well as web sites, web aplications, mobiles and even gaming consoles. It uses development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight.
+It also offers some support to non-Microsoft languages such as Python and Ruby. Visual Studio features a code editor with code completion and code refactoring, and integrated debugger, a form designer, web designer, class designer and database schema designer.
+
+4. MonoDevelop
+
+MonoDevelop is a free IDE designed primarily for C# and other .NET, but it's open to almost any language with some variation in supported languages across platforms. It allows for rapid development of desktop and ASP.NET web applications for Windows, Linux and Mac platforms, with the option to port applications in Visual Studio to Mac and Linux, thereby allowing for a consistent code base across platforms.
+
+5. CodeLite
+
+CodeLite is a free, open source cross-platform IDE for C and C++, it has been compiled and debugged using only free tools and works on all major platforms. It offers a variety of features such as two built-in completion engines, compilers, code refactoring, code navigation, syntax highlight and interactive debugger and a source code editor.

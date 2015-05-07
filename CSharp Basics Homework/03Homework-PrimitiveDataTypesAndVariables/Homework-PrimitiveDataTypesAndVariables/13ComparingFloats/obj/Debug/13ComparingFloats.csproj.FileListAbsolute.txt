@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.pdb

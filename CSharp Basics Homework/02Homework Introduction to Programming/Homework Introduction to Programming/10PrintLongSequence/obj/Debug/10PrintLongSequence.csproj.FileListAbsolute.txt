@@ -1,0 +1,12 @@
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\10PrintLongSequence\bin\Debug\10PrintLongSequence.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\10PrintLongSequence\obj\Debug\10PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\10PrintLongSequence\bin\Debug\10PrintLongSequence.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\10PrintLongSequence\bin\Debug\10PrintLongSequence.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\10PrintLongSequence\obj\Debug\10PrintLongSequence.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\10PrintLongSequence\obj\Debug\10PrintLongSequence.pdb
+E:\Soft Uni\Homework\Lekciq 2\Solution1\10PrintLongSequence\bin\Debug\10PrintLongSequence.exe.config
+E:\Soft Uni\Homework\Lekciq 2\Solution1\10PrintLongSequence\obj\Debug\10PrintLongSequence.exe
+E:\Soft Uni\Homework\Lekciq 2\Solution1\10PrintLongSequence\obj\Debug\10PrintLongSequence.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\Lekciq 2\Homework Introduction to Programming\10PrintLongSequence\bin\Debug\10PrintLongSequence.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\Lekciq 2\Homework Introduction to Programming\10PrintLongSequence\obj\Debug\10PrintLongSequence.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\Lekciq 2\Homework Introduction to Programming\10PrintLongSequence\obj\Debug\10PrintLongSequence.pdb

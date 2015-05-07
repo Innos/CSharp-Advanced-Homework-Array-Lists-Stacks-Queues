@@ -1,0 +1,12 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\bin\Debug\16CountingAWordInAText.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\bin\Debug\16CountingAWordInAText.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\bin\Debug\16CountingAWordInAText.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\obj\Debug\16CountingAWordInAText.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\obj\Debug\16CountingAWordInAText.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\obj\Debug\16CountingAWordInAText.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\bin\Debug\16CountingAWordInAText.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\obj\Debug\16CountingAWordInAText.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\obj\Debug\16CountingAWordInAText.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\bin\Debug\16CountingAWordInAText.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\bin\Debug\16CountingAWordInAText.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\16CountingAWordInAText\obj\Debug\16CountingAWordInAText.csprojResolveAssemblyReference.cache

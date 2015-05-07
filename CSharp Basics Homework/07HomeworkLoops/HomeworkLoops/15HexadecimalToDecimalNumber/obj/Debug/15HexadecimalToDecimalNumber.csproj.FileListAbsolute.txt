@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.pdb

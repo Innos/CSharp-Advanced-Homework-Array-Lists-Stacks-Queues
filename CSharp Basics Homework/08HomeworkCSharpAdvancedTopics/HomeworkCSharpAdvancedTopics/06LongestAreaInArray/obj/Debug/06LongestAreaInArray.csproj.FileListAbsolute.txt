@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.pdb

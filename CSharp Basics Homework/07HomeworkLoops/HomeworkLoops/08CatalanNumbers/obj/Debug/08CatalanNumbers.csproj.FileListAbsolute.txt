@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\08CatalanNumbers\bin\Debug\08CatalanNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\08CatalanNumbers\obj\Debug\08CatalanNumbers.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\08CatalanNumbers\obj\Debug\08CatalanNumbers.pdb

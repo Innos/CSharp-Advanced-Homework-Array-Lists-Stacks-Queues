@@ -1,0 +1,8 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.pdb

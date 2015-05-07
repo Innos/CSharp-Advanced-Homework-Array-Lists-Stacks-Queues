@@ -1,0 +1,7 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\11NumerAsWords\bin\Debug\11NumerAsWords.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\11NumerAsWords\bin\Debug\11NumerAsWords.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\11NumerAsWords\bin\Debug\11NumerAsWords.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\11NumerAsWords\bin\Debug\11NumerAsWords.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\11NumerAsWords\obj\Debug\11NumerAsWords.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\11NumerAsWords\obj\Debug\11NumerAsWords.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\11NumerAsWords\obj\Debug\11NumerAsWords.pdb

@@ -1,0 +1,13 @@
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\02PrintName\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\02PrintName\obj\Debug\ConsoleApplication1.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\02PrintName\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\02PrintName\bin\Debug\ConsoleApplication1.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\02PrintName\bin\Debug\ConsoleApplication1.pdb
+E:\Soft Uni\Homework\Lekciq 2\Solution1\02PrintName\bin\Debug\ConsoleApplication1.exe.config
+E:\Soft Uni\Homework\Lekciq 2\Solution1\02PrintName\obj\Debug\ConsoleApplication1.exe
+E:\Soft Uni\Homework\Lekciq 2\Solution1\02PrintName\obj\Debug\ConsoleApplication1.pdb

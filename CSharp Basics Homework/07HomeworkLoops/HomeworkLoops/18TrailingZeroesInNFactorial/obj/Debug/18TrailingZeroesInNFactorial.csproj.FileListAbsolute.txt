@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\18TrailingZeroesInNFactorial\bin\Debug\18TrailingZeroesInNFactorial.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\18TrailingZeroesInNFactorial\bin\Debug\18TrailingZeroesInNFactorial.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\18TrailingZeroesInNFactorial\bin\Debug\18TrailingZeroesInNFactorial.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\18TrailingZeroesInNFactorial\obj\Debug\18TrailingZeroesInNFactorial.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\18TrailingZeroesInNFactorial\obj\Debug\18TrailingZeroesInNFactorial.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\18TrailingZeroesInNFactorial\obj\Debug\18TrailingZeroesInNFactorial.pdb

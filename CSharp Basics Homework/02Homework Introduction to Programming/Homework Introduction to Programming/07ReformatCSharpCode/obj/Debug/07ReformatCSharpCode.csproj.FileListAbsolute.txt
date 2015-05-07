@@ -1,0 +1,5 @@
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\07ReformatCSharpCode\bin\Debug\07ReformatCSharpCode.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\07ReformatCSharpCode\bin\Debug\07ReformatCSharpCode.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\07ReformatCSharpCode\bin\Debug\07ReformatCSharpCode.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\07ReformatCSharpCode\obj\Debug\07ReformatCSharpCode.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\07ReformatCSharpCode\obj\Debug\07ReformatCSharpCode.pdb

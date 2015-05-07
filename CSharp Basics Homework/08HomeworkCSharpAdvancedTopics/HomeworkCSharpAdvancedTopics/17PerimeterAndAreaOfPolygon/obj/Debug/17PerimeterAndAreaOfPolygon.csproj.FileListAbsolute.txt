@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\17PerimeterAndAreaOfPolygon\bin\Debug\17PerimeterAndAreaOfPolygon.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\17PerimeterAndAreaOfPolygon\bin\Debug\17PerimeterAndAreaOfPolygon.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\17PerimeterAndAreaOfPolygon\bin\Debug\17PerimeterAndAreaOfPolygon.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\17PerimeterAndAreaOfPolygon\obj\Debug\17PerimeterAndAreaOfPolygon.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\17PerimeterAndAreaOfPolygon\obj\Debug\17PerimeterAndAreaOfPolygon.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\17PerimeterAndAreaOfPolygon\obj\Debug\17PerimeterAndAreaOfPolygon.pdb

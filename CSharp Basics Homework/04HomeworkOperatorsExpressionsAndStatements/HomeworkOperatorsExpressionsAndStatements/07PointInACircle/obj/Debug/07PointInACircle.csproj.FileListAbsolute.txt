@@ -1,0 +1,9 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\07PointInACircle\bin\Debug\07PointInACircle.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\07PointInACircle\bin\Debug\07PointInACircle.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\07PointInACircle\bin\Debug\07PointInACircle.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\07PointInACircle\obj\Debug\07PointInACircle.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\07PointInACircle\obj\Debug\07PointInACircle.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkOperatorsExpressionsAndStatements\07PointInACircle\obj\Debug\07PointInACircle.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\07PointInACircle\bin\Debug\07PointInACircle.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\07PointInACircle\obj\Debug\07PointInACircle.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\07PointInACircle\obj\Debug\07PointInACircle.pdb

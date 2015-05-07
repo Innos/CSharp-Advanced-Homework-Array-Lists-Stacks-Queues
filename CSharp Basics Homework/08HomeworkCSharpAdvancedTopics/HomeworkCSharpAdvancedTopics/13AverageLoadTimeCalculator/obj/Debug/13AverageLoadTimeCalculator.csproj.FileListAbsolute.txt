@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\15BitsExchange\bin\Debug\15BitsExchange.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\15BitsExchange\bin\Debug\15BitsExchange.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\15BitsExchange\obj\Debug\15BitsExchange.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\15BitsExchange\obj\Debug\15BitsExchange.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\15BitsExchange\obj\Debug\15BitsExchange.pdb

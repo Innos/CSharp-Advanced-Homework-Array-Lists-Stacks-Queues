@@ -1,0 +1,8 @@
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb

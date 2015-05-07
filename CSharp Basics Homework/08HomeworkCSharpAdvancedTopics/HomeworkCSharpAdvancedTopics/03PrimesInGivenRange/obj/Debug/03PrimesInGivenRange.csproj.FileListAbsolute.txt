@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.pdb

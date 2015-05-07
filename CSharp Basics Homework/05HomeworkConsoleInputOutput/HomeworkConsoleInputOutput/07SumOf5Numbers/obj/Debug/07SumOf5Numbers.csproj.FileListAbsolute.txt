@@ -1,0 +1,10 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\07SumOf5Numbers\obj\Debug\07SumOf5Numbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\07SumOf5Numbers\obj\Debug\07SumOf5Numbers.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\07SumOf5Numbers\obj\Debug\07SumOf5Numbers.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\07SumOf5Numbers\obj\Debug\07SumOf5Numbers.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.pdb

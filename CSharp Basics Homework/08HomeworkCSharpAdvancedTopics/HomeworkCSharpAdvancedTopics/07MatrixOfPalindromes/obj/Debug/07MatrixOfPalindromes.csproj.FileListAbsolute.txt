@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\07MatrixOfPalindromes\obj\Debug\07MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\07MatrixOfPalindromes\obj\Debug\07MatrixOfPalindromes.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\07MatrixOfPalindromes\obj\Debug\07MatrixOfPalindromes.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\07MatrixOfPalindromes\obj\Debug\07MatrixOfPalindromes.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\07MatrixOfPalindromes\obj\Debug\07MatrixOfPalindromes.pdb

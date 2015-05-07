@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.pdb

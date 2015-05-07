@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\11BankAccountData\obj\Debug\11BankAccountData.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\11BankAccountData\obj\Debug\11BankAccountData.pdb

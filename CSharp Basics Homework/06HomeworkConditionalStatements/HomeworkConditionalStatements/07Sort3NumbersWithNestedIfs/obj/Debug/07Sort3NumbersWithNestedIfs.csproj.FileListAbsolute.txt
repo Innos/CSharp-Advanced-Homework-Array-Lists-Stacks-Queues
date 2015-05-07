@@ -1,0 +1,8 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\07Sort3NumbersWithNestedIfs\bin\Debug\07Sort3NumbersWithNestedIfs.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\07Sort3NumbersWithNestedIfs\bin\Debug\07Sort3NumbersWithNestedIfs.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\07Sort3NumbersWithNestedIfs\bin\Debug\07Sort3NumbersWithNestedIfs.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\07Sort3NumbersWithNestedIfs\obj\Debug\07Sort3NumbersWithNestedIfs.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\07Sort3NumbersWithNestedIfs\obj\Debug\07Sort3NumbersWithNestedIfs.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\07Sort3NumbersWithNestedIfs\bin\Debug\07Sort3NumbersWithNestedIfs.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\07Sort3NumbersWithNestedIfs\obj\Debug\07Sort3NumbersWithNestedIfs.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\07Sort3NumbersWithNestedIfs\obj\Debug\07Sort3NumbersWithNestedIfs.pdb

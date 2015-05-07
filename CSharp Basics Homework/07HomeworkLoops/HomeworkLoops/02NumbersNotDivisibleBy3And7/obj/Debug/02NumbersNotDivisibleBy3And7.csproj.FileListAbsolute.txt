@@ -1,0 +1,8 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.pdb

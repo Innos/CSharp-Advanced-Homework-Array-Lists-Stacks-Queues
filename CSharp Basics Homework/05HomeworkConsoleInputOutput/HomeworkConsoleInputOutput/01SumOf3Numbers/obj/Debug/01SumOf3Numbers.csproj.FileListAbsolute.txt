@@ -1,0 +1,9 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.pdb

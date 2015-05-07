@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.pdb

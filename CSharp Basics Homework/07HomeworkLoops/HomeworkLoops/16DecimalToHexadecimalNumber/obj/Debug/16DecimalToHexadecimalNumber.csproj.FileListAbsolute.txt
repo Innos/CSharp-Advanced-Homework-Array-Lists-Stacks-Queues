@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\16DecimalToHexadecimalNumber\bin\Debug\16DecimalToHexadecimalNumber.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\16DecimalToHexadecimalNumber\bin\Debug\16DecimalToHexadecimalNumber.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\16DecimalToHexadecimalNumber\bin\Debug\16DecimalToHexadecimalNumber.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\16DecimalToHexadecimalNumber\obj\Debug\16DecimalToHexadecimalNumber.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\16DecimalToHexadecimalNumber\obj\Debug\16DecimalToHexadecimalNumber.pdb

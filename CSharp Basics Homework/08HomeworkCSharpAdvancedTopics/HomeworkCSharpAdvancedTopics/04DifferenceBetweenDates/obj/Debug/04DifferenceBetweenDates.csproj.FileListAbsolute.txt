@@ -1,0 +1,8 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.pdb
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe.config
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.exe
+E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-C# Advanced Topics\HomeworkCSharpAdvancedTopics\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.pdb

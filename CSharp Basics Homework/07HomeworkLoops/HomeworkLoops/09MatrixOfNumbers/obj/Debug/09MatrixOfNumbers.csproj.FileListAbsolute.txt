@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.pdb

@@ -1,0 +1,8 @@
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\05SquareRoot\bin\Debug\05SquareRoot.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\05SquareRoot\bin\Debug\05SquareRoot.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\05SquareRoot\bin\Debug\05SquareRoot.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\05SquareRoot\obj\Debug\05SquareRoot.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\05SquareRoot\obj\Debug\05SquareRoot.pdb
+E:\Soft Uni\Homework\Lekciq 2\Solution1\05SquareRoot\bin\Debug\05SquareRoot.exe.config
+E:\Soft Uni\Homework\Lekciq 2\Solution1\05SquareRoot\obj\Debug\05SquareRoot.exe
+E:\Soft Uni\Homework\Lekciq 2\Solution1\05SquareRoot\obj\Debug\05SquareRoot.pdb

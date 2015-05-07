@@ -1,0 +1,6 @@
+c:\users\innos\documents\visual studio 2013\Projects\Solution1\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\Hello World\bin\Debug\Hello World.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\Hello World\obj\Debug\Hello World.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\Hello World\obj\Debug\Hello World.pdb

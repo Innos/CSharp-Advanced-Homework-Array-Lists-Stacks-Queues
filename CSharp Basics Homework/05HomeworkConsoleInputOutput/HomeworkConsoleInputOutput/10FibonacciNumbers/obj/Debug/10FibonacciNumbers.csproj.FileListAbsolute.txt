@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb

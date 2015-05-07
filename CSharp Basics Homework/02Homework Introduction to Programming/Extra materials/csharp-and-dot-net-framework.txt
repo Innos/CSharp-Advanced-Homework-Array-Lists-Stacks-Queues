@@ -1,0 +1,1 @@
+C# is one of the languages built on the .NET framework, there are others like Vb(Visual Basic) while .NET is an application development framework - it contains numerous libraries containing a range of functionality. An analogy would be .NET is the fuel, while C# is the car that runs on it, VB would be a different model car.

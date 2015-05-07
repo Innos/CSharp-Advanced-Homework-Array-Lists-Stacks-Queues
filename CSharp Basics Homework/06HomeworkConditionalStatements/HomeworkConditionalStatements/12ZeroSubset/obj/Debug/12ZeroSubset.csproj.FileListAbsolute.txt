@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\12ZeroSubset\bin\Debug\12ZeroSubset.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\12ZeroSubset\bin\Debug\12ZeroSubset.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\12ZeroSubset\bin\Debug\12ZeroSubset.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\12ZeroSubset\obj\Debug\12ZeroSubset.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\12ZeroSubset\obj\Debug\12ZeroSubset.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\12ZeroSubset\obj\Debug\12ZeroSubset.pdb

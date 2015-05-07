@@ -1,0 +1,11 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.csprojResolveAssemblyReference.cache

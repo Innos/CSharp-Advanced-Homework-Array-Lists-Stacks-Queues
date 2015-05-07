@@ -1,0 +1,9 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\05CalculateFactorialDividedByX\bin\Debug\05CalculateFactorialDividedByX.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\05CalculateFactorialDividedByX\bin\Debug\05CalculateFactorialDividedByX.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\05CalculateFactorialDividedByX\bin\Debug\05CalculateFactorialDividedByX.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\05CalculateFactorialDividedByX\obj\Debug\05CalculateFactorialDividedByX.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\05CalculateFactorialDividedByX\obj\Debug\05CalculateFactorialDividedByX.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkLoops\05CalculateFactorialDividedByX\obj\Debug\05CalculateFactorialDividedByX.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\05CalculateFactorialDividedByX\bin\Debug\05CalculateFactorialDividedByX.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\05CalculateFactorialDividedByX\obj\Debug\05CalculateFactorialDividedByX.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\05CalculateFactorialDividedByX\obj\Debug\05CalculateFactorialDividedByX.pdb

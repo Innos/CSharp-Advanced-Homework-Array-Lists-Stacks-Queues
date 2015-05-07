@@ -1,0 +1,8 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.pdb

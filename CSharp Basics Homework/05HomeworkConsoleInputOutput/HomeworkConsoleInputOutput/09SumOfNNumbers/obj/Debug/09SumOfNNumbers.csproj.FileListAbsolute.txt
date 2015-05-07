@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.pdb

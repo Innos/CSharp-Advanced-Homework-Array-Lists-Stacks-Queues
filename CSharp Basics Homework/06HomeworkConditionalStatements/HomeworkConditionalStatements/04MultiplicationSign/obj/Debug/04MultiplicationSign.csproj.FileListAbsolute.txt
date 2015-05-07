@@ -1,0 +1,9 @@
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
+c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb

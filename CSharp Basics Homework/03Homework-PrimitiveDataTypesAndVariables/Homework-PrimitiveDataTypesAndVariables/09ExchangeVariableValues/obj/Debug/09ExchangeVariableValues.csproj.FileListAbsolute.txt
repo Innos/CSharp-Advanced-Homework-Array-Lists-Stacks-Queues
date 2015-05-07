@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb

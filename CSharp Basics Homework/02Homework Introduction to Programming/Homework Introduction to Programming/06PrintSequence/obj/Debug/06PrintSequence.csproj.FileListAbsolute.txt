@@ -1,0 +1,5 @@
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\06PrintSequence\bin\Debug\06PrintSequence.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\06PrintSequence\bin\Debug\06PrintSequence.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\06PrintSequence\bin\Debug\06PrintSequence.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\06PrintSequence\obj\Debug\06PrintSequence.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\06PrintSequence\obj\Debug\06PrintSequence.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\10EmployeeData\bin\Debug\10EmployeeData.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\10EmployeeData\bin\Debug\10EmployeeData.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\10EmployeeData\obj\Debug\10EmployeeData.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\10EmployeeData\obj\Debug\10EmployeeData.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\10EmployeeData\obj\Debug\10EmployeeData.pdb

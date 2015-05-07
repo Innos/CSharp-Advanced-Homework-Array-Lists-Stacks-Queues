@@ -1,0 +1,9 @@
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\04PrintFirstandLastName\bin\Debug\04PrintFirstandLastName.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\04PrintFirstandLastName\bin\Debug\04PrintFirstandLastName.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\04PrintFirstandLastName\bin\Debug\04PrintFirstandLastName.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\04PrintFirstandLastName\obj\Debug\04PrintFirstandLastName.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\04PrintFirstandLastName\obj\Debug\04PrintFirstandLastName.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\04PrintFirstandLastName\obj\Debug\04PrintFirstandLastName.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 2\Solution1\04PrintFirstandLastName\bin\Debug\04PrintFirstandLastName.exe.config
+E:\Soft Uni\Homework\Lekciq 2\Solution1\04PrintFirstandLastName\obj\Debug\04PrintFirstandLastName.exe
+E:\Soft Uni\Homework\Lekciq 2\Solution1\04PrintFirstandLastName\obj\Debug\04PrintFirstandLastName.pdb

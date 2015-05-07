@@ -1,0 +1,11 @@
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\03PrintNumbers\bin\Debug\03PrintNumbers.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\03PrintNumbers\bin\Debug\03PrintNumbers.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\03PrintNumbers\bin\Debug\03PrintNumbers.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\03PrintNumbers\obj\Debug\03PrintNumbers.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\03PrintNumbers\obj\Debug\03PrintNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 2\Solution1\03PrintNumbers\bin\Debug\03PrintNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 2\Solution1\03PrintNumbers\obj\Debug\03PrintNumbers.exe
+E:\Soft Uni\Homework\Lekciq 2\Solution1\03PrintNumbers\obj\Debug\03PrintNumbers.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\Lekciq 2\Homework Introduction to Programming\03PrintNumbers\bin\Debug\03PrintNumbers.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\Lekciq 2\Homework Introduction to Programming\03PrintNumbers\obj\Debug\03PrintNumbers.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\Lekciq 2\Homework Introduction to Programming\03PrintNumbers\obj\Debug\03PrintNumbers.pdb

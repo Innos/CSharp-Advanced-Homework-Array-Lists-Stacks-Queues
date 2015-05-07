@@ -1,0 +1,12 @@
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.csprojResolveAssemblyReference.cache

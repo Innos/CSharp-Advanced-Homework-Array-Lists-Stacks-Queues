@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.csprojResolveAssemblyReference.cache

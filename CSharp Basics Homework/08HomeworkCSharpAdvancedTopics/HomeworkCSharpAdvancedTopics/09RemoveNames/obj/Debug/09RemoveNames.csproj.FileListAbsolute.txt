@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\09RemoveNames\bin\Debug\09RemoveNames.exe.config
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\09RemoveNames\bin\Debug\09RemoveNames.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\09RemoveNames\bin\Debug\09RemoveNames.pdb
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\09RemoveNames\obj\Debug\09RemoveNames.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\09RemoveNames\obj\Debug\09RemoveNames.exe
+E:\Soft Uni\Homework\Lekciq 8\HomeworkCSharpAdvancedTopics\09RemoveNames\obj\Debug\09RemoveNames.pdb
