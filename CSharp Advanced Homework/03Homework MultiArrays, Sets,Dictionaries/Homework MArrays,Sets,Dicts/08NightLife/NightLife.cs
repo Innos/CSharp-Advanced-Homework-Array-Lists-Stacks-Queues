@@ -10,8 +10,13 @@ class NightLife
     static void Main(string[] args)
     {
         var schedule = new Dictionary<string, SortedDictionary<string, SortedSet<string>>>();
-        string input = Console.ReadLine();
+        FillDictionary(schedule);
+        Print(schedule);
+    }
 
+    static void FillDictionary(Dictionary<string, SortedDictionary<string, SortedSet<string>>> schedule)
+    {
+        string input = Console.ReadLine();
         while (input != "END")
         {
             //declarations and intialization
@@ -19,11 +24,8 @@ class NightLife
             string city = splitInput[0];
             string club = splitInput[1];
             string performer = splitInput[2];
-            var performers = new SortedSet<string>();
-            var clubs = new SortedDictionary<string, SortedSet<string>>();
-
-            performers.Add(performer);
-            clubs.Add(club, performers);
+            var performers = new SortedSet<string>(){performer};
+            var clubs = new SortedDictionary<string, SortedSet<string>>(){{club, performers}};
 
             //if there is no entry for this city add a new entry
             if (!schedule.Keys.Contains(city))
@@ -34,7 +36,7 @@ class NightLife
             else
             {
                 //if the city doesn't have an entry for this club add a new entry
-                if(!schedule[city].Keys.Contains(club))
+                if (!schedule[city].Keys.Contains(club))
                 {
                     schedule[city].Add(club, performers);
                 }
@@ -43,11 +45,13 @@ class NightLife
                 {
                     schedule[city][club].Add(performer);
                 }
-                
-                
             }
-            input = Console.ReadLine();      
+            input = Console.ReadLine();
         }
+    }
+
+    static void Print(Dictionary<string, SortedDictionary<string, SortedSet<string>>> schedule)
+    {
         foreach (var dict in schedule)
         {
             Console.WriteLine(dict.Key);

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11StringMatrixRotation", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12ToTheStars", "12ToTheStarts\12ToTheStars.csproj", "{A45F5928-466E-417F-9ABF-0A6295DBA7AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13ActivityTracker", "13ActivityTracker\13ActivityTracker.csproj", "{F476433F-D2C1-47AB-8D19-D18E0E627AEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{A45F5928-466E-417F-9ABF-0A6295DBA7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A45F5928-466E-417F-9ABF-0A6295DBA7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A45F5928-466E-417F-9ABF-0A6295DBA7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F476433F-D2C1-47AB-8D19-D18E0E627AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F476433F-D2C1-47AB-8D19-D18E0E627AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F476433F-D2C1-47AB-8D19-D18E0E627AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F476433F-D2C1-47AB-8D19-D18E0E627AEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
