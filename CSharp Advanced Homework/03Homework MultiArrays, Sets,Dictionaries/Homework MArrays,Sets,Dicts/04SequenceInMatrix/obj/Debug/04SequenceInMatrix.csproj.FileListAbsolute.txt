@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\04SequenceInMatrix\bin\Debug\04SequenceInMatrix.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\04SequenceInMatrix\bin\Debug\04SequenceInMatrix.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\04SequenceInMatrix\bin\Debug\04SequenceInMatrix.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\04SequenceInMatrix\obj\Debug\04SequenceInMatrix.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\04SequenceInMatrix\obj\Debug\04SequenceInMatrix.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\04SequenceInMatrix\obj\Debug\04SequenceInMatrix.pdb

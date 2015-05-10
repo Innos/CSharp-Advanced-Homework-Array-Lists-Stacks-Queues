@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\12ToTheStarts\bin\Debug\12ToTheStarts.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\12ToTheStarts\bin\Debug\12ToTheStarts.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\12ToTheStarts\bin\Debug\12ToTheStarts.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\12ToTheStarts\obj\Debug\12ToTheStars.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\12ToTheStarts\obj\Debug\12ToTheStarts.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\12ToTheStarts\obj\Debug\12ToTheStarts.pdb

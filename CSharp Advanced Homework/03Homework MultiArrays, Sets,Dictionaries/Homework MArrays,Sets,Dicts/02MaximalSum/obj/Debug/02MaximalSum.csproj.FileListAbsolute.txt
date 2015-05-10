@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\02MaximalSum\bin\Debug\02MaximalSum.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\02MaximalSum\obj\Debug\02MaximalSum.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\02MaximalSum\bin\Debug\02MaximalSum.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\02MaximalSum\bin\Debug\02MaximalSum.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\02MaximalSum\obj\Debug\02MaximalSum.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\02MaximalSum\obj\Debug\02MaximalSum.pdb

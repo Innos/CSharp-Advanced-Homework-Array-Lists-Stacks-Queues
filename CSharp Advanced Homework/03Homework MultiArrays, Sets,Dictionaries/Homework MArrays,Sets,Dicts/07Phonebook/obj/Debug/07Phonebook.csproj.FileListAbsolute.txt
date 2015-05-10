@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\07Phonebook\bin\Debug\07Phonebook.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\07Phonebook\bin\Debug\07Phonebook.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\07Phonebook\bin\Debug\07Phonebook.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\07Phonebook\obj\Debug\07Phonebook.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\07Phonebook\obj\Debug\07Phonebook.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\07Phonebook\obj\Debug\07Phonebook.pdb
