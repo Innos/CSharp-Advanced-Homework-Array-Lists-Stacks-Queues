@@ -66,8 +66,7 @@ class TerroristsWin
         {
             bombPower += sentence[l];
         }
-
-        bombPower = int.Parse(bombPower.ToString().Last().ToString());
+        bombPower = bombPower % 10;
         explosionRight = (innerLength + 2) + bombPower;
         explosionLeft = bombPower;
     }
