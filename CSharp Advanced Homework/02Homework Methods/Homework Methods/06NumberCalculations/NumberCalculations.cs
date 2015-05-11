@@ -10,17 +10,20 @@ class NumberCalculations
 {
     static void Main(string[] args)
     {
-        double [] test1 =  {124.12, 0.12, 111.4444444, 1.23456789};
-        decimal[] test2 = { 11.22222222222222222222222222m, 565656565.5656565656565m };
-        Console.WriteLine("Examples:");
-        Console.WriteLine("[{0}]",String.Join(", ",test1));
-        Console.WriteLine();
-        Console.WriteLine("Min -> {0}, Max -> {1}, Average -> {2}, Sum -> {3}, Product -> {4}", CalculateMin(test1), CalculateMax(test1), CalculateAverage(test1), CalculateSum(test1), CalculateProduct(test1));
-        Console.WriteLine();
-        Console.WriteLine("[{0}]", String.Join(", ", test2));
-        Console.WriteLine();
-        Console.WriteLine("Min -> {0}, Max -> {1}, Average -> {2} Sum -> {3}, Product -> {4}", CalculateMin(test2), CalculateMax(test2), CalculateAverage(test2), CalculateSum(test2), CalculateProduct(test2));
-        Console.WriteLine();
+        //Uncoment to check the null tests
+
+        //double [] test1 =  {124.12, 0.12, 111.4444444, 1.23456789};
+        //decimal[] test2 = { 11.22222222222222222222222222m, 565656565.5656565656565m };
+        //Console.WriteLine("Examples:");
+        //Console.WriteLine("[{0}]",String.Join(", ",test1));
+        //Console.WriteLine();
+        //Console.WriteLine("Min -> {0}, Max -> {1}, Average -> {2}, Sum -> {3}, Product -> {4}", CalculateMin(test1), CalculateMax(test1), CalculateAverage(test1), CalculateSum(test1), CalculateProduct(test1));
+        //Console.WriteLine();
+        //Console.WriteLine("[{0}]", String.Join(", ", test2));
+        //Console.WriteLine();
+        //Console.WriteLine("Min -> {0}, Max -> {1}, Average -> {2} Sum -> {3}, Product -> {4}", CalculateMin(test2), CalculateMax(test2), CalculateAverage(test2), CalculateSum(test2), CalculateProduct(test2));
+        //Console.WriteLine();
+
         Console.WriteLine("Input a sequence, all numbers on a single line seperated by a whitespace:");
         double[] input = (Console.ReadLine().Split()).Select(double.Parse).ToArray();
         Console.WriteLine("Min -> {0}, Max -> {1}, Average -> {2} Sum -> {3}, Product -> {4}", CalculateMin(input), CalculateMax(input), CalculateAverage(input), CalculateSum(input), CalculateProduct(input));

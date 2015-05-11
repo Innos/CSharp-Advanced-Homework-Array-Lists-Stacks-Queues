@@ -9,10 +9,22 @@ class LargerThanNeighbours
 {
     static void Main(string[] args)
     {
-        int[] numbers = { 1, 3, 4, 5, 1, 0, 5 };
-        for (int i = 0; i < numbers.Length; i++)
+        //Uncoment to check the null tests
+
+        //Console.Write("Example:");
+        //int[] numbers = { 1, 3, 4, 5, 1, 0, 5 };
+        //Console.WriteLine("[{0}]",String.Join(", ", numbers));
+        //for (int i = 0; i < numbers.Length; i++)
+        //{
+        //    Console.WriteLine(IsLargerThanNeighbours(i,numbers));
+        //}
+        //Console.WriteLine();
+
+        Console.WriteLine("Input a sequence on a single line, each entry seperated by a whitespace");
+        int[] nums = Console.ReadLine().Split().Select(int.Parse).ToArray();
+        for (int i = 0; i < nums.Length; i++)
         {
-            Console.WriteLine(IsLargerThanNeighbours(i,numbers));
+            Console.WriteLine(IsLargerThanNeighbours(i,nums));
         }
     }
     static bool IsLargerThanNeighbours(int position, int[] numbers)

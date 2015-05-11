@@ -9,9 +9,26 @@ class LastDigitOfNumber
 {
     static void Main(string[] args)
     {
-        Console.WriteLine(GetLastDigitAsWord(512));
-        Console.WriteLine(GetLastDigitAsWord(1024));
-        Console.WriteLine(GetLastDigitAsWord(12309));
+        //Uncoment to check the null tests
+
+        //int a = 512;
+        //int b = 1024;
+        //int c = 12309;
+        //Console.WriteLine("Examples:");
+        //Console.WriteLine(a);
+        //Console.WriteLine(GetLastDigitAsWord(a));
+        //Console.WriteLine();
+        //Console.WriteLine(b);
+        //Console.WriteLine(GetLastDigitAsWord(b));
+        //Console.WriteLine();
+        //Console.WriteLine(c);
+        //Console.WriteLine(GetLastDigitAsWord(c));
+        //Console.WriteLine();
+
+        Console.Write("Input a number: ");
+        int num = int.Parse(Console.ReadLine());
+        Console.WriteLine(GetLastDigitAsWord(num));
+
     }
 
     static string GetLastDigitAsWord(int x)
