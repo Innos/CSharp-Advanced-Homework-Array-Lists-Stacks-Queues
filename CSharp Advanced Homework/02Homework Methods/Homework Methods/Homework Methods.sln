@@ -3,7 +3,55 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01BiggerNumber", "01BiggerNumber\01BiggerNumber.csproj", "{54FBB639-4E20-4766-9932-7A7916C30369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02LastDigitOfNumber", "02LastDigitOfNumber\02LastDigitOfNumber.csproj", "{5E87608F-FAFA-424A-A95A-297F88A1750E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03LargerThanNeighbours", "03LargerThanNeighbours\03LargerThanNeighbours.csproj", "{E0110A66-8D44-4203-BC16-BD296EC475BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04FirstLargerThanNeighbours", "04FirstLargerThanNeighbours\04FirstLargerThanNeighbours.csproj", "{10AF4626-4C9E-4031-8C22-ABB30D3EA2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ReverseNumber", "05ReverseNumber\05ReverseNumber.csproj", "{2F1651AD-8BA5-46FE-8DDE-BEE94C3E73F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06NumberCalculations", "06NumberCalculations\06NumberCalculations.csproj", "{906CAE67-A69F-4F00-8337-D06CD65015E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07GenericArraySort", "07GenericArraySort\07GenericArraySort.csproj", "{A2ACB39B-D70F-44B6-8AE1-F62BB1241B4E}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FBB639-4E20-4766-9932-7A7916C30369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FBB639-4E20-4766-9932-7A7916C30369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FBB639-4E20-4766-9932-7A7916C30369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FBB639-4E20-4766-9932-7A7916C30369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E87608F-FAFA-424A-A95A-297F88A1750E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E87608F-FAFA-424A-A95A-297F88A1750E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E87608F-FAFA-424A-A95A-297F88A1750E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E87608F-FAFA-424A-A95A-297F88A1750E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0110A66-8D44-4203-BC16-BD296EC475BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0110A66-8D44-4203-BC16-BD296EC475BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0110A66-8D44-4203-BC16-BD296EC475BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0110A66-8D44-4203-BC16-BD296EC475BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10AF4626-4C9E-4031-8C22-ABB30D3EA2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AF4626-4C9E-4031-8C22-ABB30D3EA2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AF4626-4C9E-4031-8C22-ABB30D3EA2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AF4626-4C9E-4031-8C22-ABB30D3EA2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1651AD-8BA5-46FE-8DDE-BEE94C3E73F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1651AD-8BA5-46FE-8DDE-BEE94C3E73F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1651AD-8BA5-46FE-8DDE-BEE94C3E73F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1651AD-8BA5-46FE-8DDE-BEE94C3E73F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906CAE67-A69F-4F00-8337-D06CD65015E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906CAE67-A69F-4F00-8337-D06CD65015E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906CAE67-A69F-4F00-8337-D06CD65015E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906CAE67-A69F-4F00-8337-D06CD65015E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2ACB39B-D70F-44B6-8AE1-F62BB1241B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2ACB39B-D70F-44B6-8AE1-F62BB1241B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2ACB39B-D70F-44B6-8AE1-F62BB1241B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2ACB39B-D70F-44B6-8AE1-F62BB1241B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

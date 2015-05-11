@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\07GenericArraySort\bin\Debug\07GenericArraySort.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\07GenericArraySort\bin\Debug\07GenericArraySort.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\07GenericArraySort\bin\Debug\07GenericArraySort.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\07GenericArraySort\obj\Debug\07GenericArraySort.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\07GenericArraySort\obj\Debug\07GenericArraySort.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\07GenericArraySort\obj\Debug\07GenericArraySort.pdb

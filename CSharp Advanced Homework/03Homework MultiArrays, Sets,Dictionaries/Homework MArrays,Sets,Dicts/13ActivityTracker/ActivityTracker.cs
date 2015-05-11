@@ -2,53 +2,55 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
+using System.Globalization;
 
 
 class ActivityTracker
 {
     static void Main(string[] args)
     {
-        var tracker = new SortedDictionary<int,SortedDictionary<string,List<int>>>();
-        int dataLines = int.Parse(Console.ReadLine());
-        FillDictionary(tracker, dataLines);
+        //Thread.CurrentThread.CurrentCulture = new CultureInfo("bg-BG");
+        var tracker = new SortedDictionary<int,SortedDictionary<string,int>>();
+        FillDictionary(tracker);
         Print(tracker);
     }
 
-    static void FillDictionary(SortedDictionary<int,SortedDictionary<string,List<int>>> tracker, int dataLines)
+    static void FillDictionary(SortedDictionary<int,SortedDictionary<string,int>> tracker)
     {
+        int dataLines = int.Parse(Console.ReadLine());
+        CultureInfo ci = CultureInfo.CreateSpecificCulture("bg-BG");
         for (int i = 0; i < dataLines; i++)
         {
             //declaration and initialization
             string[] input = Console.ReadLine().Split();
-            int month = DateTime.Parse(input[0],new System.Globalization.CultureInfo("bg-BG")).Month;
+            int month = DateTime.Parse(input[0], ci).Month;
             string name = input[1];
             int distance = int.Parse(input[2]);
-            var names = new SortedDictionary<string, List<int>>();
-            var distances = new List<int>();
 
             //actually adding to the dictionary while checking if entries with same names already exist
-            distances.Add(distance);
-            names.Add(name, distances);
-            if (!tracker.Keys.Contains(month))
+
+            if (!tracker.ContainsKey(month))
             {
+                var names = new SortedDictionary<string,int>();
+                names.Add(name, distance);
                 tracker.Add(month, names);
             }
             else
             {
-                if (!tracker[month].Keys.Contains(name))
+                if (!tracker[month].ContainsKey(name))
                 {
-                    tracker[month].Add(name, distances);
+                    tracker[month].Add(name, distance);
                 }
                 else
                 {
-                    tracker[month][name].Add(distance);
+                    tracker[month][name] = tracker[month][name] + distance;
                 }
             }
         }
     }
 
-    static void Print(SortedDictionary<int,SortedDictionary<string,List<int>>> tracker)
+    static void Print(SortedDictionary<int,SortedDictionary<string,int>> tracker)
     {
         foreach (var dict in tracker)
         {
@@ -56,7 +58,7 @@ class ActivityTracker
             List<string> line = new List<string>();
             foreach (var dict2 in dict.Value)
             {
-                line.Add(String.Format("{0}({1})", dict2.Key, dict2.Value.Sum()));
+                line.Add(String.Format("{0}({1})", dict2.Key, dict2.Value));
                 
             }
             Console.WriteLine(String.Join(", ", line));

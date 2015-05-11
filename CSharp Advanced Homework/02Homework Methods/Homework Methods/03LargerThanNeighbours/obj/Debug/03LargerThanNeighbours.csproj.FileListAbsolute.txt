@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\03LargerThanNeighbours\bin\Debug\03LargerThanNeighbours.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\03LargerThanNeighbours\bin\Debug\03LargerThanNeighbours.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\03LargerThanNeighbours\bin\Debug\03LargerThanNeighbours.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\03LargerThanNeighbours\obj\Debug\03LargerThanNeighbours.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\03LargerThanNeighbours\obj\Debug\03LargerThanNeighbours.pdb

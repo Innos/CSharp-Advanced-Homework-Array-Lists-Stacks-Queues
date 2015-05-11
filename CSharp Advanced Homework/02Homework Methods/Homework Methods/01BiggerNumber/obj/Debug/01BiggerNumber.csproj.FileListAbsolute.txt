@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\01BiggerNumber\bin\Debug\01BiggerNumber.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\01BiggerNumber\bin\Debug\01BiggerNumber.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\01BiggerNumber\bin\Debug\01BiggerNumber.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\01BiggerNumber\obj\Debug\01BiggerNumber.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\01BiggerNumber\obj\Debug\01BiggerNumber.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\02Homework Methods\Homework Methods\01BiggerNumber\obj\Debug\01BiggerNumber.pdb
