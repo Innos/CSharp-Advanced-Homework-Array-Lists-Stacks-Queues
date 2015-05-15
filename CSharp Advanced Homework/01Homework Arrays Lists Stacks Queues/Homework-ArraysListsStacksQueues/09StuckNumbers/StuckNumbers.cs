@@ -19,7 +19,6 @@ class StuckNumbers
     static void GenerateFourDigitSubsets(int[] numbers, string[] input)
     {
         bool hasSolution = false;
-        List<List<int>> subsets = new List<List<int>>();
         for (int i1 = 0; i1 < numbers.Length; i1++)
         {
             for (int i2 = 0; i2 < numbers.Length; i2++)

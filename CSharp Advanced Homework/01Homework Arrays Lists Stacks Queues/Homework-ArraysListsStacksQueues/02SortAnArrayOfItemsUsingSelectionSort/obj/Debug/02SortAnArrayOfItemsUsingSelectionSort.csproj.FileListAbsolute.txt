@@ -4,3 +4,6 @@ E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-Arr
 E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\02SortAnArrayOfItemsUsingSelectionSort\obj\Debug\02SortAnArrayOfItemsUsingSelectionSort.csprojResolveAssemblyReference.cache
 E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\02SortAnArrayOfItemsUsingSelectionSort\obj\Debug\02SortAnArrayOfItemsUsingSelectionSort.exe
 E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\02SortAnArrayOfItemsUsingSelectionSort\obj\Debug\02SortAnArrayOfItemsUsingSelectionSort.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\02SortAnArrayOfItemsUsingSelectionSort\bin\Debug\02SortAnArrayOfItemsUsingSelectionSort.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\02SortAnArrayOfItemsUsingSelectionSort\obj\Debug\02SortAnArrayOfItemsUsingSelectionSort.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\02SortAnArrayOfItemsUsingSelectionSort\obj\Debug\02SortAnArrayOfItemsUsingSelectionSort.pdb

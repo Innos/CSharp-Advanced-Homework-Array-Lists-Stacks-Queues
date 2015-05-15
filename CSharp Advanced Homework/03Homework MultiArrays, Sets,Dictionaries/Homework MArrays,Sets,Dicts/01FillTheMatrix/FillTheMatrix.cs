@@ -45,7 +45,7 @@ class FillTheMatrix
     }
     static void FillColumnAscending(int[,]matrix, int col)
     {
-        for (int row = 0; row < matrix.GetLength(1); row++)
+        for (int row = 0; row < matrix.GetLength(0); row++)
         {
             matrix[row, col] = counter++;
         }
@@ -53,7 +53,7 @@ class FillTheMatrix
 
     static void FillColumnDescending(int[,] matrix, int col)
     {
-        for (int row = matrix.GetUpperBound(1); row >= 0; row--)
+        for (int row = matrix.GetUpperBound(0); row >= 0; row--)
         {
             matrix[row, col] = counter++;
         }

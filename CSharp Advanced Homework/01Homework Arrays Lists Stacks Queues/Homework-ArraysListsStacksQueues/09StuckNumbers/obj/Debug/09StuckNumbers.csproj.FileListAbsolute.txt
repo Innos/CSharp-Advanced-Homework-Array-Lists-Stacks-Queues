@@ -7,3 +7,6 @@ E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-Arr
 E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\09StuckNumbers\bin\Debug\09StuckNumbers.exe.config
 E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\09StuckNumbers\obj\Debug\09StuckNumbers.exe
 E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\09StuckNumbers\obj\Debug\09StuckNumbers.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\09StuckNumbers\bin\Debug\09StuckNumbers.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\09StuckNumbers\bin\Debug\09StuckNumbers.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\09StuckNumbers\obj\Debug\09StuckNumbers.csprojResolveAssemblyReference.cache

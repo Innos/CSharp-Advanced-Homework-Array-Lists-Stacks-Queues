@@ -14,24 +14,24 @@ class GenericArraySort
 
         //Uncomment for null tests
 
-        //Console.WriteLine("Examples:");
-        //int[]numbers = {1,2,3,4,5,1,0,5};
-        //string[] strings = { "zaz", "cba", "baa", "azis"};
-        //DateTime[] dates = { new DateTime(2002, 3, 1), new DateTime(2015, 5, 6), new DateTime(2014, 1, 1) };
-        //Console.WriteLine(String.Join(", ", numbers));
-        //Console.WriteLine(String.Join(", ", strings));
-        //Console.WriteLine(String.Join(", ", dates));
-        //Console.WriteLine();
+        Console.WriteLine("Examples:");
+        int[] numbers = { 1, 2, 3, 4, 5, 1, 0, 5 };
+        string[] strings = { "zaz", "cba", "baa", "azis" };
+        DateTime[] dates = { new DateTime(2002, 3, 1), new DateTime(2015, 5, 6), new DateTime(2014, 1, 1) };
+        Console.WriteLine(String.Join(", ", numbers));
+        Console.WriteLine(String.Join(", ", strings));
+        Console.WriteLine(String.Join(", ", dates));
+        Console.WriteLine();
 
-        //BubbleSort(ref numbers);
-        //BubbleSort(ref strings);
-        //BubbleSort(ref dates);
+        BubbleSort(numbers);
+        BubbleSort(strings);
+        BubbleSort(dates);
 
-        //Console.WriteLine("After Sort:");
-        //Console.WriteLine(String.Join(", ",numbers));
-        //Console.WriteLine(String.Join(", ", strings));
-        //Console.WriteLine(String.Join(", ", dates));
-        //Console.WriteLine();
+        Console.WriteLine("After Sort:");
+        Console.WriteLine(String.Join(", ", numbers));
+        Console.WriteLine(String.Join(", ", strings));
+        Console.WriteLine(String.Join(", ", dates));
+        Console.WriteLine();
 
         Console.WriteLine("Choose an array type: \n1.Integer\n2.String\n3.DateTime(BG format)");
         int choice = int.Parse(Console.ReadLine());
@@ -43,19 +43,19 @@ class GenericArraySort
         {
             case 1: 
                 a = Console.ReadLine().Split().Select(int.Parse).ToArray();
-                BubbleSort(ref a);
+                BubbleSort(a);
                 Console.WriteLine(String.Join(", ", a));
                 break;
 
             case 2:
                 b = Console.ReadLine().Split();
-                BubbleSort(ref b);
+                BubbleSort(b);
                 Console.WriteLine(String.Join(", ", b));
                 break;
 
             case 3:
                 c = Console.ReadLine().Split().Select(DateTime.Parse).ToArray();
-                BubbleSort(ref c);
+                BubbleSort(c);
                 Console.WriteLine(String.Join(", ", c));
                 break;
 
@@ -64,7 +64,7 @@ class GenericArraySort
         }
         
     }
-    static void BubbleSort<T>(ref T[] elements) where T : System.IComparable<T>
+    static void BubbleSort<T>(T[] elements) where T : System.IComparable<T>
     {
         bool swapped = false;
 
