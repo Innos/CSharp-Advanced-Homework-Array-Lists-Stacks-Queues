@@ -13,11 +13,8 @@ class Palindromes
         string text = Console.ReadLine();
         //Regex solution with 2 cases for an        odd                        and              an even palindrome
         string pattern = @"(\b(?<N>[^\W_])*[^\W_](?<-N>\k<N>)*(?(N)(?!))\b" + @"|" + @"\b(?<N>[^\W_])+(?<-N>\k<N>)+(?(N)(?!))\b)";
-        var matches = Regex.Matches(text,pattern).Cast<Match>().Select(m=>m.Value);
-        foreach (var match in matches)
-        {
-            Console.WriteLine(match);
-        }
+        var matches = Regex.Matches(text,pattern).Cast<Match>().Select(m=>m.Value).OrderBy(x=>x);
+        Console.WriteLine(String.Join(", ",matches));
 
     //String Solution:
     //    WritePalindromes(text);
