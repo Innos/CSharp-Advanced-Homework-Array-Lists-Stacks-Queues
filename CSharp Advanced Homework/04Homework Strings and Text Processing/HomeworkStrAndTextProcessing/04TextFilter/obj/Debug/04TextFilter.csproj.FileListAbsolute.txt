@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\04TextFilter\bin\Debug\04TextFilter.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\04TextFilter\bin\Debug\04TextFilter.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\04TextFilter\bin\Debug\04TextFilter.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\04TextFilter\obj\Debug\04TextFilter.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\04TextFilter\obj\Debug\04TextFilter.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\04TextFilter\obj\Debug\04TextFilter.csprojResolveAssemblyReference.cache

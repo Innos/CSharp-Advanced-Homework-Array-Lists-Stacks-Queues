@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\01ReverseString\bin\Debug\01ReverseString.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\01ReverseString\obj\Debug\01ReverseString.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\01ReverseString\bin\Debug\01ReverseString.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\01ReverseString\bin\Debug\01ReverseString.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\01ReverseString\obj\Debug\01ReverseString.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\01ReverseString\obj\Debug\01ReverseString.pdb
