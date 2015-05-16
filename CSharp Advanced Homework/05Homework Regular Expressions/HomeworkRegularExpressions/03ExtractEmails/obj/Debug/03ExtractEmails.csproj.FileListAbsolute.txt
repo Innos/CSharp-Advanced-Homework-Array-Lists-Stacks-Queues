@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\03ExtractEmails\obj\Debug\03ExtractEmails.pdb

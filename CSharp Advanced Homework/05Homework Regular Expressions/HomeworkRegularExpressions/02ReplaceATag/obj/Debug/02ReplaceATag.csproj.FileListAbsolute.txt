@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.pdb

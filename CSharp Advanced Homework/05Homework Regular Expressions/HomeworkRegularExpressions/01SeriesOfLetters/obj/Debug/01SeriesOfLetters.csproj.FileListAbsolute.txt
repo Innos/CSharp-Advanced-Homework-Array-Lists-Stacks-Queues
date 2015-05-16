@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.pdb
