@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\08UseYourChainsBuddy\bin\Debug\08UseYourChainsBuddy.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\08UseYourChainsBuddy\bin\Debug\08UseYourChainsBuddy.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\08UseYourChainsBuddy\bin\Debug\08UseYourChainsBuddy.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\08UseYourChainsBuddy\obj\Debug\08UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\08UseYourChainsBuddy\obj\Debug\08UseYourChainsBuddy.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\08UseYourChainsBuddy\obj\Debug\08UseYourChainsBuddy.pdb

@@ -12,7 +12,9 @@ class ExtractHyperlinks
     {
         StringBuilder textSB = new StringBuilder();
         string input = Console.ReadLine();
-        string pattern = @"(?<=<a\s+(?:[^>]+\s+)?href\s*=\s*)(?:""([^""]*)""|'([^']*)'|([^\s>]+))(?=[^>]*>)";
+        //Can also name the capturing groups the same way and just output the named capturing group
+        //(?<=<a[^>]+href\s*=\s*)(?:""(?<ulr>[^""]*)""|'(?<ulr>[^']*)'|(?<ulr>[^\s>]+))(?=[^>]*>)
+        string pattern = @"(?<=<a[^>]+href\s*=\s*)(?:""([^""]*)""|'([^']*)'|([^\s>]+))(?=[^>]*>)";
         while(input != "END")
         {
             textSB.Append(input);

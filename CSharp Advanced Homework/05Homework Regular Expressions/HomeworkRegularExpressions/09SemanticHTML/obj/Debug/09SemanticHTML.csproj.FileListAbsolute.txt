@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\09SemanticHTML\bin\Debug\09SemanticHTML.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\09SemanticHTML\bin\Debug\09SemanticHTML.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\09SemanticHTML\bin\Debug\09SemanticHTML.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\09SemanticHTML\obj\Debug\09SemanticHTML.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\09SemanticHTML\obj\Debug\09SemanticHTML.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\09SemanticHTML\obj\Debug\09SemanticHTML.pdb
