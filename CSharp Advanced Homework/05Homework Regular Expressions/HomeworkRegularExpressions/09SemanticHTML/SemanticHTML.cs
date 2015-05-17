@@ -22,7 +22,6 @@ class SemanticHTML
                 input = Regex.Replace(input, xDivPattern, "");
                 input = Regex.Replace(input, "div", HTMLClass);
                 input = Regex.Replace(input, @">\s*", ">");
-                input = Regex.Replace(input, @"\s>", ">");
             }
             else if(input.Contains("div"))
             {
