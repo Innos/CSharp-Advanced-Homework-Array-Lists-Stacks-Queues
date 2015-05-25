@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\02LineNumbers\bin\Debug\02LineNumbers.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\02LineNumbers\bin\Debug\02LineNumbers.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\02LineNumbers\bin\Debug\02LineNumbers.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\02LineNumbers\obj\Debug\02LineNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\02LineNumbers\obj\Debug\02LineNumbers.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\02LineNumbers\obj\Debug\02LineNumbers.pdb

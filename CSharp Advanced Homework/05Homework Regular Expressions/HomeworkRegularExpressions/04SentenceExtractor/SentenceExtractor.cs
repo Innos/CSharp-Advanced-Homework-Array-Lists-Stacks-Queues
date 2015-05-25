@@ -10,9 +10,9 @@ class SentenceExtractor
 {
     static void Main(string[] args)
     {
-        string key = Console.ReadLine();
-        string pattern = @"([^!.?]*\b" + key + @"\b[^!.?]*[!.?])";
-        Regex reg = new Regex(pattern);
+        string key = String.Format(@"\b{0}\b",Console.ReadLine());
+        string pattern = @"[^!.?]*" + key + @"[^!.?]*[!.?]";
+        Regex reg = new Regex(pattern,RegexOptions.IgnoreCase);
         
         string input = Console.ReadLine();
         Match m = reg.Match(input);

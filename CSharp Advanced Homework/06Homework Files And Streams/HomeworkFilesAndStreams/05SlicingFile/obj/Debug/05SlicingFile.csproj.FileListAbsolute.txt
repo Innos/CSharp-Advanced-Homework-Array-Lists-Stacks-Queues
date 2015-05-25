@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\05SlicingFile\bin\Debug\05SlicingFile.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\05SlicingFile\bin\Debug\05SlicingFile.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\05SlicingFile\bin\Debug\05SlicingFile.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\05SlicingFile\obj\Debug\05SlicingFile.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\05SlicingFile\obj\Debug\05SlicingFile.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\05SlicingFile\obj\Debug\05SlicingFile.pdb

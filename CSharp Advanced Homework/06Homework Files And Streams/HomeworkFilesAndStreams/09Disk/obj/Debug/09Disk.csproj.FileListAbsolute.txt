@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\09Disk\bin\Debug\09Disk.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\09Disk\bin\Debug\09Disk.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\09Disk\bin\Debug\09Disk.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\09Disk\obj\Debug\09Disk.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\09Disk\obj\Debug\09Disk.pdb

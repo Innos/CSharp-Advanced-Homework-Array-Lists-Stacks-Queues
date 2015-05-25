@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\06ZippingSlicedFiles\bin\Debug\06ZippingSlicedFiles.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\06ZippingSlicedFiles\bin\Debug\06ZippingSlicedFiles.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\06ZippingSlicedFiles\bin\Debug\06ZippingSlicedFiles.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\06ZippingSlicedFiles\obj\Debug\06ZippingSlicedFiles.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\06ZippingSlicedFiles\obj\Debug\06ZippingSlicedFiles.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\06ZippingSlicedFiles\obj\Debug\06ZippingSlicedFiles.pdb

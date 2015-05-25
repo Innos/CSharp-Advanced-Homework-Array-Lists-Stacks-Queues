@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\08FullDirectoryTraversal\bin\Debug\08FullDirectoryTraversal.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\08FullDirectoryTraversal\bin\Debug\08FullDirectoryTraversal.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\08FullDirectoryTraversal\bin\Debug\08FullDirectoryTraversal.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\08FullDirectoryTraversal\obj\Debug\08FullDirectoryTraversal.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\08FullDirectoryTraversal\obj\Debug\08FullDirectoryTraversal.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\08FullDirectoryTraversal\obj\Debug\08FullDirectoryTraversal.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\04CopyBinaryFile\bin\Debug\04CopyBinaryFile.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\04CopyBinaryFile\bin\Debug\04CopyBinaryFile.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\04CopyBinaryFile\bin\Debug\04CopyBinaryFile.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\04CopyBinaryFile\obj\Debug\04CopyBinaryFile.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\04CopyBinaryFile\obj\Debug\04CopyBinaryFile.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\06Homework Files And Streams\HomeworkFilesAndStreams\04CopyBinaryFile\obj\Debug\04CopyBinaryFile.pdb

@@ -7,3 +7,6 @@ E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\05H
 E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\04SentenceExtractor\bin\Debug\04SentenceExtractor.exe.config
 E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\04SentenceExtractor\obj\Debug\04SentenceExtractor.exe
 E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\04SentenceExtractor\obj\Debug\04SentenceExtractor.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\04SentenceExtractor\bin\Debug\04SentenceExtractor.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\04SentenceExtractor\bin\Debug\04SentenceExtractor.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\04SentenceExtractor\obj\Debug\04SentenceExtractor.csprojResolveAssemblyReference.cache
