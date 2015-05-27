@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\14TextGravity\bin\Debug\14TextGravity.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\14TextGravity\bin\Debug\14TextGravity.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\14TextGravity\bin\Debug\14TextGravity.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\14TextGravity\obj\Debug\14TextGravity.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\14TextGravity\obj\Debug\14TextGravity.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\14TextGravity\obj\Debug\14TextGravity.pdb

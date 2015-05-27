@@ -1,0 +1,8 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\06FilterStudentsByEmailDomain\bin\Debug\06FilterStudentsByEmailDomain.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\06FilterStudentsByEmailDomain\bin\Debug\06FilterStudentsByEmailDomain.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\06FilterStudentsByEmailDomain\bin\Debug\06FilterStudentsByEmailDomain.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\06FilterStudentsByEmailDomain\bin\Debug\01ClassStudent.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\06FilterStudentsByEmailDomain\bin\Debug\01ClassStudent.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\06FilterStudentsByEmailDomain\obj\Debug\06FilterStudentsByEmailDomain.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\06FilterStudentsByEmailDomain\obj\Debug\06FilterStudentsByEmailDomain.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\06FilterStudentsByEmailDomain\obj\Debug\06FilterStudentsByEmailDomain.pdb

@@ -1,0 +1,7 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\10StudentsEnrolledIn2014\bin\Debug\10StudentsEnrolledIn2014.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\10StudentsEnrolledIn2014\bin\Debug\10StudentsEnrolledIn2014.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\10StudentsEnrolledIn2014\bin\Debug\10StudentsEnrolledIn2014.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\10StudentsEnrolledIn2014\bin\Debug\01ClassStudent.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\10StudentsEnrolledIn2014\bin\Debug\01ClassStudent.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\10StudentsEnrolledIn2014\obj\Debug\10StudentsEnrolledIn2014.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\10StudentsEnrolledIn2014\obj\Debug\10StudentsEnrolledIn2014.pdb

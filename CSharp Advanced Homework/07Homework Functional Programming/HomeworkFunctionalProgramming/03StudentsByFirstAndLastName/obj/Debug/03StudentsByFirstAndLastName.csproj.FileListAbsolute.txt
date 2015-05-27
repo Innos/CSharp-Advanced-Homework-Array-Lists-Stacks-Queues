@@ -1,0 +1,8 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\03StudentsByFirstAndLastName\bin\Debug\03StudentsByFirstAndLastName.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\03StudentsByFirstAndLastName\bin\Debug\03StudentsByFirstAndLastName.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\03StudentsByFirstAndLastName\bin\Debug\03StudentsByFirstAndLastName.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\03StudentsByFirstAndLastName\obj\Debug\03StudentsByFirstAndLastName.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\03StudentsByFirstAndLastName\obj\Debug\03StudentsByFirstAndLastName.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\03StudentsByFirstAndLastName\obj\Debug\03StudentsByFirstAndLastName.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\03StudentsByFirstAndLastName\bin\Debug\01ClassStudent.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\03StudentsByFirstAndLastName\bin\Debug\01ClassStudent.pdb
