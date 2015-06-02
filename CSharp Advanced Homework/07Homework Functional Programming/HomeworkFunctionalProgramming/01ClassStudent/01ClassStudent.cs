@@ -18,6 +18,10 @@ namespace studentList
         };
 	    static void Main()
         {
+            foreach (var student in students)
+            {
+                Console.WriteLine(student);
+            }
         }
     }
 }

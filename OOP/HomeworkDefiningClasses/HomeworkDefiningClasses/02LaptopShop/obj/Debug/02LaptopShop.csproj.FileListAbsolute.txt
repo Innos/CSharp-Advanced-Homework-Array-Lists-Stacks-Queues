@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\02LaptopShop\bin\Debug\02LaptopShop.exe.config
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\02LaptopShop\bin\Debug\02LaptopShop.exe
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\02LaptopShop\bin\Debug\02LaptopShop.pdb
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\02LaptopShop\obj\Debug\02LaptopShop.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\02LaptopShop\obj\Debug\02LaptopShop.exe
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\02LaptopShop\obj\Debug\02LaptopShop.pdb

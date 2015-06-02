@@ -7,3 +7,6 @@ c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput
 E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe.config
 E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.exe
 E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\05HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\05HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\05HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.pdb

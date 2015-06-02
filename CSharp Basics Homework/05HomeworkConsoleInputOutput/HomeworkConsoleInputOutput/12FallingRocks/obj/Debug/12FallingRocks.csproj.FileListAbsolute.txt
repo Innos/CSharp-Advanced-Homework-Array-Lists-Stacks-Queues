@@ -4,3 +4,6 @@ E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\12FallingRocks\bin\Debu
 E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.csprojResolveAssemblyReference.cache
 E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.exe
 E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\05HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\12FallingRocks\bin\Debug\12FallingRocks.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\05HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\05HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.pdb

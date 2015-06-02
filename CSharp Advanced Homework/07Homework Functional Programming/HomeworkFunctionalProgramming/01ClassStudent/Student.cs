@@ -16,7 +16,15 @@ namespace studentList
         public int GroupNumber { get; set; }
         public string GroupName { get; set; }
 
-        public Student(string firstName, string lastName, int age, string facultyNumber, string phone, string email, IList<int> marks, int groupNumber,string groupName)
+        public Student(string firstName,
+            string lastName,
+            int age,
+            string facultyNumber,
+            string phone,
+            string email,
+            IList<int> marks,
+            int groupNumber,
+            string groupName)
         {
             this.FirstName = firstName;
             this.LastName = lastName;
@@ -27,6 +35,13 @@ namespace studentList
             this.Marks = marks;
             this.GroupNumber = groupNumber;
             this.GroupName = groupName;
+        }
+        public override string ToString()
+        {
+            return String.Format(
+                "{0} {1}",
+                this.FirstName,
+                this.LastName);
         }
     }
 }
