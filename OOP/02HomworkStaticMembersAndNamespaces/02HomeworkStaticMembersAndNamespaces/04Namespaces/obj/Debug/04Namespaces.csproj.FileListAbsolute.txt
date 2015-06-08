@@ -1,0 +1,2 @@
+C:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\04Namespaces\bin\Debug\04Namespaces.exe.config
+E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\04Namespaces\bin\Debug\04Namespaces.exe.config

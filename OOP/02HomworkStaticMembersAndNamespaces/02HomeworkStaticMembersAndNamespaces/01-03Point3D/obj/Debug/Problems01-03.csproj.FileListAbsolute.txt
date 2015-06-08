@@ -1,0 +1,3 @@
+C:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\01Point3D\bin\Debug\02HomeworkStaticMembersAndNamespaces.exe.config
+C:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\01Point3D\obj\Debug\02HomeworkStaticMembersAndNamespaces.exe
+C:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\01Point3D\obj\Debug\02HomeworkStaticMembersAndNamespaces.pdb

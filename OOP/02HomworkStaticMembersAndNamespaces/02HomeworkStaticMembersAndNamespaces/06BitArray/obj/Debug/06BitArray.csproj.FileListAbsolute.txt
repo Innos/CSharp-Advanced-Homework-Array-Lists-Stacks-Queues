@@ -1,0 +1,7 @@
+C:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\06BitArray\bin\Debug\06BitArray.exe.config
+E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\06BitArray\bin\Debug\06BitArray.exe.config
+E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\06BitArray\bin\Debug\06BitArray.exe
+E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\06BitArray\bin\Debug\06BitArray.pdb
+E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\06BitArray\obj\Debug\06BitArray.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\06BitArray\obj\Debug\06BitArray.exe
+E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\06BitArray\obj\Debug\06BitArray.pdb

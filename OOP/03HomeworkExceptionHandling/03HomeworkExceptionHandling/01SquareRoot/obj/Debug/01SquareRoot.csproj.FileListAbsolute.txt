@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\01SquareRoot\bin\Debug\01SquareRoot.exe.config
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\01SquareRoot\bin\Debug\01SquareRoot.exe
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\01SquareRoot\bin\Debug\01SquareRoot.pdb
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\01SquareRoot\obj\Debug\01SquareRoot.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\01SquareRoot\obj\Debug\01SquareRoot.exe
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\01SquareRoot\obj\Debug\01SquareRoot.pdb
