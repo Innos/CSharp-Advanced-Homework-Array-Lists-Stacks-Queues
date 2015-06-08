@@ -4,9 +4,12 @@ E:\Soft Uni\Homework\OOP\04HomeworkInheritanceAndAbstraction\04HomeworkInheritac
 E:\Soft Uni\Homework\OOP\04HomeworkInheritanceAndAbstraction\04HomeworkInheritaceAndAbstraction\02Animals\bin\Debug\02Animals.pdb
 E:\Soft Uni\Homework\OOP\04HomeworkInheritanceAndAbstraction\04HomeworkInheritaceAndAbstraction\02Animals\obj\Debug\02Animals.exe
 E:\Soft Uni\Homework\OOP\04HomeworkInheritanceAndAbstraction\04HomeworkInheritaceAndAbstraction\02Animals\obj\Debug\02Animals.pdb
+<<<<<<< HEAD
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\02Animals\bin\Debug\02Animals.exe.config
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\02Animals\obj\Debug\02Animals.exe
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\02Animals\obj\Debug\02Animals.pdb
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\02Animals\bin\Debug\02Animals.exe
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\02Animals\bin\Debug\02Animals.pdb
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\02Animals\obj\Debug\02Animals.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> f02ab2c1a63cdc24ebe1799da94118864915696c

@@ -49,7 +49,7 @@ namespace CompanyHierarchy
                 manager3,
                 manager4
             };
-            
+
             project1.CloseProject();
             var orderedPeople = people.OrderBy(person => person.ID).ToList();
             foreach (var person in orderedPeople)

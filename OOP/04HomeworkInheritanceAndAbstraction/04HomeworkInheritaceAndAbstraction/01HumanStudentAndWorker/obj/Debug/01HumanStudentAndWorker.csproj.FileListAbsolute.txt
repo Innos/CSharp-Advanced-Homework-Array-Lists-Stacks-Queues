@@ -7,9 +7,12 @@ C:\Soft Uni\Homework\OOP\04HomeworkInheritanceAndAbstraction\04HomeworkInheritac
 E:\Soft Uni\Homework\OOP\04HomeworkInheritanceAndAbstraction\04HomeworkInheritaceAndAbstraction\01HumanStudentAndWorker\bin\Debug\01HumanStudentAndWorker.exe.config
 E:\Soft Uni\Homework\OOP\04HomeworkInheritanceAndAbstraction\04HomeworkInheritaceAndAbstraction\01HumanStudentAndWorker\obj\Debug\01HumanStudentAndWorker.exe
 E:\Soft Uni\Homework\OOP\04HomeworkInheritanceAndAbstraction\04HomeworkInheritaceAndAbstraction\01HumanStudentAndWorker\obj\Debug\01HumanStudentAndWorker.pdb
+<<<<<<< HEAD
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\01HumanStudentAndWorker\bin\Debug\01HumanStudentAndWorker.exe.config
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\01HumanStudentAndWorker\obj\Debug\01HumanStudentAndWorker.exe
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\01HumanStudentAndWorker\obj\Debug\01HumanStudentAndWorker.pdb
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\01HumanStudentAndWorker\bin\Debug\01HumanStudentAndWorker.exe
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\01HumanStudentAndWorker\bin\Debug\01HumanStudentAndWorker.pdb
 E:\Soft Uni\ocenqvane na doma6ni\Homework-Innos-Inheritance and abstraction\04HomeworkInheritaceAndAbstraction\01HumanStudentAndWorker\obj\Debug\01HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> f02ab2c1a63cdc24ebe1799da94118864915696c
