@@ -31,7 +31,11 @@ namespace CompanyHierarchy.Hierarchy.Employees.RegularEmployees
             sb.AppendLine("Sales:");
             foreach (var sale in sales)
             {
+<<<<<<< HEAD
                 sb.AppendLine(sale.ToString());
+=======
+                sb.AppendLine(sale.Name);
+>>>>>>> f02ab2c1a63cdc24ebe1799da94118864915696c
             }
             sb.AppendLine(new string('-', 75));
             return sb.ToString();

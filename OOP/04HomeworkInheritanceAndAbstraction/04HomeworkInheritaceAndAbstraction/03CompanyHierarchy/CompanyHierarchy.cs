@@ -49,9 +49,14 @@ namespace CompanyHierarchy
                 manager3,
                 manager4
             };
+<<<<<<< HEAD
             
             project1.CloseProject();
             var orderedPeople = people.OrderBy(person => person.ID).ToList();
+=======
+
+            var orderedPeople = people.OrderBy(person => person.ID);
+>>>>>>> f02ab2c1a63cdc24ebe1799da94118864915696c
             foreach (var person in orderedPeople)
             {
                 Console.Write(person.ToString());
