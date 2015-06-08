@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\02EnterNumbers\bin\Debug\02EnterNumbers.exe.config
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\02EnterNumbers\bin\Debug\02EnterNumbers.exe
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\02EnterNumbers\bin\Debug\02EnterNumbers.pdb
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\02EnterNumbers\obj\Debug\02EnterNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\02EnterNumbers\obj\Debug\02EnterNumbers.exe
+E:\Soft Uni\Homework\OOP\03HomeworkExceptionHandling\03HomeworkExceptionHandling\02EnterNumbers\obj\Debug\02EnterNumbers.pdb

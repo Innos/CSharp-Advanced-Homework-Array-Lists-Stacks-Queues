@@ -1,6 +1,0 @@
-E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\03PCCatalog\bin\Debug\03PCCatalog.exe.config
-E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\03PCCatalog\bin\Debug\03PCCatalog.exe
-E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\03PCCatalog\bin\Debug\03PCCatalog.pdb
-E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\03PCCatalog\obj\Debug\03PCCatalog.csprojResolveAssemblyReference.cache
-E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\03PCCatalog\obj\Debug\03PCCatalog.exe
-E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\03PCCatalog\obj\Debug\03PCCatalog.pdb

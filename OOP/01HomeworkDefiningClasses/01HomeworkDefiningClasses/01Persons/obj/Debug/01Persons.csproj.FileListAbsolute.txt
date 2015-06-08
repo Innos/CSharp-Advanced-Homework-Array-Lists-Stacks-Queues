@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\01Persons\bin\Debug\01Persons.exe.config
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\01Persons\obj\Debug\01Persons.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\01Persons\bin\Debug\01Persons.exe
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\01Persons\bin\Debug\01Persons.pdb
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\01Persons\obj\Debug\01Persons.exe
+E:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\01Persons\obj\Debug\01Persons.pdb
+C:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\01Persons\bin\Debug\01Persons.exe.config
+C:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\01Persons\obj\Debug\01Persons.exe
+C:\Soft Uni\Homework\OOP\HomeworkDefiningClasses\HomeworkDefiningClasses\01Persons\obj\Debug\01Persons.pdb
