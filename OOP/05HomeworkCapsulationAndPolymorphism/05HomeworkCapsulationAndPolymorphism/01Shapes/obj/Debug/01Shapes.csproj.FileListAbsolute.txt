@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\01Shapes\bin\Debug\01Shapes.exe.config
+E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\01Shapes\bin\Debug\01Shapes.exe
+E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\01Shapes\bin\Debug\01Shapes.pdb
+E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\01Shapes\obj\Debug\01Shapes.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\01Shapes\obj\Debug\01Shapes.exe
+E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\01Shapes\obj\Debug\01Shapes.pdb
