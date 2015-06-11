@@ -31,10 +31,5 @@ namespace BankSoftware.Customers
                 this.name = value;
             }
         }
-        public virtual string GetName()
-        {
-            return this.Name;
-        }
-
     }
 }
