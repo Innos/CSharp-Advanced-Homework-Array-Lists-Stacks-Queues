@@ -44,7 +44,6 @@
                     item.HasTimedOut = true;
                     var itemHolder = this.GetCharacterByItem(item);
                     itemHolder.RemoveFromInventory(item);
-                    //Item is not actually removed from the list, why then the need to decrement i?
                     i--;
                 }
             }
@@ -73,7 +72,7 @@
         {
             throw new NotImplementedException();
         }
-        //Why isn't this method virtual?
+
         protected void AddItem(string[] inputParams)
         {
             throw new NotImplementedException();

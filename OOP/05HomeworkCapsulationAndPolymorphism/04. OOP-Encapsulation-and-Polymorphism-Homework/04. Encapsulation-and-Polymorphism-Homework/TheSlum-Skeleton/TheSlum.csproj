@@ -40,31 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Characters\CharacterType.cs" />
-    <Compile Include="Characters\Healer.cs" />
-    <Compile Include="Characters\Mage.cs" />
-    <Compile Include="Characters\Warrior.cs" />
-    <Compile Include="GameEngine\ExtendedEngine.cs" />
-    <Compile Include="GameEngine\Factories\CharacterFactory.cs" />
-    <Compile Include="GameEngine\Factories\ItemFactory.cs" />
-    <Compile Include="Objects\Axe.cs" />
-    <Compile Include="Objects\Bonus.cs" />
-    <Compile Include="Characters\Character.cs" />
+    <Compile Include="Bonus.cs" />
+    <Compile Include="Character.cs" />
     <Compile Include="GameEngine\Engine.cs" />
-    <Compile Include="Objects\GameObject.cs" />
+    <Compile Include="GameObject.cs" />
     <Compile Include="Interfaces\IAttack.cs" />
     <Compile Include="Interfaces\IHeal.cs" />
     <Compile Include="Interfaces\ITimeoutable.cs" />
-    <Compile Include="Objects\Injection.cs" />
-    <Compile Include="Objects\Item.cs" />
-    <Compile Include="Objects\ItemType.cs" />
-    <Compile Include="Objects\Pill.cs" />
-    <Compile Include="Objects\Shield.cs" />
+    <Compile Include="Item.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Characters\Team.cs" />
+    <Compile Include="Team.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

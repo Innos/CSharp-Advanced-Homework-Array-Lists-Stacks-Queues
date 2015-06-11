@@ -3,3 +3,5 @@ E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulat
 E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\03TheSlum-Skeleton\obj\Debug\03TheSlum.csprojResolveAssemblyReference.cache
 E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\03TheSlum-Skeleton\obj\Debug\TheSlum.exe
 E:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\03TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\03TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Soft Uni\Homework\OOP\05HomeworkCapsulationAndPolymorphism\05HomeworkCapsulationAndPolymorphism\03TheSlum-Skeleton\obj\Debug\TheSlum.pdb

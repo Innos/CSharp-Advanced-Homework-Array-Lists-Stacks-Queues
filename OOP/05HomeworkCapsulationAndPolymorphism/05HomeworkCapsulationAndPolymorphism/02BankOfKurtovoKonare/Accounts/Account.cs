@@ -74,7 +74,7 @@ namespace BankSoftware.Accounts
             return String.Format("Account Type: {0}\nAccount Holder: {2} - {1}\nBalance: {3}\nInterest Rate: {4}%\n",
                 this.GetType().Name,
                 this.Customer.GetType().Name,
-                ((Customer)this.Customer).Name,
+                this.Customer.Name,
                 this.Balance.ToString("C2",CultureInfo.CreateSpecificCulture("bg-BG")),
                 this.InterestRate * 100 );
         }

@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankSoftware.Interfaces
+namespace TheSlum.Objects
 {
-    interface ICustomer
+    public enum ItemType
     {
-        string Name { get; set; }
+        Axe,
+        Shield,
+        Pill,
+        Injection
     }
 }

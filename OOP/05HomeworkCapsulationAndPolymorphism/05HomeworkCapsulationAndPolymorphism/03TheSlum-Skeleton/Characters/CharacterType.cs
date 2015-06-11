@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankSoftware.Interfaces
+namespace TheSlum.Characters
 {
-    interface ICustomer
+    public enum CharacterType
     {
-        string Name { get; set; }
+        Warrior,
+        Mage,
+        Healer
     }
 }
