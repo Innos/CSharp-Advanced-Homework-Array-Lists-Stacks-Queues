@@ -1,0 +1,9 @@
+C:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\02FractionCalculator\bin\Debug\02FractionCalculator.exe.config
+C:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\02FractionCalculator\obj\Debug\02FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\02FractionCalculator\bin\Debug\02FractionCalculator.exe
+C:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\02FractionCalculator\bin\Debug\02FractionCalculator.pdb
+C:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\02FractionCalculator\obj\Debug\02FractionCalculator.exe
+C:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\02FractionCalculator\obj\Debug\02FractionCalculator.pdb
+E:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\02FractionCalculator\bin\Debug\02FractionCalculator.exe.config
+E:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\02FractionCalculator\obj\Debug\02FractionCalculator.exe
+E:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\02FractionCalculator\obj\Debug\02FractionCalculator.pdb

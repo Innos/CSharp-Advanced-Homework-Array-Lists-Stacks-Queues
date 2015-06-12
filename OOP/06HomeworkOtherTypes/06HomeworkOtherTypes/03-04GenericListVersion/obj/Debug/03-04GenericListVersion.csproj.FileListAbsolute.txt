@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\03-04GenericListVersion\bin\Debug\03-04GenericListVersion.exe.config
+E:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\03-04GenericListVersion\bin\Debug\03-04GenericListVersion.exe
+E:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\03-04GenericListVersion\bin\Debug\03-04GenericListVersion.pdb
+E:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\03-04GenericListVersion\obj\Debug\03-04GenericListVersion.exe
+E:\Soft Uni\Homework\OOP\06HomeworkOtherTypes\06HomeworkOtherTypes\03-04GenericListVersion\obj\Debug\03-04GenericListVersion.pdb
