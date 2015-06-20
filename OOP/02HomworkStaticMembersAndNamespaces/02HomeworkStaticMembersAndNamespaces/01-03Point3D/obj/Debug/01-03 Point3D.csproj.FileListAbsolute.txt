@@ -7,3 +7,5 @@ E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMem
 E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\01-03Point3D\bin\Debug\02HomeworkStaticMembersAndNamespaces.exe.config
 E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\01-03Point3D\obj\Debug\02HomeworkStaticMembersAndNamespaces.exe
 E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\01-03Point3D\obj\Debug\02HomeworkStaticMembersAndNamespaces.pdb
+E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\01-03Point3D\bin\Debug\02HomeworkStaticMembersAndNamespaces.exe
+E:\Soft Uni\Homework\OOP\02HomworkStaticMembersAndNamespaces\02HomeworkStaticMembersAndNamespaces\01-03Point3D\bin\Debug\02HomeworkStaticMembersAndNamespaces.pdb

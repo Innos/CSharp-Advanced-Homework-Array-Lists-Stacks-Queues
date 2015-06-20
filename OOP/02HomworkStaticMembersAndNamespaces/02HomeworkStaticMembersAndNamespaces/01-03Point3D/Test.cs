@@ -10,8 +10,8 @@ namespace StaticMembersAndNamespaces
     {
         static void Main()
         {
-            Point3D test = new Point3D(1, 3, 5);
-            Point3D test2 = new Point3D(2, 4, 6);
+            Point3D test = new Point3D(5, 5, 5);
+            Point3D test2 = new Point3D(2, 2, 2);
             var distance = DistanceCalculator.CalculateDistance(test, test2);
 
             Console.WriteLine(Point3D.StartingPoint.ToString());
