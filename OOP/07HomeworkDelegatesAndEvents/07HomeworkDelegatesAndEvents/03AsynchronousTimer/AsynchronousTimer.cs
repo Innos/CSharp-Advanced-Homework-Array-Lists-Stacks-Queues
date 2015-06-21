@@ -22,10 +22,11 @@
         public int Interval { get; set; }
 
         public int Ticks { get; set; }
+        public Task Task { get; private set; }
 
         public async void Start()
         {
-            await Task.Run(() =>
+            this.Task = Task.Run(() =>
                     {
                         for (int i = 0; i < this.Ticks; i++)
                         {
@@ -33,7 +34,8 @@
                             Thread.Sleep(this.Interval);
                         }
                     });
-
+            await this.Task;
+            
             Console.WriteLine("Done!");
         }
     }

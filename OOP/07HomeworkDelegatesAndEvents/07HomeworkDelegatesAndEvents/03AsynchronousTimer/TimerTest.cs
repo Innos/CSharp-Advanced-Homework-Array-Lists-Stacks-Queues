@@ -1,4 +1,6 @@
-﻿namespace _03AsynchronousTimer
+﻿using System.Threading.Tasks;
+
+namespace _03AsynchronousTimer
 {
     #region
 
@@ -21,6 +23,7 @@
             {
                 input = Console.ReadLine();
             }
+            Task.WaitAll(timer.Task, timer2.Task);
         }
 
         public static void Print()
