@@ -1,35 +1,41 @@
 ﻿namespace _01ReformatCode.Data
 {
-    public static class Messages
-    { 
-        public static void EventAdded()
+    public class Messages
+    {
+        private readonly Engine engine;
+
+        public Messages(Engine engine)
         {
-            EventTestMain.Output.Append("Event added\n");
+            this.engine = engine;
         }
 
-        public static void EventDeleted(int x)
+        public void EventAdded()
+        {
+            this.engine.Output.Append("Event added\n");
+        }
+
+        public void EventDeleted(int x)
         {
             if (x == 0)
             {
-                NoEventsFound();
+                this.NoEventsFound();
             }
-
             else
             {
-                EventTestMain.Output.AppendFormat("{0} events deleted\n", x);
+                this.engine.Output.AppendFormat("{0} events deleted\n", x);
             }
         }
 
-        public static void NoEventsFound()
+        public void NoEventsFound()
         {
-            EventTestMain.Output.Append("No events found\n");
+            this.engine.Output.Append("No events found\n");
         }
 
-        public static void PrintEvent(Event eventToPrint)
+        public void PrintEvent(Event eventToPrint)
         {
             if (eventToPrint != null)
             {
-                EventTestMain.Output.Append(eventToPrint + "\n");
+                this.engine.Output.Append(eventToPrint + "\n");
             }
         }
     }

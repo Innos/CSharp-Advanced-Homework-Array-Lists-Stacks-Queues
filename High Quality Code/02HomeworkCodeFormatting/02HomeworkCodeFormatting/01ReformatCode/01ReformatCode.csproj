@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\CommandManager.cs" />
+    <Compile Include="Data\Engine.cs" />
     <Compile Include="Data\Event.cs" />
     <Compile Include="Data\EventHolder.cs" />
     <Compile Include="Data\Messages.cs" />

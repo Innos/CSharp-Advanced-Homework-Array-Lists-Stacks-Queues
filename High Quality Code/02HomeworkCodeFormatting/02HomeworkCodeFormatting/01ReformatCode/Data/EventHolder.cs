@@ -9,6 +9,13 @@
 
         private readonly OrderedBag<Event> eventsByDate = new OrderedBag<Event>();
 
+        private readonly Engine engine;
+
+        public EventHolder(Engine engine)
+        {
+            this.engine = engine;
+        }
+
         public void AddEvent(string command)
         {
             DateTime date = DateTime.Parse(command.Substring("AddEvent".Length + 1, 20));
@@ -31,7 +38,7 @@
             Event newEvent = new Event(date, title, location);
             this.eventsByTitle.Add(title.ToLower(), newEvent);
             this.eventsByDate.Add(newEvent);
-            Messages.EventAdded();
+            this.engine.Messages.EventAdded();
         }
 
         public void DeleteEvents(string command)
@@ -45,7 +52,7 @@
             }
 
             this.eventsByTitle.Remove(title);
-            Messages.EventDeleted(removed);
+            this.engine.Messages.EventDeleted(removed);
         }
 
         public void ListEvents(string command)
@@ -64,14 +71,14 @@
                     break;
                 }
 
-                Messages.PrintEvent(eventToShow);
+                this.engine.Messages.PrintEvent(eventToShow);
 
                 showed++;
             }
 
             if (showed == 0)
             {
-                Messages.NoEventsFound();
+                this.engine.Messages.NoEventsFound();
             }
         }
     }
