@@ -1,0 +1,3 @@
+C:\Soft Uni\Homework\High Quality Code\02HomeworkCodeFormatting\02HomeworkCodeFormatting\02ReformatYourOwnCode\bin\Debug\02ReformatYourOwnCode.exe.config
+C:\Soft Uni\Homework\High Quality Code\02HomeworkCodeFormatting\02HomeworkCodeFormatting\02ReformatYourOwnCode\obj\Debug\02ReformatYourOwnCode.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\High Quality Code\02HomeworkCodeFormatting\02HomeworkCodeFormatting\02ReformatYourOwnCode\bin\Debug\02ReformatYourOwnCode.exe.config

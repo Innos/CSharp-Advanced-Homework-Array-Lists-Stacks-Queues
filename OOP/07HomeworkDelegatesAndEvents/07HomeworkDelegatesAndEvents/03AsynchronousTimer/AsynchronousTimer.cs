@@ -22,20 +22,18 @@
         public int Interval { get; set; }
 
         public int Ticks { get; set; }
-        public Task Task { get; private set; }
 
         public async void Start()
         {
-            this.Task = Task.Run(() =>
+            await Task.Run(() =>
                     {
                         for (int i = 0; i < this.Ticks; i++)
                         {
                             this.Action();
                             Thread.Sleep(this.Interval);
                         }
-                    });
-            await this.Task;
-            
+                    }); 
+
             Console.WriteLine("Done!");
         }
     }

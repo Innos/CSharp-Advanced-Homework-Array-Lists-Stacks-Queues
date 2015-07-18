@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\04CustomTree\bin\Debug\04CustomTree.exe.config
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\04CustomTree\bin\Debug\04CustomTree.exe
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\04CustomTree\bin\Debug\04CustomTree.pdb
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\04CustomTree\obj\Debug\04CustomTree.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\04CustomTree\obj\Debug\04CustomTree.exe
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\04CustomTree\obj\Debug\04CustomTree.pdb

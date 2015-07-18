@@ -1,0 +1,18 @@
+C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.exe
+C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.pdb
+C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.exe
+C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.pdb
+E:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
+E:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Skeleton\MassEffect\obj\Debug\MassEffect.exe
+E:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Skeleton\MassEffect\obj\Debug\MassEffect.pdb
+C:\Soft Uni\Homework\High Quality Code\03HomeworkDocumentationAndComments\03HomeworkDocumentationAndComments\02InterfacesDocumentation\bin\Debug\MassEffect.exe.config
+C:\Soft Uni\Homework\High Quality Code\03HomeworkDocumentationAndComments\03HomeworkDocumentationAndComments\02InterfacesDocumentation\obj\Debug\MassEffect.exe
+C:\Soft Uni\Homework\High Quality Code\03HomeworkDocumentationAndComments\03HomeworkDocumentationAndComments\02InterfacesDocumentation\obj\Debug\MassEffect.pdb
+C:\Soft Uni\Homework\High Quality Code\03HomeworkDocumentationAndComments\03HomeworkDocumentationAndComments\02InterfacesDocumentation\bin\Debug\MassEffect.exe
+C:\Soft Uni\Homework\High Quality Code\03HomeworkDocumentationAndComments\03HomeworkDocumentationAndComments\02InterfacesDocumentation\bin\Debug\MassEffect.pdb
+C:\Soft Uni\Homework\High Quality Code\03HomeworkDocumentationAndComments\03HomeworkDocumentationAndComments\02InterfacesDocumentation\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\High Quality Code\03HomeworkDocumentationAndComments\03HomeworkDocumentationAndComments\02InterfacesDocumentation\bin\Debug\MassEffect.exe.config
+E:\Soft Uni\Homework\High Quality Code\03HomeworkDocumentationAndComments\03HomeworkDocumentationAndComments\02InterfacesDocumentation\obj\Debug\MassEffect.exe
+E:\Soft Uni\Homework\High Quality Code\03HomeworkDocumentationAndComments\03HomeworkDocumentationAndComments\02InterfacesDocumentation\obj\Debug\MassEffect.pdb

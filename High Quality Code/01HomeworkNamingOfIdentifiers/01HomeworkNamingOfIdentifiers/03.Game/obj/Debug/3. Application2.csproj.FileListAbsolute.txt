@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Application2\bin\Debug\Application2.exe.config
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Application2\bin\Debug\Application2.exe
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Application2\bin\Debug\Application2.pdb
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Application2\obj\Debug\3. Application2.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Application2\obj\Debug\Application2.exe
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Application2\obj\Debug\Application2.pdb

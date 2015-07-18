@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\02Customer\bin\Debug\02Customer.exe.config
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\02Customer\bin\Debug\02Customer.exe
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\02Customer\bin\Debug\02Customer.pdb
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\02Customer\obj\Debug\02Customer.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\02Customer\obj\Debug\02Customer.exe
+E:\Soft Uni\Homework\OOP\08HomeworkCommonTypesSystem\08HomeworkCommonTypesSystem\02Customer\obj\Debug\02Customer.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Orders\bin\Debug\Orders.exe.config
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Orders\bin\Debug\Orders.exe
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Orders\bin\Debug\Orders.pdb
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Orders\obj\Debug\2. Orders.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Orders\obj\Debug\Orders.exe
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\Orders\obj\Debug\Orders.pdb

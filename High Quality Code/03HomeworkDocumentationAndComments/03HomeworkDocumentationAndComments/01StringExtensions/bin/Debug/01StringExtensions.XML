@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>01StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:_01StringExtensions.StringExtensions">
+            <summary>
+            This class allows the transformation of a string into other types,latin letters, hash code or getting parts/extensions of the string.
+            </summary>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            The method converts a string into a md5 hash code and returns it.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns a string representing a md5 Hash code.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            The method converts a string into a boolean value based on if the string includes certain text and returns it.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns a boolean value representing whether the string contains any of the specified values meaning true.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToShort(System.String)">
+            <summary>
+            The method tries to convert a string into short.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns the result of short.parse or short's default value if the parse is unsuccessful.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToInteger(System.String)">
+            <summary>
+            The method tries to convert a string into integer.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns the result of integer.parse or integer's default value if the parse is unsuccessful.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToLong(System.String)">
+            <summary>
+            The method tries to convert a string into long.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns the result of long.parse or long's default value if the parse is unsuccessful.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            The method tries to convert a string into a DateTime and returns the result of the Try parse.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns the result of DateTime.parse or DateTime's default value if the parse is unsuccessful.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            The method capitalizes the first letter of a input string and then returns the string, if the string is empty it returns it.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns the input string with a capitalized first letter.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            The method returns a substring from a given string delimited by a starting string and an ending string, with an option to start from an offset.
+            If the delimiting strings aren't contained in the input string or the offset is wrong it returns string.Empty.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <param name="startString">
+            Represents the starting delimiter string.
+            </param>
+            <param name="endString">
+            Represents the ending delimiter string.
+            </param>
+            <param name="startFrom">
+            Represents the offset.
+            </param>
+            <returns>
+            Returns a substring from the given string delimited by two given strings with a possibility of specifying an start offset, or string.Empty if any of the values are incorrect.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            The method converts the cyrillic letters in a given string to their latin representation based on their sound.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns a string where all cyrillic letters have been changed with their latin representations based on their sound.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            The method converts the the latin letters in a string to cyrillic based on their keyboard position.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns a string where all Latin letters have been changed with their Cyrillic representations based on their keyboard position.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            The method calls the "ConvertCyrillicToLatinLetters" method and then replaces any non word characters with the exception of the dot ('.') with string.Empty.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns a string where all cyrillic letters and all non word characters with the exception of the '.'(dot) have been replaced.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            The method replaces all whitespaces in a string to the '-'(dash) char, then calls the "ConvertCyrillicToLatinLetters" method and then replaces any non word characters with the exception of the dot ('.') and the dash('-') with string.Empty.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns a string where all cyrillic letters and all non word characters with the exception of '.'(dot) and '-'(dash)  have been replaced.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            The method returns a substring from a given string.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <param name="charsCount">
+            Represents the length of the desired substring.
+            </param>
+            <returns>
+            Returns a substring of given length or the entire input string if specified length is bigger than the input string's length.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            The method returns the extension of a filename given as a string, by splitting the string on the '.'(dot) delimiter, if the string doesn't split or is null or empty returns string.Empty.
+            </summary>
+            <param name="fileName">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns the file extension from a file name given as a string or string empty if given string is incorrect.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToContentType(System.String)">
+            <summary>
+            The method returns the content type of an extension given as a string, by comparing it to a dictionary of predefined values.
+            If a match is not found in the dictionary it returns a default response.
+            </summary>
+            <param name="fileExtension">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns a string meaning a specific content type from a given file extension as a string.
+            </returns>
+        </member>
+        <member name="M:_01StringExtensions.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            The method returns a given string as a byte array with the size of the string length multiplied by the size of char.
+            </summary>
+            <param name="input">
+            Represents the string we'll be working with.
+            </param>
+            <returns>
+            Returns a byte array with the length of a given string's length multiplied by the size of char.
+            </returns>
+        </member>
+    </members>
+</doc>

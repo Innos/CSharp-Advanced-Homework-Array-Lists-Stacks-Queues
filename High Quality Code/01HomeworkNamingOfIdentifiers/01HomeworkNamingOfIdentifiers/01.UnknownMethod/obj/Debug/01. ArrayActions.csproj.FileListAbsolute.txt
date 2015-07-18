@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\01. ArrayActions\bin\Debug\ConsoleApplication1.exe.config
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\01. ArrayActions\bin\Debug\ConsoleApplication1.exe
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\01. ArrayActions\bin\Debug\ConsoleApplication1.pdb
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\01. ArrayActions\obj\Debug\01. ArrayActions.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\01. ArrayActions\obj\Debug\ConsoleApplication1.exe
+E:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\01. ArrayActions\obj\Debug\ConsoleApplication1.pdb

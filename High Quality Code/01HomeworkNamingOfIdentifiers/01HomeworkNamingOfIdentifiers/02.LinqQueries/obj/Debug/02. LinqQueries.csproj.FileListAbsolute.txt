@@ -1,0 +1,3 @@
+C:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\02.LinqQueries\bin\Debug\Orders.exe.config
+C:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\02.LinqQueries\obj\Debug\Orders.exe
+C:\Soft Uni\Homework\High Quality Code\01HomeworkNamingOfIdentifiers\01HomeworkNamingOfIdentifiers\02.LinqQueries\obj\Debug\Orders.pdb

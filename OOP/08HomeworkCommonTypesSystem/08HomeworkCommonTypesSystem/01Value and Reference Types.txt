@@ -1,0 +1,27 @@
+•	Which .NET data types are value types? Which types are reference types?
+
+The value types in .NET are all primitive types(int,bool,etc.) , Structs and Enumerations. Pretty much everything else is a reference type, you can have a value type be treated as a reference type if you box it(i.e. represent it as an object).
+
+•	How do value and reference types differ when assigned to a variable? 
+
+When assigned to a variable value types are allocated and stored on the stack, while reference types are stored on the heap and only the reference to their position in the heap is kept in the stack.
+
+•	How do value and reference types behave when passed as argument to a method?
+
+When you pass a value type as an argument to a method a new value type with the same value is created and allocated on the stack and it is passed to the method instead of the original value(any manipulations done to this new value will NOT affect the original one). If you pass a reference as an argument, you copy the reference pointing to the object in the heap and pass it, since both references point to the same place any manupulations done to the object will register, since you're working on the original object both references point to, this is called mutation.
+
+•	Where in memory are value types allocated? Where are reference types allocated?
+
+Value types are standartly allocated on the stack, while reference types are allocated on the heap, certain situations though may cause this to change, for example a static int (int is a value type) is actually kept on the heap(since it is a single object shared between all possible instances that have it, it must be kept on the stack). Another situation is a struct(value type) which is an instance field of a reference type(i.e. part of a class) this struct would be kept on the heap along with the object.
+
+•	What is data mutation? Can value types be mutated? Can reference types be mutated?
+
+Mutation means chaning an object that a reference points to. For example if we have 3 references (on the stack) to a single object on the heap, changing a parameter on the object(let's say we have a Student student with a name = "pesho" and we change student's name to "gosho" all references to student will now display "gosho" as the student's name)  would be reflected by all other references to this object as well. Value types cannot be mutated, only reference types can be mutated, as the above example if we have 3 different variables of a reference type they would be just adresses pointing to a single object in the heap, however if they were of a value type they would actually be 3 different objects stored on the stack.
+
+•	What is the difference between mutating and setting (assigning) a variable? Give examples.
+
+Setting is just manipulating the reference(adress) to which a variable in the stack points, while mutating is actually changing the object to which this adress points. Giving a variable a new adress is setting, while changing the object to which the variable points is mutating. Like the above example if we have a Student student with a field name equal to "pesho" the variable student in my program is actually a reference to a position in the heap where this student object is kept, if i were to write student = new Student(), I would create a new reference to a new object on the heap and have the variable student hold that reference instead (the other student with a name "pesho" will still exist (provided references to him still exist in the code and it hasn't been deleted by the Garbage collector)), this is called setting. If on the other hand i write student.Name = "gosho" i would mutate the object changing it's parameters, the variable student will still have kept the original reference.
+
+•	What are the out and ref keywords used for? In what do they differ?
+
+The ref keyword passes the original variable as a parameter instead of creating a copy of it and passing that. Lets say we have a method which takes a parameter of an int type, normally calling this method with a variable a = 5, would make a copy of the variable and pass the copy to the method, however using ref keyword, the original variable will be passed and any manipulation done to it in the method will be kept as the manipulation was actually done on the original variable. The out keyword functions exactly the same as the ref keyword with the addition that it obliges you to change the variable in the method, regardless of actual usage of the variable in the method, also unlike ref, the out keyword doesn't require you to have initialized a variable.

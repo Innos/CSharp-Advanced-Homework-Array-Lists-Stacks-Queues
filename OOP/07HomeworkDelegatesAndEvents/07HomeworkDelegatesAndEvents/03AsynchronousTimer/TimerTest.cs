@@ -23,7 +23,7 @@ namespace _03AsynchronousTimer
             {
                 input = Console.ReadLine();
             }
-            Task.WaitAll(timer.Task, timer2.Task);
+            
         }
 
         public static void Print()
