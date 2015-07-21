@@ -1,0 +1,9 @@
+C:\Soft Uni\Homework\High Quality Code\05HomeworkHighQualityClasses\Assignment\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Soft Uni\Homework\High Quality Code\05HomeworkHighQualityClasses\Assignment\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Soft Uni\Homework\High Quality Code\05HomeworkHighQualityClasses\Assignment\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Homework\High Quality Code\05HomeworkHighQualityClasses\Assignment\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Soft Uni\Homework\High Quality Code\05HomeworkHighQualityClasses\Assignment\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+C:\Soft Uni\Homework\High Quality Code\05HomeworkHighQualityClasses\05HomeworkHighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Soft Uni\Homework\High Quality Code\05HomeworkHighQualityClasses\05HomeworkHighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+E:\Soft Uni\Homework\High Quality Code\05HomeworkHighQualityClasses\05HomeworkHighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+E:\Soft Uni\Homework\High Quality Code\05HomeworkHighQualityClasses\05HomeworkHighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

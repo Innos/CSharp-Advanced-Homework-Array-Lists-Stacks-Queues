@@ -1,0 +1,10 @@
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\Assignment\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\Assignment\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\Assignment\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\Assignment\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\Assignment\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\04HomeworkHighQualityMethods\obj\Debug\Methods.exe
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\04HomeworkHighQualityMethods\obj\Debug\Methods.pdb
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\04HomeworkHighQualityMethods\bin\Debug\Methods.exe
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\04HomeworkHighQualityMethods\bin\Debug\Methods.pdb
+E:\Soft Uni\Homework\High Quality Code\04HomeworkHighQualityMethods\04HomeworkHighQualityMethods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
