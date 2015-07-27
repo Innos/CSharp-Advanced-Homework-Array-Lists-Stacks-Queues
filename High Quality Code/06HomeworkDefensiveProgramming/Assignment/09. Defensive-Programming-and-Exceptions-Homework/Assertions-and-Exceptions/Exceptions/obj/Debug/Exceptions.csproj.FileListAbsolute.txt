@@ -1,5 +1,0 @@
-E:\Soft Uni\Homework\High Quality Code\06HomeworkDefensiveProgramming\Assignment\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
-E:\Soft Uni\Homework\High Quality Code\06HomeworkDefensiveProgramming\Assignment\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
-E:\Soft Uni\Homework\High Quality Code\06HomeworkDefensiveProgramming\Assignment\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
-E:\Soft Uni\Homework\High Quality Code\06HomeworkDefensiveProgramming\Assignment\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
-E:\Soft Uni\Homework\High Quality Code\06HomeworkDefensiveProgramming\Assignment\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb
