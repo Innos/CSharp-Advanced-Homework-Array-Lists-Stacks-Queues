@@ -15,28 +15,38 @@ namespace CustomLinkedListTests
 
             //Act
             var testDynamicList = new DynamicList<int>();
-            
+
             //Assert
-            Assert.IsInstanceOfType(testDynamicList,typeof(DynamicList<int>),"Dynamic List Constructor did not retunr an object of the correct type.");
+            Assert.IsInstanceOfType(testDynamicList, typeof(DynamicList<int>), "Dynamic List Constructor did not return an object of the correct type.");
         }
 
         [TestMethod]
-        public void TestDynamicListCountProperty_ShouldReturnTheAmountOfElementsInTheList()
+        public void TestDynamicListCountPropertyOfAnEmptyObject_ShouldReturnTheAmountOfElementsInTheList()
         {
             //Arange
             var dynamicList = new DynamicList<int>();
-            var dynamicList2 = new DynamicList<int>();
             int expectedResult = 0;
-            int expectedResult2 = 3;
 
             //Act
-            dynamicList2.Add(5);
-            dynamicList2.Add(10);
-            dynamicList2.Add(15);
 
             //Assert
             Assert.AreEqual(dynamicList.Count, expectedResult, "List.Count returned an incorrect value!");
-            Assert.AreEqual(dynamicList2.Count, expectedResult2, "List.Count returned an incorrect value!");
+        }
+
+        [TestMethod]
+        public void TestDynamicListCountPropertyOfANonEmptyObject_ShouldReturnTheAmountOfElementsInTheList()
+        {
+            //Arange
+            var dynamicList = new DynamicList<int>();
+            int expectedResult = 3;
+
+            //Act
+            dynamicList.Add(5);
+            dynamicList.Add(10);
+            dynamicList.Add(15);
+
+            //Assert
+            Assert.AreEqual(dynamicList.Count, expectedResult, "List.Count returned an incorrect value!");
         }
 
         [TestMethod]
@@ -51,11 +61,11 @@ namespace CustomLinkedListTests
             var expectedResult = dynamicList[1];
 
             //Assert
-            Assert.AreEqual(expectedResult,dynamicList[1],"Indexer getter returned an incorect value.");
+            Assert.AreEqual(expectedResult, dynamicList[1], "Indexer getter returned an incorect value.");
         }
 
         [TestMethod]
-        [ExpectedException(typeof(ArgumentOutOfRangeException))] 
+        [ExpectedException(typeof(ArgumentOutOfRangeException))]
         public void TestDynamicListIndexatorGetter_ShouldThrowExceptionWhenWrongIndexIsInputed()
         {
             //Arange
@@ -94,6 +104,7 @@ namespace CustomLinkedListTests
 
             //Act
             dynamicList[10] = 50;
+            dynamicList[-1] = 20;
 
             //Assert
         }
@@ -101,18 +112,30 @@ namespace CustomLinkedListTests
 
 
         [TestMethod]
-        public void TestDynamicListAddMethod_ShouldAddAnElementToTheListWithTheSameValue()
+        public void TestDynamicListAddMethod_ShouldAddAnElementToTheList()
         {
             //Arange
             var dynamicList = new DynamicList<int>();
             var expectedCount = 1;
-            var expectedValue = 5;
 
             //Act
             dynamicList.Add(5);
 
             //Assert
             Assert.AreEqual(dynamicList.Count, expectedCount, "Add Method did not change List.Count correctly!");
+        }
+
+        [TestMethod]
+        public void TestDynamicListAddMethod_ShouldAddAnElementToTheListWithTheSameValue()
+        {
+            //Arange
+            var dynamicList = new DynamicList<int>();
+            var expectedValue = 5;
+
+            //Act
+            dynamicList.Add(5);
+
+            //Assert
             Assert.AreEqual(dynamicList[0], expectedValue, "Add Method did not add the element with a correct value!");
         }
 
@@ -142,7 +165,7 @@ namespace CustomLinkedListTests
             dynamicList.RemoveAt(1);
 
             //Assert
-            Assert.AreEqual(dynamicList.Count,expectedCount,"RemoveAt method didn't change List.Count correctly!");
+            Assert.AreEqual(dynamicList.Count, expectedCount, "RemoveAt method didn't change List.Count correctly!");
         }
 
         [TestMethod]
@@ -172,7 +195,7 @@ namespace CustomLinkedListTests
             var returnedElement = dynamicList.Remove(5);
 
             //Assert
-            Assert.AreEqual(expectedResult,returnedElement,@"Remove method did not return ""-1"" when the element doesn't exist!");
+            Assert.AreEqual(expectedResult, returnedElement, @"Remove method did not return ""-1"" when the element doesn't exist!");
         }
 
         [TestMethod]
