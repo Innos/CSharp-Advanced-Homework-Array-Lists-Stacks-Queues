@@ -1,7 +1,7 @@
 ﻿namespace _01Logger.Layouts
 {
     using System;
-    using _01Logger.Interfaces;
+    using _01Logger.Enums;
 
     public class SimpleLayout : Layout
     {

@@ -2,6 +2,8 @@
 {
     using System;
 
+    using _01Logger.Enums;
+
     public interface IAppend
     {
         void Append(string message, ReportLevel level, DateTime date);

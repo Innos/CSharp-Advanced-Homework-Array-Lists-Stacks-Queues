@@ -2,7 +2,7 @@
 {
     using System;
     using System.Text;
-    using _01Logger.Interfaces;
+    using _01Logger.Enums;
 
     public class JsonLayout : Layout
     {

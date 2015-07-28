@@ -1,12 +1,8 @@
 ﻿namespace _01Logger.Appenders
 {
-    #region
-
     using System;
-
+    using _01Logger.Enums;
     using _01Logger.Interfaces;
-
-    #endregion
 
     public class ConsoleAppender : Appender
     {

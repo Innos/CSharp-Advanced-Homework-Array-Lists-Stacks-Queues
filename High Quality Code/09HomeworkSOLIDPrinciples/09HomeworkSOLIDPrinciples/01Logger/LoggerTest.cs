@@ -1,6 +1,7 @@
 ﻿namespace _01Logger
 {
     using _01Logger.Appenders;
+    using _01Logger.Enums;
     using _01Logger.Layouts;
     using _01Logger.Loggers;
 

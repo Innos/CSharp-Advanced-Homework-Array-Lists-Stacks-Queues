@@ -2,6 +2,8 @@
 {
     using System;
     using System.Collections.Generic;
+
+    using _01Logger.Enums;
     using _01Logger.Interfaces;
 
     public class Logger : ILogger

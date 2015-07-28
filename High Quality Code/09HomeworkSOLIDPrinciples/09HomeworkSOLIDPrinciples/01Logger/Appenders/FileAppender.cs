@@ -1,8 +1,8 @@
-﻿
-namespace _01Logger.Appenders
+﻿namespace _01Logger.Appenders
 {
     using System;
     using System.IO;
+    using _01Logger.Enums;
     using _01Logger.Interfaces;
 
     public class FileAppender : Appender

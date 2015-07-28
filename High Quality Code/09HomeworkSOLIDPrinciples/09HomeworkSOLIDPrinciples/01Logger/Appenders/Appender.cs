@@ -1,7 +1,7 @@
-﻿
-namespace _01Logger.Appenders
+﻿namespace _01Logger.Appenders
 {
     using System;
+    using _01Logger.Enums;
     using _01Logger.Interfaces;
 
     public abstract class Appender : IAppender
