@@ -9,7 +9,7 @@
     {
         private readonly StreamWriter writer;
 
-        public FileAppender(IFormat formatter, string path)
+        public FileAppender(ILayout formatter, string path)
             : base(formatter)
         {
             this.Path = path;
@@ -19,6 +19,11 @@
 
         public override void Append(string message, ReportLevel level, DateTime date)
         {
+            if (level < this.ReportLevel)
+            {
+                return;
+            }
+
             var output = this.Formatter.Format(message, level, date);
 
             this.writer.WriteLine(output);

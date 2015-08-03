@@ -3,12 +3,13 @@
     using System;
     using System.Text;
     using _01Logger.Enums;
+    using _01Logger.Interfaces;
 
-    public class XmlLayout : Layout
+    public class XmlLayout : ILayout
     {
         private static readonly string Indentation = new string(' ', 4);
 
-        public override string Format(string message, ReportLevel level, DateTime date)
+        public string Format(string message, ReportLevel level, DateTime date)
         {
             StringBuilder output = new StringBuilder();
             output.AppendLine("<Log>");

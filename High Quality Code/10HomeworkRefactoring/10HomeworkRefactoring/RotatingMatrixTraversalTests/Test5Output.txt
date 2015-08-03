@@ -1,0 +1,2 @@
+Enter a positive number:
+You haven't entered a correct positive number!

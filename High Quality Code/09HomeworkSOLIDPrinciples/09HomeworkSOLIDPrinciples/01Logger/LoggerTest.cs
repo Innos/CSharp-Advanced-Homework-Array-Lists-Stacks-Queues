@@ -22,6 +22,7 @@
             logger.Error("Error parsing JSON.");
             logger.Info(string.Format("User {0} successfully registered.", "Pesho"));
             logger.Warn("Warning - missing files.");
+            logger.Fatal("msdn.dll did not load!");
 
 
             fileAppender.Close();

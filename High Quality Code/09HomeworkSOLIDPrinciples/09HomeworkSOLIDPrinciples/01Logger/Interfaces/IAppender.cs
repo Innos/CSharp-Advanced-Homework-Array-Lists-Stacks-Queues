@@ -3,10 +3,10 @@
     using System;
     using _01Logger.Enums;
 
-    public interface IAppender : IAppend
+    public interface IAppender 
     {
         ReportLevel ReportLevel { get; set; }
 
-        void ValidatedAppend(string message, ReportLevel level, DateTime date);
+        void Append(string message, ReportLevel level, DateTime date);
     }
 }

@@ -4,7 +4,7 @@
 
     using _01Logger.Enums;
 
-    public interface IFormat
+    public interface ILayout
     {
         string Format(string message, ReportLevel level, DateTime date);
     }

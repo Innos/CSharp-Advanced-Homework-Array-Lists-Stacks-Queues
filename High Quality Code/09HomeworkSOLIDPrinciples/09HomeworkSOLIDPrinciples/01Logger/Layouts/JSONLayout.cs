@@ -3,10 +3,11 @@
     using System;
     using System.Text;
     using _01Logger.Enums;
+    using _01Logger.Interfaces;
 
-    public class JsonLayout : Layout
+    public class JsonLayout : ILayout
     {
-        public override string Format(string message, ReportLevel level, DateTime date)
+        public string Format(string message, ReportLevel level, DateTime date)
         {
             StringBuilder output = new StringBuilder();
             output.AppendLine("{");

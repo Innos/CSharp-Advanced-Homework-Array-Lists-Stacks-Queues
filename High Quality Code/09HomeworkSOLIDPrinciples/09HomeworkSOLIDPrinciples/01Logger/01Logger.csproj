@@ -62,9 +62,7 @@
     <Compile Include="Appenders\Appender.cs" />
     <Compile Include="Appenders\ConsoleAppender.cs" />
     <Compile Include="Appenders\FileAppender.cs" />
-    <Compile Include="Interfaces\IAppend.cs" />
     <Compile Include="Layouts\JsonLayout.cs" />
-    <Compile Include="Layouts\Layout.cs" />
     <Compile Include="Layouts\SimpleLayout.cs" />
     <Compile Include="Layouts\XmlLayout.cs" />
     <Compile Include="Interfaces\IAppender.cs" />

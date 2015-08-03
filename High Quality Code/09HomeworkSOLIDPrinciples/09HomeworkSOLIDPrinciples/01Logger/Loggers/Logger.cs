@@ -21,7 +21,7 @@
 
             foreach (var appender in this.Appenders)
             {
-                appender.ValidatedAppend(msg,level,date);
+                appender.Append(msg,level,date);
             }
         }
         public void Info(string msg)

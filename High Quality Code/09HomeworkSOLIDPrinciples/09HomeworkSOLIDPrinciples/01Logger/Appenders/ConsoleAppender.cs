@@ -6,13 +6,17 @@
 
     public class ConsoleAppender : Appender
     {
-        public ConsoleAppender(IFormat formatter)
+        public ConsoleAppender(ILayout formatter)
             : base(formatter)
         {
         }
 
         public override void Append(string message, ReportLevel level, DateTime date)
         {
+            if (level < this.ReportLevel)
+            {
+                return;
+            }
             var output = this.Formatter.Format(message, level, date);
             Console.WriteLine(output);
         }
