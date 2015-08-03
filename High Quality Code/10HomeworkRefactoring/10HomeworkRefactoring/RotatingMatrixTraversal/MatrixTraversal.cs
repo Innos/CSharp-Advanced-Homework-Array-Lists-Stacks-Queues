@@ -6,7 +6,7 @@
 
     public class RotatingMatrixTraversal
     {
-        private static Point GetNewDirection(int[,] matrix, int row, int col, Point direction)
+        private static Point? GetNewDirection(int[,] matrix, int row, int col, Point direction)
         {
             List<Point> directions =
                 new List<Point>()
@@ -40,10 +40,10 @@
                     return new Point(rowChange, colChange);
                 }
             }
-            throw new NoViableCellsFoundException("No viable cells found!");
+            return null;
         }
 
-        private static Point FindNewStartingCell(int[,] matrix)
+        private static Point? FindNewStartingCell(int[,] matrix)
         {
             for (int rows = 0; rows < matrix.GetLength(0); rows++)
             {
@@ -55,7 +55,7 @@
                     }
                 }
             }
-            throw new NoViableCellsFoundException("No viable cells found!");
+            return null;
         }
 
         private static void TraverseMatrix(int[,] matrix)
@@ -66,36 +66,32 @@
             int rowChange = 1;
             int colChange = 1;
 
-            for(int i = 1; i <= matrix.Length; i++)
+            for (int i = 1; i <= matrix.Length; i++)
             {
                 matrix[row, col] = cellValue;
-                try 
+
+                Point? newDirection = GetNewDirection(matrix, row, col, new Point(rowChange, colChange));
+                if (newDirection.HasValue)
                 {
-                    Point newDirection = GetNewDirection(matrix, row, col, new Point(rowChange, colChange));
-                    rowChange = newDirection.X;
-                    colChange = newDirection.Y;
+                    rowChange = newDirection.Value.X;
+                    colChange = newDirection.Value.Y;
                     row += rowChange;
                     col += colChange;
                 }
-                catch(NoViableCellsFoundException)
+                else
                 {
                     //If no neighbouring cells are viable for traversing find a new starting cell
-                    try
+                    Point? newStartingCell = FindNewStartingCell(matrix);
+                    if (newStartingCell.HasValue)
                     {
-                        Point newStartingCell = FindNewStartingCell(matrix);
-                        row = newStartingCell.X;
-                        col = newStartingCell.Y;
+                        row = newStartingCell.Value.X;
+                        col = newStartingCell.Value.Y;
                         rowChange = 1;
                         colChange = 1;
                     }
-                    catch (NoViableCellsFoundException)
-                    {
-                    }
-
                 }
 
                 cellValue++;
-
             }
         }
 
