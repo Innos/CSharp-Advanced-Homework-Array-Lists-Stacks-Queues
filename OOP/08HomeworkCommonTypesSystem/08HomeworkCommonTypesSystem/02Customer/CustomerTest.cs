@@ -45,6 +45,8 @@ namespace _02Customer
             Console.WriteLine(
                 string.Join(Environment.NewLine, customers
                     .Select(c => new { c.FullName, c.ID, })));
+
+
         }
     }
 }
