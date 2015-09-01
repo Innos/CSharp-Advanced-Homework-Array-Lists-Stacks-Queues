@@ -1,0 +1,7 @@
+1. Shift + right click-> Open cmd in current window
+2. set path*=<Path to your JDK bin folder> to add the java commands
+*If you've set the path to your JDK in the System variables PATH 
+you can miss this step
+3. javac SumTwoNumbers.java
+4. java SumTwoNumbers
+5. program starts operating and waits for 2 integers to be inputed.
