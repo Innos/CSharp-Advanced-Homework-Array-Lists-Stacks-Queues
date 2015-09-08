@@ -10,6 +10,15 @@ import java.io.Writer;
 import java.util.Scanner;
 
 public class PaintAHouseAsASVG {
+
+    private static final int pixelOffsetX = 45;
+    private static final int pixelOffsetY = 40;
+
+    private static final double unitOffsetX = 10;
+    private static final double unitOffsetY = 3.5;
+
+    private static final int pointSize = 8;
+
     public static void main(String[] args) {
         DOMImplementation impl = GenericDOMImplementation.getDOMImplementation();
 
@@ -29,23 +38,30 @@ public class PaintAHouseAsASVG {
             double x = scanner.nextDouble();
             double y = scanner.nextDouble();
 
-            int a = (int)(45 + (x-10)*20);
-            int b = (int)(40 + (y-3.5)*20);
+            //coordinates point to the center of the location that will contain the point
+            int pixelPositionX = (int)(pixelOffsetX + (x-unitOffsetX)*20);
+            int pixelPositionY = (int)(pixelOffsetY + (y-unitOffsetY)*20);
+
+            // we offset the above coordinates with half the length of a point, so the point's center will actually land
+            // on the above coordinates (because drawing starts from a coordinate and draws the object down and to the right)
+            int pointStartX = pixelPositionX - pointSize/2;
+            int pointStartY = pixelPositionY - pointSize/2;
+
             if(PointsInsideTheHouse.isOutsideHouse(x,y)){
                 svgGenerator.setColor(Color.gray);
-                svgGenerator.fillOval(a-4,b-4,8,8);
+                svgGenerator.fillOval(pointStartX, pointStartY, pointSize, pointSize);
 
                 svgGenerator.setColor(Color.black);
                 svgGenerator.setStroke(new BasicStroke(1));
-                svgGenerator.drawOval(a-4, b-4, 8, 8);
+                svgGenerator.drawOval(pointStartX, pointStartY, pointSize, pointSize);
+
             } else {
                 svgGenerator.setColor(Color.black);
-                svgGenerator.fillOval(a-4,b-4,8,8);
+                svgGenerator.fillOval(pointStartX, pointStartY, pointSize, pointSize);
             }
         }
 
-        try{
-            Writer out = new FileWriter("house.html");
+        try(Writer out = new FileWriter("house.html");){
             svgGenerator.stream(out, true);
         } catch (Exception ex){
         }
@@ -94,10 +110,10 @@ public class PaintAHouseAsASVG {
         g2d.drawString("13.5",0,245);
         g2d.drawString("16", 0, 295);
 
-        float alpha = 0.2f;
-        Color color = new Color(0, 0.2f, 1, alpha);
+        Color color = new Color(0, 0.2f, 1, 0.2f);
         g2d.setPaint(color);
         Stroke dashed = new BasicStroke(1, BasicStroke.CAP_BUTT, BasicStroke.CAP_ROUND, 0, new float[]{2}, 0);
+
         g2d.setStroke(dashed);
 
         g2d.drawLine(45, 25, 45, 325);
