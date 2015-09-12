@@ -3,3 +3,6 @@ C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\07ReformatCSharpC
 C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\07ReformatCSharpCode\bin\Debug\07ReformatCSharpCode.pdb
 C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\07ReformatCSharpCode\obj\Debug\07ReformatCSharpCode.exe
 C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\07ReformatCSharpCode\obj\Debug\07ReformatCSharpCode.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\07ReformatCSharpCode\bin\Debug\07ReformatCSharpCode.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\07ReformatCSharpCode\obj\Debug\07ReformatCSharpCode.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\07ReformatCSharpCode\obj\Debug\07ReformatCSharpCode.pdb

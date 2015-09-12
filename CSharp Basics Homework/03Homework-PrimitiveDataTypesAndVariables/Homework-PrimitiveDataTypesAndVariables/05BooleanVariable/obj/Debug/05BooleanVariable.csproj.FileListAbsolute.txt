@@ -8,3 +8,6 @@ E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\05BooleanV
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\05BooleanVariable\obj\Debug\05BooleanVariable.pdb
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\05BooleanVariable\bin\Debug\05BooleanVariable.exe
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\05BooleanVariable\obj\Debug\05BooleanVariable.pdb

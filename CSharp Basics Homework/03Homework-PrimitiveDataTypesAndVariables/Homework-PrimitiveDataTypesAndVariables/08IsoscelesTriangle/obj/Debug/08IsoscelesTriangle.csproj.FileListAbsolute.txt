@@ -10,3 +10,6 @@ E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08Isoscele
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb

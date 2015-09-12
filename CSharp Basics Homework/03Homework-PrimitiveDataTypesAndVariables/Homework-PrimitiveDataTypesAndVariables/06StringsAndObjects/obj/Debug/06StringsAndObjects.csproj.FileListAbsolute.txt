@@ -6,3 +6,6 @@ c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\06Strin
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb

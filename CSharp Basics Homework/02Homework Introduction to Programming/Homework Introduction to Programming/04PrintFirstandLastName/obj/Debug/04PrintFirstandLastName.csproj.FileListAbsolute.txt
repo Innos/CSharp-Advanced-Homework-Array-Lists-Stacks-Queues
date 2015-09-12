@@ -7,3 +7,6 @@ C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\04PrintFirstandLa
 E:\Soft Uni\Homework\Lekciq 2\Solution1\04PrintFirstandLastName\bin\Debug\04PrintFirstandLastName.exe.config
 E:\Soft Uni\Homework\Lekciq 2\Solution1\04PrintFirstandLastName\obj\Debug\04PrintFirstandLastName.exe
 E:\Soft Uni\Homework\Lekciq 2\Solution1\04PrintFirstandLastName\obj\Debug\04PrintFirstandLastName.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\04PrintFirstandLastName\bin\Debug\04PrintFirstandLastName.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\04PrintFirstandLastName\obj\Debug\04PrintFirstandLastName.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\04PrintFirstandLastName\obj\Debug\04PrintFirstandLastName.pdb

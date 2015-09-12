@@ -6,3 +6,6 @@ c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\07Quote
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb

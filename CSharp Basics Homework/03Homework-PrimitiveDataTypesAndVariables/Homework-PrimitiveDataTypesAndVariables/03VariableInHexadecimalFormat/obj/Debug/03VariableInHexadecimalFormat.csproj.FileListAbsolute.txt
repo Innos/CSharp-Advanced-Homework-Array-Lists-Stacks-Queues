@@ -7,3 +7,6 @@ c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\03Varia
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe.config
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.exe
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.pdb

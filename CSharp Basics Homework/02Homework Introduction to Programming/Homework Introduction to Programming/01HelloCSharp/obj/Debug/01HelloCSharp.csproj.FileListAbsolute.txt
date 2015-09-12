@@ -7,3 +7,6 @@ C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\01HelloCSharp\obj
 E:\Soft Uni\Homework\Lekciq 2\Solution1\01HelloCSharp\bin\Debug\Hello World.exe.config
 E:\Soft Uni\Homework\Lekciq 2\Solution1\01HelloCSharp\obj\Debug\Hello World.exe
 E:\Soft Uni\Homework\Lekciq 2\Solution1\01HelloCSharp\obj\Debug\Hello World.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\01HelloCSharp\bin\Debug\Hello World.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\01HelloCSharp\obj\Debug\Hello World.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\01HelloCSharp\obj\Debug\Hello World.pdb

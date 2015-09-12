@@ -10,3 +10,6 @@ E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\01DeclareV
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.exe
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.pdb
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\01DeclareVariables\obj\Debug\01DeclareVariables.pdb

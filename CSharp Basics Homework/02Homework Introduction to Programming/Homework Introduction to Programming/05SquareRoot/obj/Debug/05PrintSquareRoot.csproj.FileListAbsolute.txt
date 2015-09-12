@@ -6,3 +6,6 @@ C:\Users\Innos\Documents\Visual Studio 2013\Projects\Solution1\05SquareRoot\obj\
 E:\Soft Uni\Homework\Lekciq 2\Solution1\05SquareRoot\bin\Debug\05SquareRoot.exe.config
 E:\Soft Uni\Homework\Lekciq 2\Solution1\05SquareRoot\obj\Debug\05SquareRoot.exe
 E:\Soft Uni\Homework\Lekciq 2\Solution1\05SquareRoot\obj\Debug\05SquareRoot.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\05SquareRoot\bin\Debug\05SquareRoot.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\05SquareRoot\obj\Debug\05SquareRoot.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\02Homework Introduction to Programming\Homework Introduction to Programming\05SquareRoot\obj\Debug\05SquareRoot.pdb

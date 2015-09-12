@@ -6,3 +6,6 @@ c:\users\innos2\documents\visual studio 2013\Projects\01DeclareVariables\04Unico
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
 E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\03Homework-PrimitiveDataTypesAndVariables\Homework-PrimitiveDataTypesAndVariables\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb
