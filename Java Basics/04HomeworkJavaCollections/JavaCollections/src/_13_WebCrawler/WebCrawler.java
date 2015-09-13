@@ -1,6 +1,4 @@
-package WebCrawler;
-
-import org.omg.CORBA.Environment;
+package _13_WebCrawler;
 
 import java.io.*;
 import java.net.MalformedURLException;

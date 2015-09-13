@@ -8,8 +8,7 @@ public class _07_CountSubstringOccurences {
         String line = scanner.nextLine();
         String word = scanner.next();
 
-        String pat = word;
-        Pattern pattern = Pattern.compile(pat, Pattern.CASE_INSENSITIVE);
+        Pattern pattern = Pattern.compile(word, Pattern.CASE_INSENSITIVE);
         Matcher matcher = pattern.matcher(line);
 
         int count = 0;

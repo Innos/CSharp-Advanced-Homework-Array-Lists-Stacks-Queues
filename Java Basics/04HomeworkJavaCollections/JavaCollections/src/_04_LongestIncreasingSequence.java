@@ -22,16 +22,19 @@ public class _04_LongestIncreasingSequence {
         currentSequence.add(numbers.get(0));
         ArrayList<Integer> longestSequence = new ArrayList<>(currentSequence);
         for (int i = 1; i <numbers.size() ; i++) {
-            if(numbers.get(i) > numbers.get(i-1)){
+            if(numbers.get(i) > numbers.get(i - 1)){
                 currentSequence.add(numbers.get(i));
             }else{
                 System.out.println(currentSequence);
                 currentSequence.clear();
                 currentSequence.add(numbers.get(i));
+                if(currentSequence.size() > longestSequence.size()){
+                    longestSequence = new ArrayList<>(currentSequence);
+                }
             }
-            if(currentSequence.size() > longestSequence.size()){
-                longestSequence = new ArrayList<>(currentSequence);
-            }
+        }
+        if(currentSequence.size() > longestSequence.size()){
+            longestSequence = new ArrayList<>(currentSequence);
         }
         System.out.println(currentSequence);
         System.out.printf("Longest: %s", longestSequence);

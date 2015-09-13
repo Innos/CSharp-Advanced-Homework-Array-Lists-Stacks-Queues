@@ -9,34 +9,25 @@ public class _11_MostFrequentWord {
 
         List<String> words = Arrays.asList(wordsArray);
 
-        LinkedHashMap<String,Long> allWords = words.stream()
-                .collect(Collectors.groupingBy(w -> w, Collectors.counting()))
+        Map<String,Long> allWords = words.stream()
+                .collect(Collectors.groupingBy(w -> w, Collectors.counting()));
+
+        long maxSize = Collections.max(allWords.values());
+
+        TreeMap<String,Long> result = allWords
                 .entrySet()
                 .stream()
-                .sorted(Collections.reverseOrder(Map.Entry.comparingByValue()))
+                .filter(x->x.getValue() == maxSize)
                 .collect(Collectors.toMap(
-                        p->p.getKey(),
-                        p->p.getValue(),
-                        throwingMerger(),
-                        LinkedHashMap::new));
+                    p->p.getKey(),
+                    p->p.getValue(),
+                    (a,b)->a,
+                    TreeMap::new));
 
-        long maxSize = allWords.entrySet().stream().findFirst().get().getValue();
-
-        TreeMap<String,Long> result = allWords.entrySet().stream().filter(x->x.getValue() == maxSize).collect(Collectors.toMap(
-                p->p.getKey(),
-                p->p.getValue(),
-                throwingMerger(),
-                TreeMap::new));
-
-        for (Map.Entry<String,Long> entry : result.entrySet()) {
-            System.out.printf("%s -> %d times\n", entry.getKey(),entry.getValue());
+        for (String key : result.keySet()) {
+            System.out.printf("%s -> %d times\n", key, maxSize);
         }
 
     }
 
-    private static <T> BinaryOperator<T> throwingMerger() {
-        return (u, v) -> {
-            throw new IllegalStateException(String.format("Duplicate key %s", u));
-        };
-    }
 }

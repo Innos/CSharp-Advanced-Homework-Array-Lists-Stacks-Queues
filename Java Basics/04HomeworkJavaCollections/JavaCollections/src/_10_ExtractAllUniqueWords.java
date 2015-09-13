@@ -8,6 +8,6 @@ public class _10_ExtractAllUniqueWords {
 
         Set<String> result = new TreeSet<String>(Arrays.asList(words));
 
-        System.out.println(String.join(" ", result.stream().sorted().map(x -> x.toString()).collect(Collectors.toList())));
+        System.out.println(String.join(" ", result));
     }
 }

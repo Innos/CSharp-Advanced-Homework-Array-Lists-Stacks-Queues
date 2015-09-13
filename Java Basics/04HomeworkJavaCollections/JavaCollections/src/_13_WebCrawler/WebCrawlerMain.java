@@ -1,11 +1,7 @@
-package WebCrawler;
+package _13_WebCrawler;
 
-import com.sun.corba.se.impl.orbutil.closure.Future;
-
-import java.io.Console;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class WebCrawlerMain {
@@ -14,6 +10,7 @@ public class WebCrawlerMain {
 
     private static final String source = "source.txt";
 
+    //The crawler will create a crawled-urls.txt and a Html files folder (where it will download the html of every crawled site)
     public static void main(String[] args) {
 
         crawler = new WebCrawler();
@@ -29,6 +26,8 @@ public class WebCrawlerMain {
         }
     }
 
+    //the crawler works, but will not print success messages for each site after crawling them as I can't find a way to
+    // implement something akin to async/await from C#
     private static void runCrawl(String url){
         Thread crawl = new Thread(() -> {
             crawler.crawl(url,0,1);

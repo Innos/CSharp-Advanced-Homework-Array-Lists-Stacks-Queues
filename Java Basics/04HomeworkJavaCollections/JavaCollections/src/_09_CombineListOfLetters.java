@@ -20,6 +20,7 @@ public class _09_CombineListOfLetters {
         charList2.removeAll(charList1);
 
         charList1.addAll(charList2);
-        System.out.println(charList1);
+        charList1.forEach(w -> System.out.printf("%s ", w));
+        System.out.println();
     }
 }
