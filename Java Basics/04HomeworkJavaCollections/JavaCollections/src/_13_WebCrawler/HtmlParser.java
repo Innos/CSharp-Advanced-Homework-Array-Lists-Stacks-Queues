@@ -13,11 +13,11 @@ public class HtmlParser {
         anchorPattern = Pattern.compile("<a.+?href=\"(.*?)\".*?>");
     }
 
-    public List<String> parseAnchors(String html){
+    public List<String> parseAnchors(String html) {
         Matcher anchorMatcher = this.anchorPattern.matcher(html);
         ArrayList<String> anchors = new ArrayList<>();
 
-        while(anchorMatcher.find()){
+        while (anchorMatcher.find()) {
             anchors.add(anchorMatcher.group(1));
         }
 
