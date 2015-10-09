@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02GeneratePermutationsIteratively", "02GeneratePermutationsIteratively\02GeneratePermutationsIteratively.csproj", "{E9D27F45-E8EF-4BA6-80B1-6CA86376EAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Permutations", "01Permutations\01Permutations.csproj", "{BE2462BC-982D-4EA2-BB29-E5682C5C3B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03GenerateCombinationsIteratively", "03GenerateCombinationsIteratively\03GenerateCombinationsIteratively.csproj", "{C88AAD19-9C5A-483A-9980-CDAF89995405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04GenerateSubsetOfStringArray", "04GenerateSubsetOfStringArray\04GenerateSubsetOfStringArray.csproj", "{05571495-DA76-46DA-B565-5AB9B1D1C1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05PermutationsWithRepetition", "05PermutationsWithRepetition\05PermutationsWithRepetition.csproj", "{0D8FCFCB-5527-41EC-B51A-EA4F3FA4E523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Snakes", "06Snakes\06Snakes.csproj", "{53EDF86E-0024-4687-9F1D-B8B2FD0488C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Cubes", "07Cubes\07Cubes.csproj", "{C79115BD-F355-46CE-B2FC-A14649F2CF0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D27F45-E8EF-4BA6-80B1-6CA86376EAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D27F45-E8EF-4BA6-80B1-6CA86376EAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D27F45-E8EF-4BA6-80B1-6CA86376EAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D27F45-E8EF-4BA6-80B1-6CA86376EAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2462BC-982D-4EA2-BB29-E5682C5C3B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2462BC-982D-4EA2-BB29-E5682C5C3B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2462BC-982D-4EA2-BB29-E5682C5C3B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2462BC-982D-4EA2-BB29-E5682C5C3B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88AAD19-9C5A-483A-9980-CDAF89995405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88AAD19-9C5A-483A-9980-CDAF89995405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88AAD19-9C5A-483A-9980-CDAF89995405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88AAD19-9C5A-483A-9980-CDAF89995405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05571495-DA76-46DA-B565-5AB9B1D1C1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05571495-DA76-46DA-B565-5AB9B1D1C1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05571495-DA76-46DA-B565-5AB9B1D1C1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05571495-DA76-46DA-B565-5AB9B1D1C1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8FCFCB-5527-41EC-B51A-EA4F3FA4E523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8FCFCB-5527-41EC-B51A-EA4F3FA4E523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8FCFCB-5527-41EC-B51A-EA4F3FA4E523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8FCFCB-5527-41EC-B51A-EA4F3FA4E523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53EDF86E-0024-4687-9F1D-B8B2FD0488C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EDF86E-0024-4687-9F1D-B8B2FD0488C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EDF86E-0024-4687-9F1D-B8B2FD0488C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EDF86E-0024-4687-9F1D-B8B2FD0488C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79115BD-F355-46CE-B2FC-A14649F2CF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79115BD-F355-46CE-B2FC-A14649F2CF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79115BD-F355-46CE-B2FC-A14649F2CF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79115BD-F355-46CE-B2FC-A14649F2CF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
