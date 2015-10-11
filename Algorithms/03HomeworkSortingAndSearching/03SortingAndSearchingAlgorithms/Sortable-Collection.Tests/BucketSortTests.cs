@@ -9,7 +9,7 @@
     [TestClass]
     public class BucketSortTests
     {
-        private const int NumberOfTests = 5000;
+        private const int NumberOfTests = 1000;
 
         private const int MinNumberOfElementsToSort = 1;
         private const int MaxNumberOfElementsToSort = 10000;
@@ -20,7 +20,7 @@
         private static readonly Random Random = new Random();
 
         [TestMethod]
-        public void TestSortWithMultipleRandomElements()
+        public void BucketSortWithMultipleRandomElements()
         {
             for (int i = 0; i < NumberOfTests; i++)
             {
@@ -32,13 +32,13 @@
 
                 for (int j = 0; j < numberOfElements; j++)
                 {
-                    elements[j] = Random.Next(minValue,maxValue);
+                    elements[j] = Random.Next(maxValue);
                 }
 
                 var collection = new SortableCollection<int>(elements);
 
                 Array.Sort(elements);
-                collection.Sort(new BucketSorter() { Max = maxValue, Min = minValue});
+                collection.Sort(new BucketSorter() { Max = maxValue});
 
                 CollectionAssert.AreEqual(elements, collection.ToArray());
             }

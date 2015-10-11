@@ -7,7 +7,7 @@
 
     public class SortableCollectionPlayground
     {
-        private static readonly ISorter<int> TestSorter = new Quicksorter<int>();
+        private static readonly ISorter<int> TestSorter = new InPlaceMergeSorter<int>();
 
         private static readonly Random Random = new Random();
 
@@ -34,6 +34,19 @@
 
             collection.Sort(TestSorter);
             Console.WriteLine(collection);
+
+            // shuffle tests
+            SortableCollection<int> shuffleCollection = new SortableCollection<int>(1, 2, 3, 4, 5);
+            Console.WriteLine("Original:");
+            Console.WriteLine(shuffleCollection);
+
+            Console.WriteLine("Shuffle:");
+            for (int i = 0; i < 10; i++)
+            {
+                shuffleCollection.Shuffle();
+                Console.WriteLine(shuffleCollection);
+            }
+            
         }
     }
 }
