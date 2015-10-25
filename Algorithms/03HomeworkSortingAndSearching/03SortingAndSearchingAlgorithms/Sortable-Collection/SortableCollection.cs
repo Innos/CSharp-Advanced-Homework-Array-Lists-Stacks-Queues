@@ -8,6 +8,8 @@
 
     public class SortableCollection<T> where T : IComparable<T>
     {
+        private static Random random  = new Random();
+        
         public SortableCollection()
         {
             this.Items = new List<T>();
@@ -54,7 +56,7 @@
                 {
                     return mid;
                 }
-               
+
                 if (item.CompareTo(this.Items[mid]) > 0)
                 {
                     start = mid + 1;
@@ -68,19 +70,50 @@
             return -1;
         }
 
-        public int InterpolationSearch(T item)
+        // no simple way to implement Interpolation search for generics (primitive numeric types will not be able to implement a custom interface and it's impossible to declare operator overloads in an interface), thus you'll need atleast 2 implementations of the collection one for primitive numeric types and one for types implementing the interface
+        public int InterpolationSearch(int item)
         {
-            int start = 0;
-            int end = this.Items.Count - 1;
-            while (this.Items[start].CompareTo(item) <= 0 && this.Items[end].CompareTo(item) >= 0)
+            List<int> items = new List<int>();
+            for (int i = 0; i < this.Items.Count; i++)
             {
-                int mid = start + (item - this.Items[start])
+                items.Add(Convert.ToInt32(this.Items[i]));
             }
+            int start = 0;
+            int end = this.Count - 1;
+            if (start > end)
+            {
+                return -1;
+            }
+
+            while (items[start] <= item && items[end] >= item)
+            {
+                int mid = start + (((item - items[start]) * (end - start)) / (items[end] - items[start]));
+                if (items[mid] > item)
+                {
+                    end = mid - 1;
+                }
+                else if (items[mid] < item)
+                {
+                    start = mid + 1;
+                }
+                else
+                {
+                    return mid;
+                }
+            }
+            return -1;
         }
 
         public void Shuffle()
         {
-            throw new NotImplementedException();
+            int len = this.Items.Count;
+            for (int i = 0; i < len; i++)
+            {
+                int r = i + random.Next(0, len - i);
+                var temp = this.Items[i];
+                this.Items[i] = this.Items[r];
+                this.Items[r] = temp;
+            }
         }
 
         public T[] ToArray()

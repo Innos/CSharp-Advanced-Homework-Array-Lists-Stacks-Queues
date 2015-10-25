@@ -9,7 +9,11 @@
     {
         public void Sort(List<T> collection)
         {
-            throw new NotImplementedException();
+            var heap = new BinaryHeap<T>(collection);
+            for (int i = 0; i < collection.Count; i++)
+            {
+                collection[i] = heap.ExtractMin();
+            }
         }
     }
 }

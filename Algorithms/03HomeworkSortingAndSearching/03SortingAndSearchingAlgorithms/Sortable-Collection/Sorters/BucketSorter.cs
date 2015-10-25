@@ -49,11 +49,14 @@
                 buckets[this.GetBucketNumber(collection[i])].Add(collection[i]);
             }
 
-            collection.Clear();
+            int tempIndex = 0;
             for (int i = 0; i < buckets.Length; i++)
             {
                 buckets[i].Sort(new InsertionSorter<int>());
-                collection.AddRange(buckets[i].Items);
+                for (int j = 0; j < buckets[i].Count; j++)
+                {
+                    collection[tempIndex++] = buckets[i].Items[j];
+                }
             }
         }
 
