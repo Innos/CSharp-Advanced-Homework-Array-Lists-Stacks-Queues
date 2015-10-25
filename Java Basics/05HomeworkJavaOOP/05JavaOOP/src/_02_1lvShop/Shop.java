@@ -22,6 +22,7 @@ public class Shop {
         Appliance drill = new Appliance("Power Drill 666Q", 220.22, 10, AgeRestriction.Adult);
         Computer hp = new Computer("HP 255 G2", 450.88, 10, AgeRestriction.Teenager);
         Computer lenovo = new Computer("Lenovo Tablet A", 758.45, 20, AgeRestriction.None);
+        Computer lenovo2 = new Computer("Lenovo Fitness", 1024.24, 5, AgeRestriction.Adult);
 
         Customer goshko = new Customer("Goshko", 12, 45);
         Customer ivan = new Customer("Ivan Ivanov", 33, 1000);
@@ -53,16 +54,17 @@ public class Shop {
         products.add(drill);
         products.add(hp);
         products.add(lenovo);
+        products.add(lenovo2);
 
         //filter the food products then cast to food product and find the food products whose expiration date has not passed yet,
-        //then sort them (by the implemented sorter in the class, which sorts by date), select the name and take the first element
+        //then sort them (by the implemented sorter in the class, which sorts by date), take the first element and select the name
         String result = products.stream()
                 .filter(p -> p instanceof FoodProduct)
                 .map(p -> (FoodProduct) p)
                 .filter(p -> p.getExpirationDate().isAfter(LocalDate.now()))
                 .sorted()
-                .map(p -> p.getName())
                 .findFirst()
+                .map(p -> p.getName())
                 .get();
 
         List<Product> result2 = products.stream()

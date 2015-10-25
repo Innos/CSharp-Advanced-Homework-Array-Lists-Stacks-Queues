@@ -1,6 +1,7 @@
 package _01_Geometry.TwoDimensional;
 
 import _01_Geometry.Interfaces.Vertex;
+import _01_Geometry.ThreeDimensional.Vertex3D;
 
 import java.util.IllegalFormatException;
 
@@ -30,12 +31,15 @@ public class Vertex2D implements Vertex{
         this.y = y;
     }
 
-    public double calculateDistance(Vertex o) {
-        Vertex2D other = (Vertex2D)o;
-        if(other == null){
-            throw new IllegalArgumentException("Cannot calculate distance between different dimension vertices.");
-        }
+    @Override
+    public double calculateDistance(Vertex2D other) {
         double squaredDistance = Math.pow((this.getX() - other.getX()),2) + Math.pow((this.getY() - other.getY()),2);
+        return Math.sqrt(squaredDistance);
+    }
+
+    @Override
+    public double calculateDistance(Vertex3D other) {
+        double squaredDistance = Math.pow((this.getX() - other.getX()), 2) + Math.pow((this.getY() - other.getY()), 2) + Math.pow((0 - other.getZ()), 2);
         return Math.sqrt(squaredDistance);
     }
 

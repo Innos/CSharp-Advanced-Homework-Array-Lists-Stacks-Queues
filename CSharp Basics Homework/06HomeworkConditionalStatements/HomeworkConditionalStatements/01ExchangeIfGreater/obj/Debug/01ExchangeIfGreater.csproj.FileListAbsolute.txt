@@ -7,3 +7,6 @@ c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStateme
 E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe.config
 E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.exe
 E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.pdb
+E:\Soft Uni\Homework\CSharp Basics Homework\06HomeworkConditionalStatements\HomeworkConditionalStatements\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe.config
+E:\Soft Uni\Homework\CSharp Basics Homework\06HomeworkConditionalStatements\HomeworkConditionalStatements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.exe
+E:\Soft Uni\Homework\CSharp Basics Homework\06HomeworkConditionalStatements\HomeworkConditionalStatements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.pdb

@@ -2,14 +2,16 @@ package _01_Geometry.TwoDimensional;
 
 import _01_Geometry.Interfaces.AreaMeasurable;
 import _01_Geometry.Interfaces.PerimeterMeasurable;
+import _01_Geometry.Interfaces.Vertex;
 import _01_Geometry.Shape;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public abstract class PlaneShape extends Shape implements AreaMeasurable,PerimeterMeasurable,Comparable<PlaneShape>{
 
     protected PlaneShape(Vertex2D...vertices) {
-        super(Arrays.asList(vertices));
+        super(new ArrayList<Vertex>(Arrays.asList(vertices)));
     }
 
     @Override

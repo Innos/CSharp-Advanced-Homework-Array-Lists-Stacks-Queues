@@ -22,4 +22,11 @@ public abstract class ElectronicsProduct extends Product{
     private void setGuaranteePeriod(int guaranteePeriod) {
         this.guaranteePeriod = guaranteePeriod;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder result = new StringBuilder(super.toString());
+        result.append(String.format("\tGuarantee (months): %d\n",this.getGuaranteePeriod()));
+        return result.toString();
+    }
 }

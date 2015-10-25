@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>03HelloC.c</itemPath>
+      <itemPath>04PrintYourName.c</itemPath>
+      <itemPath>05PrintNumbers.c</itemPath>
+      <itemPath>06PrintFirstAndLastName.c</itemPath>
+      <itemPath>07SquareRoot.c</itemPath>
+      <itemPath>08PrintASequence.c</itemPath>
+      <itemPath>12CurrentDateAndTime.c</itemPath>
+      <itemPath>13AgeAfter10Years.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerLibStdlibItem>Mathematics</linkerLibStdlibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="07SquareRoot.c" ex="true" tool="0" flavor2="9">
+      </item>
+      <item path="13AgeAfter10Years.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="03HelloC.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="04PrintYourName.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="05PrintNumbers.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="06PrintFirstAndLastName.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="07SquareRoot.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="08PrintASequence.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="12CurrentDateAndTime.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="13AgeAfter10Years.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

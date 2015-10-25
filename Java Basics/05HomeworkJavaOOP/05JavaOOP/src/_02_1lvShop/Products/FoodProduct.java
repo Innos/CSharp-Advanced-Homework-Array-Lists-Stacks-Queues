@@ -45,4 +45,11 @@ public class FoodProduct extends Product implements Expirable,Comparable<FoodPro
             return -1;
         }
     }
+
+    @Override
+    public String toString() {
+        StringBuilder result = new StringBuilder(super.toString());
+        result.append(String.format("\tExpiration Date: %s\n",this.getExpirationDate()));
+        return result.toString();
+    }
 }

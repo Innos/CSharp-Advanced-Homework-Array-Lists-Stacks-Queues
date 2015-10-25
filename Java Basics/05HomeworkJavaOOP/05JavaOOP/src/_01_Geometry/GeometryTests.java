@@ -43,10 +43,10 @@ public class GeometryTests {
                 .filter(s->s instanceof PlaneShape)
                 .sorted()
                 .collect(Collectors.toList());
-        System.out.println("Space Shapes:");
+        System.out.println("Search #1:");
         System.out.println(result);
         System.out.println();
-        System.out.println("Plane Shapes:");
+        System.out.println("Search #2:");
         System.out.println(result2);
     }
 }

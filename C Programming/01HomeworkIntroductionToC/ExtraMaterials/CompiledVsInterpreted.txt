@@ -1,0 +1,10 @@
+A compiled language is one where compiling gives you a set of instructions in machine code
+(to be directly executed by the cpu), such a language offers faster performance and the ability
+to apply powerfull optimisations (ex. express a complex operation as a bit operation),
+while interpreted languages rely on the optimization of the interpreter.
+
+An interpreted language is one where the code isn't directly executed by the machine,
+but is insted read and executed by some other program. If a compiled program directly
+calls for the cpu ADD instruction, the interpreted version will be read by the 
+interpreter and then in turn a call to the ADD function will be made. Interpreted languages
+don't require a compilation stage and are usually suited for dynamic languages.

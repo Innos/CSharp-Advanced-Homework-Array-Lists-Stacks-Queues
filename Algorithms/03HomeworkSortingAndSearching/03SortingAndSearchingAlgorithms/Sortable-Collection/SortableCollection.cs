@@ -70,7 +70,12 @@
 
         public int InterpolationSearch(T item)
         {
-            
+            int start = 0;
+            int end = this.Items.Count - 1;
+            while (this.Items[start].CompareTo(item) <= 0 && this.Items[end].CompareTo(item) >= 0)
+            {
+                int mid = start + (item - this.Items[start])
+            }
         }
 
         public void Shuffle()

@@ -2,6 +2,7 @@ package _01_Geometry.ThreeDimensional;
 
 
 import _01_Geometry.Interfaces.Vertex;
+import _01_Geometry.TwoDimensional.Vertex2D;
 
 public class Vertex3D implements Vertex {
 
@@ -39,11 +40,14 @@ public class Vertex3D implements Vertex {
         this.z = z;
     }
 
-    public double calculateDistance(Vertex o) {
-        Vertex3D other = (Vertex3D) o;
-        if (other == null) {
-            throw new IllegalArgumentException("Cannot calculate distance between different dimension vertices.");
-        }
+    @Override
+    public double calculateDistance(Vertex2D other) {
+        double squaredDistance = Math.pow((this.getX() - other.getX()), 2) + Math.pow((this.getY() - other.getY()), 2) + Math.pow((this.getZ() - 0), 2);
+        return Math.sqrt(squaredDistance);
+    }
+
+    @Override
+    public double calculateDistance(Vertex3D other) {
         double squaredDistance = Math.pow((this.getX() - other.getX()), 2) + Math.pow((this.getY() - other.getY()), 2) + Math.pow((this.getZ() - other.getZ()), 2);
         return Math.sqrt(squaredDistance);
     }

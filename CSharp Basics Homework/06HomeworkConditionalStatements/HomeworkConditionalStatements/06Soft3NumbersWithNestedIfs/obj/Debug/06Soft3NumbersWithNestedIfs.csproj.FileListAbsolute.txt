@@ -1,1 +1,0 @@
-c:\users\innos2\documents\visual studio 2013\Projects\HomeworkConditionalStatements\06Soft3NumbersWithNestedIfs\bin\Debug\06Soft3NumbersWithNestedIfs.exe.config
