@@ -46,7 +46,6 @@ long* ParseBombs(int* bombsLength) {
     char* bomb = strtok(bombline, " ");
     while (bomb != NULL) {
         bombs[bLength] = strtol(bomb, NULL, 10);
-        long c = bombs[bLength];
         bLength++;
         bomb = strtok(NULL, " ");
     }
