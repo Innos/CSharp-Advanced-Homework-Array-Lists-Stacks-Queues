@@ -1,0 +1,19 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(int argc, char** argv) {
+    int size;
+    scanf("%d",&size);
+    int array[size];
+    int i;
+    for(i=0;i<size;i++){
+        scanf("%d",&array[i]);
+    }
+    for(i=size-1;i>=0;i--){
+        printf("%d ",*(array+i));
+    }
+    return (EXIT_SUCCESS);
+}
+
