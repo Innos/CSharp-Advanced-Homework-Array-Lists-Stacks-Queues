@@ -9,7 +9,6 @@ namespace _01DistanceBetweenVertices
         {
             this.Value = value;
             this.Children = new List<Node>();
-            this.Parent = null;
             this.Distance = -1;
         }
 
@@ -18,7 +17,5 @@ namespace _01DistanceBetweenVertices
         public int Distance { get; set; }
 
         public List<Node> Children { get; set; }
-
-        public Node Parent { get; set; }
     }
 }

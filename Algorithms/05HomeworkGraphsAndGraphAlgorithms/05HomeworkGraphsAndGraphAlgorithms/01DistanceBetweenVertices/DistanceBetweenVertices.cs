@@ -6,6 +6,8 @@
 
     public class DistanceBetweenVertices
     {
+
+        // a simple version is better with a dictionary of int(indexes)/list<int>(children) and keep an int distance which we increase every wave
         public static void Main(string[] args)
         {
             // graph 1
@@ -96,12 +98,16 @@
             {
                 var node = queue.Dequeue();
 
+                if (node == end)
+                {
+                    break;
+                }
+
                 foreach (var child in node.Children)
                 {
                     if (child.Distance == -1)
                     {
                         child.Distance = node.Distance + 1;
-                        child.Parent = node;
                         queue.Enqueue(child);
                     }
                 }
