@@ -1,0 +1,40 @@
+Since this problem is probably gonna be hard for a lot of people to test,
+I'll write some quick instructions here to help you test it, if you're having 
+trouble.
+The problem asks for arguments to be passed to the program in order to function,
+this can be done in one of 2 ways:
+1)Execute the executable compiled program from the terminal, while passing 
+the arguments to it
+2)From the IDE set the arguments to be passed when executing the program
+This can be done by selecting the project ->rigth click -> Properties -> select the
+"Run" row -> on the line "Run command" choose "..." and add the arguments after the
+inputed "${OUTPUT_PATH}", each argument should be seperated by a space
+
+The correct commands and arguments format are the following (this help is also displayed
+if you try to input an incorrect command/arguments):
+Slice:
+-s <source file> <destination folder> <number of parts>
+
+where source file is the file to split ex: doge.jpg,
+destination of the folder is the folder in which the parts will be put and
+number of parts is the number of parts you want to slice the file into
+
+Assemble:
+-a <destination folder> <name of each part>.....
+
+where destination folder is the folder in which the assembled file will be placed
+name of each part is the full name(and path compared to the folder of the program)
+to each file including it's extension, all parts should be inputed seperated by space
+ex. parts/Part-2.jpg where Part-2.jpg is a file in the folder "parts" which is in the folder of the 
+program
+
+and here are 2 example inputs that can be used for testing (just open a terminal
+in the folder of the executable program and paste them, You can ofcourse
+test the program with your own files and directory names as long as you 
+keep the above mentioned formating correct)
+
+Slice:
+./05slicingfile -s doge.jpg parts 3
+
+Assemble:
+./05slicingfile -a dest parts/Part-0.jpg parts/Part-1.jpg parts/Part-2.jpg
