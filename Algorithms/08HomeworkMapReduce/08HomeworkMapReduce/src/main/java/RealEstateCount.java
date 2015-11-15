@@ -13,6 +13,7 @@ import java.io.IOException;
 //if you're wondering I created a maven project and added the libraries from the apache hadoop repository
 // though they're also available in the <hadoop default folder>\share\hadoop
 // I used hadoop-common and hadoop-client libraries
+// Included the pom.xml and the .jar file if you want to rebuild or test it
 public class RealEstateCount {
     public static class RealEstateMapper extends Mapper<Object,Text,Text, LongWritable>{
 
