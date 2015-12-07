@@ -1,0 +1,43 @@
+body{
+	margin:0;
+	padding:0;
+	background-image: url(Picture1.jpg);
+	font-family: sans-serif;
+}
+img{
+	width:180px;
+	height:70px;
+	margin-right:20px;
+	float: right;
+	clear;
+}
+h1{
+	color: orange;
+}
+
+li{
+	font-size:1.2em;
+	color:orange;
+}
+
+.field {
+	border: 2px solid gray;
+	background-color: rgba(64,64,64,0.5);
+	width:90%;
+	margin-left:20px;
+}
+
+.text{
+	font-size:1em;
+	color:white;
+}
+
+p{
+	font-weight:bold;
+	color:white;
+	padding:5px;
+	margin:0;
+}
+.indented,h1{
+	text-indent: 10px;
+}
