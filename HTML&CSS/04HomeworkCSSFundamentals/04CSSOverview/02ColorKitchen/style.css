@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    background-image: url(colorful_dots_on_black.jpg);
+    font-family: sans-serif;
+}
+header{
+    padding: 5px;
+}
+body>header{
+    text-align: center;
+    color: yellow;
+    height: 60px;
+    margin: 0;
+    font-size: 2.5em;
+    font-weight: bold;
+    background: linear-gradient(-90deg,blue 33%,green 33%,green 66%,red 66%); /* Standard syntax */
+}
+
+/*** ARTICLES ***/
+section{
+    display: inline-block;
+    width: 76%;
+}
+
+article>footer{
+    font-style: italic;
+    text-decoration-line: underline;
+    text-decoration-color: grey;
+}
+article{
+    margin: 20px 10px 20px 10px;
+    padding: 12px;
+    border-radius: 10px;
+    background: none;
+    background-color:rgba(255,255,255,0.9);
+}
+#webColors{
+    font-size:1.5em;
+    border-radius: 5px;
+    color:white;
+    background-color: red;
+}
+#webSafeColors{
+    font-size:1.5em;
+    border-radius: 5px;
+    color:black;
+    background-color: orange;
+}
+#RGB{
+    font-size:1.5em;
+    border-radius: 5px;
+    color:black;
+    background-color: yellow;
+}
+#RGBA{
+    font-size:1.5em;
+    border-radius: 5px;
+    color:white;
+    background-color: green;
+}
+header[id*='#HSLHSV']{
+    font-size:1.5em;
+    border-radius: 5px;
+    color:white;
+    background-color: blue;
+}
+header[id*='#lorem']{
+    font-size:1.5em;
+    border-radius: 5px;
+    color:white;
+    background-color: purple;
+}
+div:first-letter {
+    font-size: 50px;
+}
+div:first-line{
+    font-style: italic;
+}
+article a{
+    text-decoration: none;
+    color: grey;
+}
+article:last-child span:first-of-type
+{
+    font-style: italic;
+    color: blue;
+}
+
+/*** NAVIGATION ***/
+aside{
+    vertical-align: top;
+    display: inline-block;
+    width: 22%;
+}
+nav{
+    margin: 20px 10px 20px 10px;
+    padding: 5px;
+    border-radius: 10px;
+    background: none;
+    background-color:rgba(255,255,255,0.9);
+}
+nav>header{
+    font-size: 1.5em;
+    color: black;
+    text-decoration-line: underline;
+}
+ul{
+    margin: 0;
+    list-style-type: none;
+    padding-left: 10px;
+}
+li{
+    padding: 5px;
+}
+nav a:before{
+    display: inline-block;
+    background: green; /* For browsers that do not support gradients */
+    background: linear-gradient(greenyellow,yellowgreen,green); /* Standard syntax */
+    background-size: 20px 20px;
+    line-height: 15px;
+    margin-right: 10px;
+    border-radius: 15px;
+    color:white;
+    width:15px;
+    height:15px;
+    content: '\2714';
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    color: grey;
+}
+
+/* mouse over link */
+nav li:nth-child(1):hover {
+    border-radius: 5px;
+    background-color: red;
+}
+nav li:nth-child(2):hover {
+    border-radius: 5px;
+    background-color: orange;
+}
+nav li:nth-child(3):hover {
+    border-radius: 5px;
+    background-color: yellow;
+}
+nav li:nth-child(4):hover {
+    border-radius: 5px;
+    background-color: green;
+}
+nav li:nth-child(5):hover {
+    border-radius: 5px;
+    background-color: blue;
+}
+nav li:nth-child(6):hover {
+    border-radius: 5px;
+    background-color: purple;
+}
+

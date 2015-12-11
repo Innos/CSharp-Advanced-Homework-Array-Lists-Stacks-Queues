@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 2.8em;
+    margin: 0;
+}
+table,td{
+    border: 1px solid black;
+}
+td{
+    width:100px;
+    height:100px;
+    font-size:1.2em;
+    padding: 5px;
+}
+.top{
+    vertical-align: top;
+}
+.left{
+    text-align: left;
+}
+.bottom{
+    vertical-align: bottom;
+}
+.right{
+    text-align: right;
+}
+.nested{
+    margin: 5px;
+}
+.nested td{
+    height:45px;
+    font-weight: bold;
+    font-size: 0.7em;
+}
+#beer{
+    font-size:2em;
+}

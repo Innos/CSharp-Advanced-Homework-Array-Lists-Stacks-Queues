@@ -1,0 +1,12 @@
+table {
+	border: 1px solid black;
+	margin:5px;
+}
+img {
+	vertical-align: middle;
+	padding: 10px 5px 10px 5px;
+}
+td {
+	font-size:5rem;
+	border: 1px solid black;
+}

@@ -1,0 +1,63 @@
+#wrapper {
+	font-family: sans-serif;
+	background-color:#234465;
+}
+#logo {
+	width:55%;
+	padding:0px 10px;
+}
+li {
+	float: left;
+	color: white;
+	padding:15px 5px 10px 25px;
+	margin:0;
+	font-weight:bold;
+	vertical-align: middle;
+}
+.btn
+{
+	border: 0;
+	padding: 0;
+	font-weight: bold;
+}
+
+.btn-primary:focus,.btn-primary:hover{
+	background-color: #234465;
+	color:#FFF;
+	opacity: 1;
+}
+.btn-primary{
+	background-color: #234465;
+}
+a,.btn,.caret{
+	opacity: 0.5;
+}
+a:focus, a:hover{
+	text-decoration: none;
+	color:#FFF;
+	opacity: 1;
+}
+#search {
+	font-size:1.5em;
+	padding:10px 10px;
+	margin:0;
+}
+#icon-person {
+	width:40px;
+	height:40px;
+	opacity: 1;
+}
+#picture{
+	padding:5px;
+}
+
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
