@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title></title>
+</head>
+<body>
+    <div id="wrapper">
+        <form method="get" action="#">
+        <h3>Step 1: Your details</h3>
+
+        <table class="container">
+            <tr>
+                <td>
+                    <label for="name">Name</label>
+                </td>
+                <td>
+                    <input class="input" id="name" name="name" type="text" placeholder="First and last name"/>
+                </td>
+            </tr>
+        </table>
+        <table class="container">
+            <tr>
+                <td>
+                    <label for="email">Email</label>
+                </td>
+                <td>
+                    <input class="input" id="email" name="email" type="email" placeholder="example@domain.com"/>
+                </td>
+            </tr>
+        </table>
+        <table class="container">
+            <tr>
+                <td>
+                    <label for="phone">Phone</label>
+                </td>
+                <td>
+                    <input class="input" id="phone" name="phone" type="tel" placeholder="eg +447500000000"/>
+                </td>
+            </tr>
+        </table>
+
+        <h3>Step 1: Delivery address</h3>
+
+        <table class="container">
+            <tr>
+                <td>
+                    <label for="address">Address</label>
+                </td>
+                <td>
+                    <textarea class="input" id="address" name="address"></textarea>
+                </td>
+            </tr>
+        </table>
+        <table class="container">
+            <tr>
+                <td>
+                    <label for="postcode">Phone</label>
+                </td>
+                <td>
+                    <input class="input" id="postcode" name="postcode" type="text"/>
+                </td>
+            </tr>
+        </table>
+        <table class="container">
+            <tr>
+                <td>
+                    <label for="country">Phone</label>
+                </td>
+                <td>
+                    <input class="input" id="country" name="country" type="text"/>
+                </td>
+            </tr>
+        </table>
+
+        <h3>Step 1: Card details</h3>
+
+        <table class="container card">
+            <tr>
+                <td colspan="3">
+                    <label>Card type</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input id="visa" type="radio" name="card" value="1"/>
+                    <label for="visa"><img src="visa.png">VISA</label>
+                </td>
+                <td>
+                    <input id="amex" type="radio" name="card" value="2"/>
+                    <label for="amex"><img src="amex.png">AmEx</label>
+                </td>
+                <td>
+                    <input id="mastercard" type="radio" name="card" value="3"/>
+                    <label for="mastercard"><img src="mastercard.png">Mastercard</label>
+                </td>
+            </tr>
+            </table>
+            <table class="container">
+            <tr>
+                <td>
+                    <label for="card-number">Card number</label>
+                </td>
+                <td >
+                    <input class="input" id="card-number" name="card-number" type="text"/>
+                </td>
+            </tr>
+            </table>
+            <table class="container">
+            <tr>
+                <td>
+                    <label for="securityCode">Security code</label>
+                </td>
+                <td>
+                    <input class="input" id="securityCode" name="securityCode" type="text"/>
+                </td>
+            </tr>
+            </table>
+            <table class="container">
+            <tr>
+                <td>
+                    <label for="cardName">Name on card</label>
+                </td>
+                <td>
+                    <input class="input" id="cardName" name="cardName" type="text" placeholder="exact name as on the card"/>
+                </td>
+            </tr>
+        </table>
+
+        <button type="submit">BUY IT!</button>
+        </form>
+    </div>
+</body>
+</html>
