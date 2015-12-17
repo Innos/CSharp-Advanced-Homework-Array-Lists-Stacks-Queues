@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title></title>
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>FLIGHT ORDER</h1>
+        </header>
+        <main>
+            <form>
+                <section>
+                    <label>From</label>
+                    <select>
+                        <option value="" selected="selected">enter a city</option>
+                        <option value="Sofia">Sofia</option>
+                        <option value="Plovdiv">Plovdiv</option>
+                    </select>
+                    <br/>
+                    <label>Departure Date</label>
+                    <input type="date">
+                    <label>Return Date</label>
+                    <input type="date">
+                    <label class="spinbox">12+</label>
+                    <label class="spinbox">2-12</label>
+                    <label class="spinbox">0-2</label>
+                    <input class="spinbox" type="number" min="13" max="100"/>
+                    <input class="spinbox" type="number" min="3" max="12"/>
+                    <input class="spinbox" type="number" min="0" max="2"/>
+                </section>
+                <section>
+                    <label>To</label>
+                    <select>
+                        <option value="" selected="selected">enter a city</option>
+                        <option value="Sofia">Sofia</option>
+                        <option value="Plovdiv">Plovdiv</option>
+                    </select>
+                    <input class="checkbox" id="direct" type="checkbox" value="direct">
+                    <label class="checkbox" for="direct">&nbsp;Prefer directs</label>
+                    <label>Time Interval</label>
+                    <input type="date">
+                    <label>Time Interval</label>
+                    <input type="date">
+                    <label>Choose Class</label>
+                    <select id="class">
+                        <option value="economy" selected="selected">Economy</option>
+                        <option value="first">First</option>
+                        <option value="business">Business</option>
+                    </select>
+                    <button type="button">Search</button>
+                </section>
+            </form>
+        </main>
+    </div>
+</body>
+</html>

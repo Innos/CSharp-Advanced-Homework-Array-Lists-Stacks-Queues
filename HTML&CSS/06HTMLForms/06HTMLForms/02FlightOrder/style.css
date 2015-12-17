@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#wrapper{
+    background-color: pink;
+    width:500px;
+    margin: auto;
+    font-family: Verdana,sans-serif;
+}
+h1{
+    font-style: italic;
+    text-align: center;
+}
+section{
+    display: inline-table;
+    width:45%;
+    padding: 10px;
+}
+label{
+    display: block;
+    font-style: italic;
+    font-size: 0.6em;
+    padding: 2px 0;
+}
+select{
+    display: block;
+    width:99%;
+}
+input{
+    width:98%;
+    display: block;
+}
+.spinbox{
+    display: inline-table;
+    width:30%;
+    margin-right: 3px;
+}
+label[class="spinbox"]{
+    padding: 0 2px;
+}
+.checkbox{
+    display: inline-block;
+    width:auto;
+}
+#class{
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+button{
+    width: 99%;
+    height: 25px;
+}
+

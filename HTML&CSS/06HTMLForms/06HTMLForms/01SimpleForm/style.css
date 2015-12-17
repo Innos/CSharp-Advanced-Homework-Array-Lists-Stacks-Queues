@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#wrapper{
+    font-family: Arial,sans-serif;
+    width: 680px;
+    margin: auto;
+    background-color: #EAEAEA;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color:#003366;
+}
+h2{
+    color: #003366;
+}
+p{
+    color:darkgray;
+}
+section{
+    padding: 10px;
+    width:45%;
+    display: inline-table;
+    height: 223px;
+}
+section header{
+    color: gray;
+    padding:5px 0;
+    font-weight: bold;
+}
+section input{
+    padding: 5px;
+    margin: 5px 0;
+    width: 95%;
+}
+#submit{
+    background-color: inherit;
+    border:2px solid #003366;
+    color: #003366;
+    width: 50%;
+    float:right;
+}
+#login{
+    background-color: #003366;
+}
+#login header{
+    color: white;
+}
+#login>header>a{
+    color: white;
+}
+#login label{
+    font-size: 0.7em;
+}
+.inline{
+    display: inline-block;
+    width: auto;
+    color: white;
+}
+#submit2{
+    background-color: inherit;
+    border:2px solid orange;
+    width: 40%;
+    float: right;
+}
+#login form a{
+    clear: both;
+    font-size: 0.7em;
+    float:right;
+    color:white;
+    text-decoration: underline;
+}
