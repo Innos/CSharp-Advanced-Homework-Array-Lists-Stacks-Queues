@@ -1,0 +1,199 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+#wrapper{
+    width: 75%;
+    background-color: white;
+    margin: auto;
+    font-family: Arial,sans-serif;
+}
+/** header **/
+#header{
+    width:100%;
+}
+nav{
+    background-color: lightgray;
+}
+#wrapper>header>p{
+    height: 0;
+    position: relative;
+    color:white;
+    text-align: right;
+    right: 5%;
+    font-weight: bold;
+    bottom: 90px;
+    font-size:2em;
+}
+nav ul{
+    margin-top: -2px;
+    position: relative;
+    top:-2px;
+    list-style-type: none;
+    background: linear-gradient(white, lightgray);
+    border-bottom: 1px solid white;
+}
+nav li{
+    display: inline-block;
+    color: #606060;
+    padding: 20px 40px;
+    background: linear-gradient(white, lightgray);
+    border-right: 1px solid white;
+
+}
+nav li:hover{
+    background:#A0A0A0;;
+    color:white;
+}
+nav a{
+    text-decoration: none;
+}
+a{
+    font-weight: bold;
+    color:yellowgreen;
+}
+/** main **/
+main,aside{
+    display: inline-table;
+}
+main{
+    width: 69%;
+}
+section{
+    margin: 20px auto;
+    width: 90%;
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+h1{
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    color:yellowgreen;
+}
+
+.bold{
+    font-weight: bold;
+}
+/** article **/
+article{
+    clear: both;
+    font-size: 0.8em;
+    margin: 30px 0 10px;
+    padding: 0 0 20px;
+}
+article header{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+article img{
+    width: 22%;
+    float: left;
+    margin-right: 20px;
+}
+/** aside **/
+aside{
+    margin: auto;
+    width: 30%;
+}
+.container{
+    font-size: 0.8em;
+    margin: 10px 0;
+}
+#news{
+    padding: 20px 10px;
+    width:80%;
+    background-color: #F3F3F3;
+}
+#messages{
+    width: 80%;
+    padding: 20px 10px;
+}
+/** footer **/
+footer{
+
+    padding: 25px;
+    background: linear-gradient(white ,yellowgreen 5%);
+}
+footer p{
+    font-size: 0.8em;
+    padding-left: 15%;
+    padding-bottom: 2%;
+}
+footer a{
+
+    color:inherit;
+    font-weight: normal;
+}
+
+/** responsive **/
+@media only screen and (max-width: 980px){
+    nav li{
+        display: block;
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+        border: none;
+    }
+
+    #wrapper>header>p{
+        font-size: 1.5em;
+        bottom: 50px;
+    }
+    section{
+        padding: 5px;
+        margin: 10px auto;
+    }
+    main,nav{
+    }
+    article img{
+        float: none;
+        width: 70%;
+        margin: auto;
+    }
+    main{
+        width: 100%;
+    }
+    aside{
+        width: 100%;
+        display: block;
+    }
+    #news{
+        width: 88%;
+    }
+    #messages{
+        width: 88%;
+    }
+    footer p{
+        font-size: 0.7em;
+        padding: 0;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 460px){
+    #news{
+        padding: 0;
+    }
+    #messages{
+        padding: 0;
+    }
+    h1{
+        font-size: 0.8em;
+    }
+    #wrapper>header>p{
+        font-size: 0.8em;
+        bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 360px){
+    #wrapper>header>p{
+        font-size: 0.6em;
+        bottom: 30px;
+    }
+}

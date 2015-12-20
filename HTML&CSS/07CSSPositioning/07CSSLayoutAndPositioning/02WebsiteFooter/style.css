@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#wrapper{
+    background-color: #234465;
+    width: 100%;
+    font-family:  Arial, sans-serif;
+    padding: 50px 0px;
+    color:white;
+    position: fixed;
+    bottom: 0;
+}
+section{
+    display: inline-block;
+    width: 18%;
+    padding: 10px;
+    vertical-align: top;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin: 5px;
+}
+header{
+    color:orange;
+    font-weight: bold;
+    font-size: 1.0em;
+    margin: 10px 5px 15px 5px;
+}
+button{
+    padding: 10px 20px;
+    background-color: inherit;
+    color:white;
+    border-color: orange;
+    border-style: solid;
+    width: 60%;
+    margin: 10px;
+    float: right;
+}
+button{
+    cursor: pointer;
+    cursor: hand;
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+#links a{
+    width:35px;
+    height:35px;
+    background-image: url('mini-social-icons.png');
+    background-repeat: no-repeat;
+    border: 1px solid gray;
+    background-color: #032445;
+    display: inline-block;
+    margin-right: 5px;
+}
+#twitter{
+    background-position: 95% 5%;
+}
+#facebook{
+    background-position: 5% 5%;
+}
+#google{
+    background-position: 50% 5%;
+}
+#twitter:hover{
+    background-position: 95% 90%;
+}
+#facebook:hover{
+    background-position: 5% 90%;
+}
+#google:hover{
+    background-position: 50% 90%;
+}
+#links{
+    margin-top: 20px;
+}
