@@ -1,0 +1,13 @@
+p{
+    font-weight: bold;
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+div{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+p,div{
+    margin-left: 30px;
+}

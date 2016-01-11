@@ -1,0 +1,41 @@
+.row {
+    margin: 0 auto;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+    border-collapse: collapse;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+#board {
+    width: 318px;
+    margin: 5% auto;
+}
+
+.cleaner {
+    display: block;
+    clear: both;
+    height: 0;
+    content: '.';
+    font-size: 0;
+    line-height: 0;
+    visibility: hidden;
+}
+
+button{
+    margin: 20px 85px;
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 1.5em;
+}
+
+#row1:hover,#row2:hover,#row3:hover{
+    cursor: hand;
+    cursor: pointer;
+}

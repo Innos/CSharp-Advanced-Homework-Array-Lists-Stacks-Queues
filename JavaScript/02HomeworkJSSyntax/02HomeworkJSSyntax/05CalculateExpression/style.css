@@ -1,0 +1,14 @@
+p,textarea{
+    background-color: darkblue;
+    color:white;
+    font-weight: bold;
+    display: block;
+}
+button{
+    padding: 5px 10px;
+    display: block;
+}
+p{
+    width: 15%;
+    padding: 5px;
+}
