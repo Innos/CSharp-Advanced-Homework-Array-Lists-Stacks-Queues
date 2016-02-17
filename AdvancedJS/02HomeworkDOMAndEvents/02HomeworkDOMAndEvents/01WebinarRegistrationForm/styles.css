@@ -1,0 +1,51 @@
+body{
+    font-family: sans-serif;
+}
+#wrapper{
+    padding: 5px;
+    width:25%;
+    background-color: #ffF0Fb;
+    margin: auto;
+}
+.red{
+    color:red;
+}
+input,label{
+    display: block;
+}
+input[type="text"]{
+    margin:auto;
+    width:100%;
+}
+#container{
+    width:60%;
+    margin:auto;
+}
+label{
+    font-size: 0.8em;
+    text-align: left;
+}
+h3{
+    text-align: center;
+}
+#invoiceCheckbox{
+    display: inline-block;
+    border-radius: 5px;
+    width: 10%;
+}
+#invoiceLabel{
+    display: inline-block;
+    width: 80%;
+}
+#submit,#clear{
+    display: inline-block;
+}
+#submit{
+    width: 55%;
+}
+#clear{
+    width: 42%;
+}
+#invoice{
+    visibility: hidden;
+}

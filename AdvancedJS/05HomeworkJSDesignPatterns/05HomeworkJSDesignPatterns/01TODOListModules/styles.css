@@ -1,0 +1,53 @@
+input{
+    display: inline-block;
+    margin: 5px;
+}
+button {
+    display: inline-block;
+    margin: 5px;
+}
+
+section,.items{
+    border: 1px solid black;
+    margin: 5px;
+}
+.line{
+    margin: 0 5px;
+}
+.checkbox{
+    border-radius: 4px;
+}
+
+.section>input,.section>button{
+    position: relative;
+    left: 50%;
+}
+.section>input{
+    width: 35%;
+}
+.section>button{
+    width: 8%;
+}
+
+label{
+    width: 90%;
+    border-bottom: 1px solid black;
+    display: inline-block;
+    line-height: 160%;
+}
+.list{
+    width: 30%;
+    border: 2px solid black;
+    margin: 20px auto;
+}
+.items div:last-of-type label{
+    border: none;
+}
+h1{
+    text-align: center;
+    margin: 5px;
+}
+h2{
+    text-align: right;
+    margin: 5px;
+}

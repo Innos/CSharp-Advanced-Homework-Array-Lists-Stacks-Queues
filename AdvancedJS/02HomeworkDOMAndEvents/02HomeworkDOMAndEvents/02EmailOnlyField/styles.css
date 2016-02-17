@@ -1,0 +1,22 @@
+#wrapper{
+    width: 30%;
+}
+
+#textfield{
+    display: block;
+    width: 100%;
+    font-size: 1.5em;
+}
+
+#checker{
+    border: 1px solid gray;
+    display: block;
+    width: 100%;
+    font-size: 1.5em;
+    height: 30px;
+}
+
+#validate{
+    font-size: 1.5em;
+    padding: 5px 10px;
+}
