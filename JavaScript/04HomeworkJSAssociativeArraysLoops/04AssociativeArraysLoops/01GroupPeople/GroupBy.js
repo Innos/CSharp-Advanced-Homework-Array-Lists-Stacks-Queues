@@ -25,24 +25,17 @@ Array.prototype.groupBy = function(prop) {
         }
         groups[key].push(el);
     });
-    return Object.keys(groups).map(function(key) {
-        return {
-            key: "Group " + key,
-            values: groups[key]
-        };
-    });
+    return groups;
 };
 
 function print(obj){
-    obj.forEach(function(el){
-        var group = [];
-        el.values.forEach(function(person){
-            group.push(person.firstName + " " + person.lastName + "(age " + person.age + ")");
-        });
-        console.log(el.key + " : " + "[" + group.join(',') + "]");
-
-
-    });
+	for(var prop in obj)
+	{
+		obj[prop].forEach(function(el){
+			console.log(el);
+		})
+	}
+    
 }
 
 var result = people.groupBy('firstName');
