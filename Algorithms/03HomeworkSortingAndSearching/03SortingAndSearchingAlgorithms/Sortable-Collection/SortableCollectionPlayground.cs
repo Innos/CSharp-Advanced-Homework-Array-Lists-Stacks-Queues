@@ -1,6 +1,7 @@
 ﻿namespace Sortable_Collection
 {
     using System;
+    using System.Runtime.CompilerServices;
 
     using Sortable_Collection.Contracts;
     using Sortable_Collection.Sorters;
@@ -24,15 +25,18 @@
                 array[i] = Random.Next(MinValue, MaxValue);
             }
 
+            var collection = new SortableCollection<int>(array);
+            Console.WriteLine("Original:");
+            Console.WriteLine(collection);
+
             var collectionToSort = new SortableCollection<int>(array);
             collectionToSort.Sort(new BucketSorter { Max = MaxValue, Min = MinValue });
 
+            Console.WriteLine("Bucket Sort:");
             Console.WriteLine(collectionToSort);
 
-            var collection = new SortableCollection<int>(2, -1, 5, 0, -3);
-            Console.WriteLine(collection);
-
             collection.Sort(TestSorter);
+            Console.WriteLine("Test Sort({0}):", TestSorter.GetType().Name);
             Console.WriteLine(collection);
 
             // shuffle tests

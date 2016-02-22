@@ -9,7 +9,7 @@
     {
         public void Sort(List<T> collection)
         {
-            // important to note the implementation requires input in the form  -> the collection, the first element and the length of the collection (NOT the last element) 
+            // important to note the signature requires input in the form -> (collection, firstIndex, collectionLength(NOT the last element)) 
             this.InPlaceMergeSort(collection, 0, collection.Count);
         }
 
@@ -20,39 +20,40 @@
             collection[b] = temp;
         }
 
+        // main method gets recursively called multiple times
         private void InPlaceMergeSort(List<T> collection, int start, int end)
         {
-            int mid;
-            int workingStart1;
-            int workingStart2;
             if (end - start > 1)
             {
-                mid = start + ((end - start) / 2);
-                workingStart2 = start + end - mid;
+                int mid = start + ((end - start) / 2);
+                int workingStart2 = start + end - mid;
 
-                // the last half contains sorted elements
+                // choose the first half of the current collection and sorted with recursion
                 this.SortWorkingArea(collection, start, mid, workingStart2);
+
+                // this while is for merging the unsorted and sorted part (it's only called for pieces bigger than 2 elements)
                 while (workingStart2 - start > 2)
                 {
-                    workingStart1 = workingStart2;
+                    int workingStart1 = workingStart2;
                     workingStart2 = start + ((workingStart1 - start + 1) / 2);
 
-                    // the first half of the previous working area contains sorted elements
+                    // a this point half the collection is sorted, we sort the 3rd quarter with this
                     this.SortWorkingArea(collection, workingStart2, workingStart1, start);
                     this.Merge(collection, start, start + workingStart1 - workingStart2, workingStart1, end, workingStart2);
                 }
 
-                for (workingStart1 = workingStart2; workingStart1 > start; workingStart1--)
+                // this is reversed Insertion Sort (the quarter collection(i.e. the unsorted part) gets sorted into the main one with this)
+                for (int mainElement = workingStart2; mainElement > start; mainElement--)
                 {
-                    for (mid = workingStart1; mid < end && collection[mid].CompareTo(collection[mid - 1]) < 0; mid++)
+                    for (int subElement = mainElement; subElement < end && collection[subElement].CompareTo(collection[subElement - 1]) < 0; subElement++)
                     {
-                        Swap(collection, mid, mid - 1);
+                        Swap(collection, subElement, subElement - 1);
                     }
                 }
             }
         }
 
-        // merge 2 sorted subarrays in place
+        // merge 2 sorted subarrays in place by taking 3/4 ths and repouring them in the array while sorting them
         private void Merge(List<T> collection, int start1, int end1, int start2, int end2, int workingStart)
         {
             while (start1 < end1 && start2 < end2)
@@ -71,7 +72,7 @@
             }
         }
 
-        // sorts a subarray and exchanges it with the working area
+        // recursively sorts an area and exchanges it with the working area
         private void SortWorkingArea(List<T> collection, int start, int end, int workingStart)
         {
             if (end - start > 1)
@@ -79,14 +80,9 @@
                 int mid = start + ((end - start) / 2);
                 this.InPlaceMergeSort(collection, start, mid);
                 this.InPlaceMergeSort(collection, mid, end);
+
+                // the merge ensures that the sorted part is exchanged (ex. we have parts A and B(working area), the merge sorts A and exchanges it with B at the same time) 
                 this.Merge(collection, start, mid, mid, end, workingStart);
-            }
-            else
-            {
-                while (start < end)
-                {
-                    Swap(collection, start++, workingStart++);
-                }
             }
         }
     }
