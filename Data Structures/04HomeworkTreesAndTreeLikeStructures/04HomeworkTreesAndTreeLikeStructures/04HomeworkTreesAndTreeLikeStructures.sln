@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01PlayWithTrees", "01PlayWithTrees\01PlayWithTrees.csproj", "{F3C86D4D-1CAB-40D1-B640-4427C9DC1C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02TraverseDirectories", "02TraverseDirectories\02TraverseDirectories.csproj", "{0C6FE187-8BD8-41A5-B9F1-2DBE72CFAD47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03CalculateArithmeticExpression", "03CalculateArithmeticExpression\03CalculateArithmeticExpression.csproj", "{54E0C927-D301-421C-AEF3-BBB58570D8F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C86D4D-1CAB-40D1-B640-4427C9DC1C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C86D4D-1CAB-40D1-B640-4427C9DC1C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C86D4D-1CAB-40D1-B640-4427C9DC1C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C86D4D-1CAB-40D1-B640-4427C9DC1C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6FE187-8BD8-41A5-B9F1-2DBE72CFAD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6FE187-8BD8-41A5-B9F1-2DBE72CFAD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6FE187-8BD8-41A5-B9F1-2DBE72CFAD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6FE187-8BD8-41A5-B9F1-2DBE72CFAD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E0C927-D301-421C-AEF3-BBB58570D8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E0C927-D301-421C-AEF3-BBB58570D8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E0C927-D301-421C-AEF3-BBB58570D8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E0C927-D301-421C-AEF3-BBB58570D8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
