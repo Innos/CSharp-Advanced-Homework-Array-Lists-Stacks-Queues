@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Poll</title>
+    <script src="https://code.jquery.com/jquery-2.2.1.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="wrapper">
+
+    <h1>Quiz:</h1>
+    <div id="question1">
+        <p>Who is the most famous person in SoftUni:</p>
+        <input type="radio" id="Nakov" name="famous" value="Nakov">
+        <label for="Nakov">Nakov</label>
+        <input type="radio" id="Pesho" name="famous" value="Pesho">
+        <label for="Pesho">Pesho</label>
+        <input type="radio" id="Alex" name="famous" value="Alex">
+        <label for="Alex">Alex</label>
+        <input type="radio" id="RandomGuy" name="famous" value="RandomGuy">
+        <label for="RandomGuy">Random Guy</label>
+    </div>
+
+    <div id="question2">
+        <p>What subject is not part of the Fundamentals Module:</p>
+        <input type="radio" id="DataStructures" name="fundamentals" value="DataStructures">
+        <label for="DataStructures">Data Structures</label>
+        <input type="radio" id="HighQualityCode" name="fundamentals" value="High Quality Code">
+        <label for="HighQualityCode">High Quality Code</label>
+        <input type="radio" id="ObjectOrientedProgramming" name="fundamentals" value="ObjectOrientedProgramming">
+        <label for="ObjectOrientedProgramming">Object Oriented Programming</label>
+        <input type="radio" id="AdvancedCSharp" name="fundamentals" value="AdvancedCSharp">
+        <label for="AdvancedCSharp">Advanced C#</label>
+    </div>
+
+    <div id="question3">
+        <p>What's the name of the current course you're in:</p>
+        <input type="radio" id="AdvancedJS" name="frontend" value="AdvancedJS">
+        <label for="AdvancedJS">Advanced JS</label>
+        <input type="radio" id="JSBasics" name="frontend" value="JSBasics">
+        <label for="JSBasics">JS Basics</label>
+        <input type="radio" id="WebFundamentals" name="frontend" value="WebFundamentals">
+        <label for="WebFundamentals">Web Fundamentals</label>
+        <input type="radio" id="JSApplications" name="frontend" value="JSApplications">
+        <label for="JSApplications">JS Applications</label>
+    </div>
+
+    <button id="submit">Submit</button>
+
+    <button id="clear">Clear Storage</button>
+
+    <p id="timeLeft">Time Left: <span id="timer"></span></p>
+
+</div>
+<script src="Poll.js"></script>
+</body>
+</html>

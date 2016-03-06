@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Insertion</title>
+    <script src="https://code.jquery.com/jquery-2.2.1.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <div id="1">Test1</div>
+    <div id="2">Test2</div>
+    <div id="3">Test3</div>
+    <div id="4">Test4</div>
+    <div id="5">Test5</div>
+</div>
+<script>
+
+    var element = $("#3");
+    var newDiv = $("<div>").addClass("inserted").text("Inserted");
+    var newDiv2 = newDiv.clone();
+
+    //insert before
+    element.before(newDiv);
+    //insert after
+    element.after(newDiv2);
+
+</script>
+</body>
+</html>

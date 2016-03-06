@@ -1,0 +1,48 @@
+section{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    margin: auto;
+    text-align: center;
+    margin-left: 3%;
+}
+h1{
+    font-size: 3em;
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+
+#towns,#countries{
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+#townsHeading{
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 0 15px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    background-color: #F0F0F0;
+    border: 1px solid gray;
+}
+
+li:hover{
+    background-color: cornflowerblue;
+}
+#left li{
+    cursor: pointer;
+}
+#countryEditOptions,#townEditOptions{
+    display: none;
+}

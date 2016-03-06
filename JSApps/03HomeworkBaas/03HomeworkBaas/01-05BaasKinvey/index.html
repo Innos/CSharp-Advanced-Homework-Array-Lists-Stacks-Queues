@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BaasKinvey</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="wrapper">
+    <section id="left">
+        <h1>Countries</h1>
+
+        <p>Selecting a country will display all towns associated with it</p>
+
+        <div id="countries"></div>
+        <div id="countryButtons">
+            <div id="countryAddContainer">
+                <input id="countryAddInput" placeholder="Country to add">
+                <button id="countryAdd">Add</button>
+            </div>
+            <div id="countryEditContainer">
+                <input id="countryEditInput" placeholder="Country to edit">
+                <button id="countryEdit">Edit</button>
+            </div>
+            <div id="countryEditOptions">
+                <input id="countryEditName" placeholder="Country name">
+                <button id="countryEditConfirm">Save Changes</button>
+            </div>
+            <div id="countryDeleteContainer">
+                <input id="countryDeleteInput" placeholder="Country to delete">
+                <button id="countryDelete">Delete</button>
+            </div>
+        </div>
+    </section>
+    <section id="right">
+        <h1 id="townsHeading">Towns</h1>
+
+        <div id="towns"></div>
+        <div id="townButtons">
+
+            <div id="townAddContainer">
+                <input id="townAddName" placeholder="Town name">
+                <input id="townAddCountry" placeholder="Town's Country">
+                <button id="townAdd">Add</button>
+            </div>
+            <div id="townEditContainer">
+                <input id="townEditInput" placeholder="Town to edit">
+                <button id="townEdit">Edit</button>
+            </div>
+            <div id="townEditOptions">
+                <input id="townEditName" placeholder="Town name">
+                <input id="townEditCountry" placeholder="Town's country">
+                <button id="townEditConfirm">Save Changes</button>
+            </div>
+            <div id="townDeleteContainer">
+                <input id="townDeleteInput" placeholder="Town to delete">
+                <button id="townDelete">Delete</button>
+            </div>
+        </div>
+    </section>
+</div>
+<script src="libs/requirejs/require.js" data-main="app"></script>
+</body>
+</html>
