@@ -8,7 +8,7 @@ namespace _02TraverseDirectories
         public static void Main(string[] args)
         {
             //Some folders in C:\Windows require permissions to be traversed, so just change the folder here with one you want traversed
-            string path = @"G:\SoftUni\Homework\Data Structures\04HomeworkTreesAndTreeLikeStructures";
+            string path = @"E:\Soft Uni\Homework\Data Structures\04HomeworkTreesAndTreeLikeStructures\04HomeworkTreesAndTreeLikeStructures";
 
 
             DirectoryInfo current = new DirectoryInfo(path);
