@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01FindTheRoot", "01FindTheRoot\01FindTheRoot.csproj", "{3A14D223-CC0B-4BF3-B656-04D4EDA8ABC5}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03RideTheHorse", "03RideTheHorse\03RideTheHorse.csproj", "{66B7964D-BDCD-4461-966C-C929CF6B8A30}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04LongestPathInATree", "04LongestPathInATree\04LongestPathInATree.csproj", "{4843C00A-728E-4CDD-B772-BB05B6665D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Sorting", "05Sorting\05Sorting.csproj", "{84DD9B2C-63C3-4649-B614-59DE46BA4E5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4843C00A-728E-4CDD-B772-BB05B6665D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4843C00A-728E-4CDD-B772-BB05B6665D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4843C00A-728E-4CDD-B772-BB05B6665D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DD9B2C-63C3-4649-B614-59DE46BA4E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DD9B2C-63C3-4649-B614-59DE46BA4E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DD9B2C-63C3-4649-B614-59DE46BA4E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DD9B2C-63C3-4649-B614-59DE46BA4E5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
