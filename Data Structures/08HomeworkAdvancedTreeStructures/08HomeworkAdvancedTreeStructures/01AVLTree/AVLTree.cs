@@ -1,4 +1,4 @@
-﻿namespace _04_05BalancedOrderedSet
+﻿namespace _01AVLTree
 {
     using System;
     using System.Collections;
@@ -317,7 +317,7 @@
                     }
                     node = node.Parent;
                 }
-            }           
+            }
         }
 
         private void RotateLeft(Node<T> node)

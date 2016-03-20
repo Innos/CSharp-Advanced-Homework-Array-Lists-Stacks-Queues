@@ -1,4 +1,4 @@
-﻿namespace _04_05BalancedOrderedSet
+﻿namespace _02RangeInTree
 {
     using System;
     using System.Collections;
@@ -124,6 +124,31 @@
             this.Count--;
 
             return true;
+        }
+
+        public IEnumerable<T> FindRange(T start, T end)
+        {
+            List<T> range = new List<T>();
+            InOrderDfsRange(this.root,start, end, range);
+            return range;
+        }
+
+        private void InOrderDfsRange(Node<T> node, T start, T end, List<T> items)
+        {
+            if (node.LeftChild != null && node.LeftChild.Value.CompareTo(start) >= 0)
+            {
+                InOrderDfsRange(node.LeftChild,start,end,items);
+            }
+
+            if (node.Value.CompareTo(start) >= 0 && node.Value.CompareTo(end) <= 0)
+            {
+                items.Add(node.Value);
+            }          
+
+            if (node.RightChild != null && node.RightChild.Value.CompareTo(end) <= 0)
+            {
+                InOrderDfsRange(node.RightChild,start,end,items);
+            }
         }
 
         public bool Contains(T item)
@@ -317,7 +342,7 @@
                     }
                     node = node.Parent;
                 }
-            }           
+            }
         }
 
         private void RotateLeft(Node<T> node)
