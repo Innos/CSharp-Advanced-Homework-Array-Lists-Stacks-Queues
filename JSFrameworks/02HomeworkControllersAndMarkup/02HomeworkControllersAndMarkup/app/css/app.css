@@ -1,0 +1,27 @@
+.image {
+    width: 100px;
+}
+div{
+    display: block;
+}
+table {
+    border-collapse: collapse;
+}
+
+.block{
+    display: block;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 0 5px;
+}
+
+fieldset {
+    width: 50%;
+}
+
+li {
+    display: inline-block;
+}
