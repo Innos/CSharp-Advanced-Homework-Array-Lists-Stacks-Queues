@@ -9,15 +9,17 @@ angular.module("videoApp.Home", ['ngRoute', 'myFilters'])
     }])
     .controller('HomeController', ['$scope', 'videos', function ($scope, videos) {
 
-        $scope.createLengthSort = function () {
-            $scope.currentSort = ["length.hours", "length.minutes", "length.seconds"]
-        };
-
         $scope.videos = videos.getVideos();
+		
+		console.log($scope.videos[0].date);
 
         $scope.clearFilter = function () {
             this.currentFilter = undefined;
         };
+		
+		$scope.show = function(videodate){
+			console.log(videodate);
+		}
 
 
     }]);

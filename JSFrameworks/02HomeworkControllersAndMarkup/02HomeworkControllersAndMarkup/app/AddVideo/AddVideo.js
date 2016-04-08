@@ -13,7 +13,7 @@ angular.module("videoApp.AddVideo", ['ngRoute'])
         $scope.submit = function (video) {
             console.log(video.date);
             video.date = video.date ? new Date(video.date) : new Date();
-            video.length = new VideoLength(parseInt(video.hours),parseInt(video.minutes),parseInt(video.seconds));
+            video.length = new VideoLength(video.hours,video.minutes,video.seconds);
             video.subscriberCount = video.subscriberCount || 0;
             video.likes = video.likes || 0;
             video.hasSubtitles = video.hasSubtitles === "true" ? true : false;
