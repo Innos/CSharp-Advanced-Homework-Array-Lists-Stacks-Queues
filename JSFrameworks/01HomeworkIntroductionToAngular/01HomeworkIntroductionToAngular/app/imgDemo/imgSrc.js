@@ -3,7 +3,7 @@
 angular.module('introductionApp.imgSrc',['ngRoute'])
     .config(['$routeProvider', function($routeProvider){
         $routeProvider.when("/imgSrc",{
-            templateUrl:"/imgDemo/imgSrc.html",
+            templateUrl:"imgDemo/imgSrc.html",
             controller:"ImageDemoController"
         });
     }])

@@ -144,6 +144,9 @@ packages/*
 csx/
 *.build.csdef
 
+# BowerDownloads
+bower_components/*
+
 # Windows Store app package directory
 AppPackages/
 
