@@ -1,0 +1,1 @@
+Select Departments.Name FROM Departments;
