@@ -1,0 +1,5 @@
+ELECT g.Name,
+
+CASE
+	WHEN DATEPART(HOUR,g.Start) >= 0 AND DATEPART(HOUR,g.Start) < 12 THEN '
+ FROM Games as g
